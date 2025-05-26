@@ -23,11 +23,8 @@ Geography :
 	 Just need to make notes
 	 Salient features of world geography Forum IAS
 
-
-
-
-
 #GS2
+
 
 
 
