@@ -21,7 +21,7 @@ Society
 Geography :
 	 Class 11 Ncert - you have read already, 
 	 Just need to make notes
-	
+	 Salient features of world geography Forum IAS
 
 
 
