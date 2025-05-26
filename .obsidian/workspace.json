@@ -39,12 +39,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GS1.md",
+                "file": "GS so far.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GS1"
+              "title": "GS so far"
             }
           }
         ],
@@ -80,7 +80,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "tag:#GS1",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -101,7 +101,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -196,10 +197,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "355da3efc23b0477",
+  "active": "2f28ec39103cb512",
   "lastOpenFiles": [
     "Current Affairs.md",
-    "GS1.md",
+    "GS so far.md",
     "Untitled 1.png",
     "Untitled.png",
     "Untitled.md",
