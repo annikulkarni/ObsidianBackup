@@ -1,0 +1,201 @@
+{
+  "main": {
+    "id": "7baab1e2926a4765",
+    "type": "split",
+    "children": [
+      {
+        "id": "f0937245dc3b9120",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "3b86983d793a0260",
+            "type": "leaf",
+            "state": {
+              "type": "release-notes",
+              "state": {
+                "currentVersion": "1.8.10"
+              },
+              "icon": "lucide-book-up",
+              "title": "Release Notes 1.8.10"
+            }
+          },
+          {
+            "id": "a0797fb20afd3e77",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Current Affairs.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Current Affairs"
+            }
+          }
+        ],
+        "currentTab": 1
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "c08a3c9eb57a1a33",
+    "type": "split",
+    "children": [
+      {
+        "id": "036fd9a46e695dad",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "2f11eb86e085ef0f",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "2f28ec39103cb512",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "816a23205be42fd3",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "84255cb1b4455f4b",
+    "type": "split",
+    "children": [
+      {
+        "id": "d3b8c15d0863c4fd",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "4f8cd2e900c632f8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "Changes for EV Startup.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Changes for EV Startup"
+            }
+          },
+          {
+            "id": "5c94402c05024144",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "Changes for EV Startup.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Changes for EV Startup"
+            }
+          },
+          {
+            "id": "e7552b5a8fe97d34",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "53600b78b6fc252f",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "Changes for EV Startup.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Changes for EV Startup"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "a0797fb20afd3e77",
+  "lastOpenFiles": [
+    "Untitled 1.png",
+    "Untitled.png",
+    "Current Affairs.md",
+    "Untitled.md",
+    "Pasted image 20250526182559.png",
+    "Untitled.canvas",
+    "2025-05-18.md",
+    "Syllabus Anthro.md",
+    "OR table.md",
+    "Pasted image 20250415152625.png",
+    "Pasted image 20250415152607.png",
+    "Pasted image 20250415152540.png",
+    "Pasted image 20250415183642.png",
+    "Changes for EV Startup.md"
+  ]
+}
