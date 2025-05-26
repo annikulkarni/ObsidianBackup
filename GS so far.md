@@ -12,7 +12,24 @@ Art and Culture :
 
 World history  :
 	- World History: Patterns of Interaction_ by McDougal Littell. Chapter 22-36
-	- 
+	
 Society 
-	a generic answer with proper structure and subheadings that cover multiple dimensions is good enough
-	 Check for vision material, read NCERT XI, XII
+	->a generic answer with proper structure and subheadings that cover multiple dimensions is good enough
+	 ->Check for vision material, read NCERT XI, XII
+	 -> Current affairs very very important for this
+	 
+Geography :
+	 Class 11 Ncert - you have read already, 
+	 Just need to make notes
+	
+
+
+
+
+
+#GS2
+
+
+
+
+
