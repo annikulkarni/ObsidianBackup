@@ -37,12 +37,14 @@
             "id": "355da3efc23b0477",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Pasted image 20250526182559.png"
+                "file": "UPSC/Untitled.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250526182559"
+              "icon": "lucide-file",
+              "title": "Untitled"
             }
           }
         ],
@@ -196,11 +198,13 @@
   },
   "active": "355da3efc23b0477",
   "lastOpenFiles": [
+    "UPSC/GS1 All Questions.md",
+    "UPSC/Untitled.md",
+    "Pasted image 20250526182559.png",
     "UPSC/Syllabus Anthro.md",
     "UPSC/Current Affairs.md",
     "UPSC/GS so far.md",
     "UPSC",
-    "Pasted image 20250526182559.png",
     "Untitled.png",
     "Untitled 1.png",
     "Untitled.md",
