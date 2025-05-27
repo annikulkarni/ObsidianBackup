@@ -255,3 +255,27 @@
 18. Analyze the linkages between education, skill, and employment in the context of skill development programmes increasing human resource supply. [250 words] 15
 19. What is your opinion on the statement: “The expansion and strengthening of NATO and a stronger US-Europe strategic partnership works well for India”? Provide reasons and examples. [250 words] 15
 20. Discuss the role of the IMO (International Maritime Organisation) in protecting the environment and enhancing maritime safety and security, in light of the statement: “Sea is an important Component of the Cosmos.” [250 words]
+
+### Year 2024
+
+1. Examine the need for electoral reforms as suggested by various committees with particular reference to “one nation — one election” principle.
+2. Explain and distinguish between Lok Adalats and Arbitration Tribunals. Whether they entertain civil as well as criminal cases?
+3. “The growth of cabinet system has practically resulted in the marginalisation of the parliamentary supremacy.” Elucidate.
+4. “The duty of the Comptroller and Auditor General is not merely to ensure the legality of expenditure but also its propriety.” Comment.
+5. Analyse the role of local bodies in providing good governance at local level and bring out the pros and cons of merging the rural local bodies with the urban local bodies.
+6. Public charitable trusts have the potential to make India’s development more inclusive as they relate to certain vital public issues. Comment.
+7. Poverty and malnutrition create a vicious cycle, adversely affecting human capital formation. What steps can be taken to break the cycle?
+8. The Doctrine of Democratic Governance makes it necessary that the public perception of the integrity and commitment of civil servants becomes absolutely positive. Discuss.
+9. ‘The West is fostering India as an alternative to reduce dependence on China’s supply chain and as a strategic ally to counter China’s political and economic dominance.’ Explain this statement with examples.
+10. Critically analyse India’s evolving diplomatic, economic and strategic relations with the Central Asian Republics (CARs) highlighting their increasing significance in regional and global geopolitics.
+
+11. What are the aims and objects of the recently passed and enforced, The Public Examination (Prevention of Unfair Means) Act, 2024? Whether University/State Education Board examinations, too, are covered under the Act?
+12. Right to privacy is intrinsic to life and personal liberty and is inherently protected under Article 21 of the constitution. Explain. In this reference discuss the law relating to D.N.A. testing of a child in the womb to establish its paternity.
+13. What changes has the Union Government recently introduced in the domain of Centre-State relations? Suggest measures to be adopted to build the trust between the Centre and the States and for strengthening federalism.
+14. Explain the reasons for the growth of public interest litigation in India. As a result of it, has the Indian Supreme Court emerged as the world’s most powerful judiciary?
+15. Discuss India as a secular state and compare with the secular principles of the US constitution.
+16. The Citizens’ Charter has been a landmark initiative in ensuring citizen-centric administration. But it is yet to reach its full potential. Identify the factors hindering the realisation of its promise and suggest measures to overcome them.
+17. In a crucial domain like the public healthcare system, the Indian State should play a vital role to contain the adverse impact of marketisation of the system. Suggest some measures through which the State can enhance the reach of public healthcare at the grassroots level.
+18. e-Governance is not just about the routine application of digital technology in service delivery process. It is as much about multifarious interactions for ensuring transparency and accountability. In this context evaluate the role of the ‘Interactive Service Model’ of e-governance.
+19. ‘Terrorism has become a significant threat to global peace and security.’ Evaluate the effectiveness of the United Nations Security Council’s Counter Terrorism Committee (CTC) and its associated bodies in addressing and mitigating this threat at the international level.
+20. Discuss the geopolitical and geostrategic importance of Maldives for India with a focus on global trade and energy flows. Further also discuss how this relationship affects India’s maritime security and regional stability amidst international competition.

@@ -149,3 +149,27 @@
 18. The Intergovernmental Panel on Climate Change (IPCC) predicts a global sea level rise of about one meter by 2100. Discuss the potential impacts on India and other countries in the Indian Ocean region comprehensively. [150 words, 15 marks]
 19. What are the key internal security challenges confronting India? Outline the roles of Central Intelligence and Investigative Agencies tasked with addressing these threats comprehensively. [150 words, 10 marks]
 20. Identify the primary sources of terror funding in India and discuss the measures being taken to curb these sources effectively. Also, elaborate on the goals and objectives of the ‘No Money for Terror (NMFT)’ Conference held in New Delhi in November 2022 comprehensively. [150 words, 15 marks]
+
+### Year 2024
+
+1. Examine the pattern and trend of public expenditure on social services in the post-reforms period in India. To what extent has this been in consonance with achieving the objective of inclusive growth?
+2. What are the causes of persistent high food inflation in India? Comment on the effectiveness of the monetary policy of the RBI to control this type of inflation.
+3. What were the factors responsible for the successful implementation of land reforms in some parts of the country? Elaborate.
+4. Explain the role of millets for ensuring health and nutritional security in India.
+5. What is the present world scenario of intellectual property rights with respect to life materials? Although India is second in the world to file patents, still only a few have been commercialized. Explain the reasons behind this less commercialization.
+6. What is the technology being employed for electronic toll collection on highways? What are its advantages and limitations? What are the proposed changes that will make this process seamless? Would this transition carry any potential hazards?
+7. Industrial pollution of river water is a significant environmental issue in India. Discuss the various mitigation measures to deal with this problem and also the government’s initiatives in this regard.
+8. What role do environmental NGOs and activists play in influencing Environmental Impact Assessment (EIA) outcomes for major projects in India? Cite four examples with all important details.
+9. Explain how narco-terrorism has emerged as a serious threat across the country. Suggest suitable measures to counter narco-terrorism.
+10. Describe the context and salient features of the Digital Personal Data Protection Act, 2023.
+
+11. Discuss the merits and demerits of the four ‘Labour Codes’ in the context of labour market reforms in India. What has been the progress so far in this regard?
+12. What is the need for expanding the regional air connectivity in India? In this context, discuss the government’s UDAN Scheme and its achievements.
+13. What are the major challenges faced by the Indian irrigation system in recent times? State the measures taken by the government for efficient irrigation management.
+14. Elucidate the importance of buffer stocks for stabilizing agricultural prices in India. What are the challenges associated with the storage of buffer stock? Discuss.
+15. The world is facing an acute shortage of clean and safe freshwater. What are the alternative technologies which can solve this crisis? Briefly discuss any three such technologies citing their key merits and demerits.
+16. What are asteroids? How real is the threat of them causing extinction of life? What strategies have been developed to prevent such a catastrophe?
+17. What is disaster resilience? How is it determined? Describe various elements of a resilience framework. Also mention the global targets of the Sendai Framework for Disaster Risk Reduction (2015-2030).
+18. Flooding in urban areas is an emerging climate-induced disaster. Discuss the causes of this disaster. Mention the features of two such major floods in the last two decades in India. Describe the policies and frameworks in India that aim at tackling such floods.
+19. India has a long and troubled border with China and Pakistan fraught with contentious issues. Examine the conflicting issues and security challenges along the border. Also give out the development being undertaken in these areas under the Border Area Development Programme (BADP) and Border Infrastructure and Management (BIM) Scheme.
+20. Social media and encrypting messaging services pose a serious security challenge. What measures have been adopted at various levels to address the security implications of social media? Also suggest any other remedies to address the problem.
