@@ -6,7 +6,27 @@
       "id": "pBOSDu5MMCUpt_asg7VO0",
       "name": "",
       "value": "#c294cc"
+    },
+    {
+      "id": "gblBc7XcaeE4_EFh7juRX",
+      "name": "",
+      "value": "#b26262"
+    },
+    {
+      "id": "nc1CCBLhk7T_fJnHTy6ME",
+      "name": "",
+      "value": "#64967a"
+    },
+    {
+      "id": "28SDue3QZLT8kMeg0sjHp",
+      "name": "",
+      "value": "#d3b90d"
     }
   ],
-  "fileColors": []
+  "fileColors": [
+    {
+      "path": "UPSC",
+      "color": "pBOSDu5MMCUpt_asg7VO0"
+    }
+  ]
 }

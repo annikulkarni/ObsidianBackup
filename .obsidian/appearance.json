@@ -1,4 +1,8 @@
 {
-  "cssTheme": "Minimal",
-  "accentColor": "#6299b7"
+  "cssTheme": "Obsidianite",
+  "accentColor": "#6299b7",
+  "textFontFamily": "Verdana",
+  "interfaceFontFamily": "Verdana",
+  "baseFontSize": 14,
+  "theme": "moonstone"
 }
