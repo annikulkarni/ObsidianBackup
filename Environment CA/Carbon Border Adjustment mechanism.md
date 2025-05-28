@@ -14,8 +14,17 @@ EU importers of goods covered by CBAM will register with national authorities wh
 
 EU importers will **declare the emissions** embedded in their imports and **surrender** the corresponding number of certificates each year.
 
+If importers can prove that a **carbon price has already been paid** during the production of the imported goods, the corresponding amount **can be deducted.**
+
 
 Why this came up: The FTA signed between India UK **Excludes** the CBAM tariffs, increased the risk for Indian exporters 
 
+#### CBAM transitional phase (2023 – 2025)
 
- 
+ **On 1 October 2023, the CBAM entered into application in its transitional phase, with the first reporting period for importers ending 31 January 2024.** The gradual phasing in of CBAM allows for a **careful, predictable and proportionate transition for EU and non-EU businesses**, as well as for public authorities.
+
+The CBAM will **initially apply to imports of certain goods and selected precursors** whose production is carbon intensive and at most significant risk of carbon leakage: **cement, iron and steel, aluminium, fertilisers, electricity and hydrogen**
+
+
+Impact on Indian exports
+select indian goods may face 20-35 percent tariffs

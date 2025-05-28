@@ -1,0 +1,3 @@
+- Govt likely to bring motion to impeach Justice Varma
+- Listed in Judges Inquiry Act 1968
+- To take up motion of impeachment it has to be taken up by atleast 100 members from the lok sabha and atleast 50 members from the Rajya sabha 
