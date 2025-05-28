@@ -20,23 +20,8 @@
               "icon": "lucide-file",
               "title": "GS1 All Questions"
             }
-          },
-          {
-            "id": "5dedc4643a373a08",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "+ asdfasdfd.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "+ asdfasdfd"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -201,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "5dedc4643a373a08",
+  "active": "2f11eb86e085ef0f",
   "lastOpenFiles": [
     "+ asdfasdfd.md",
     "UPSC/GS1 All Questions.md",
