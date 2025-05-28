@@ -1,3 +1,6 @@
-- Govt likely to bring motion to impeach Justice Varma
+- Govt likely to bring motion to impeach Justice Varma Former Judge of delhi high court, currently in allahabad high court no work assigned
 - Listed in Judges Inquiry Act 1968
 - To take up motion of impeachment it has to be taken up by atleast 100 members from the lok sabha and atleast 50 members from the Rajya sabha 
+- Once the motion is constituted the speaker/ chairman has to constitute a committe of three memebrs
+	- CJI or judge of SC, Chief justice of any high court, and person who in the opinion of speaker is a distinguished jurist, committee need to render him guilty 
+- atleast 2/3rd majority, present and voting and 50% of total membership of the both the houses
