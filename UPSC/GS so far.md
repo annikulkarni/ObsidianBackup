@@ -1,7 +1,7 @@
 
 #GS1 
 Modern :
-	 -> Read Spectrum
+	 ->Read Spectrum
 	 -> Need to make notes
 
 Art and Culture :  
