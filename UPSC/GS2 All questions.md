@@ -120,7 +120,7 @@
 
 ### Year 2018
 
-1. Discuss the need for safeguarding Indian art heritage. [150 words] 10
+1. Safeguarding Indian heritage is need for the moment. Discuss [150 words] 10
 2. Assess the importance of accounts of Chinese and Arab travellers in reconstructing the history of India. [150 words] 10
 3. Throw light on the significance of Mahatma Gandhi’s thoughts in the present times. [150 words] 10
 4. Why is the Indian Regional Navigational Satellite System (IRNSS) needed? How does it help in navigation? [150 words] 10

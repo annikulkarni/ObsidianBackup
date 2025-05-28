@@ -156,6 +156,27 @@
 19. Data security has assumed significant importance in the digitized world due to rising cyber crimes. The Justice B. N. Srikrishna Committee Report addresses issues related to data security. What, in your view, are the strengths and weaknesses of the Report relating to protection of personal data in cyber space? (250 words)
 20. India’s proximity to two of the world’s biggest illicit opium-growing states has enhanced her internal security concerns. Explain the linkages between drug trafficking and other illicit activities such as gunrunning, money laundering and human trafficking. What counter-measures should be taken to prevent the same? (250 words)
 
+21. Safeguarding Indian heritage is need for the moment. Discuss [150 words] 10
+22. Assess the importance of accounts of Chinese and Arab travellers in reconstructing the history of India. [150 words] 10
+23. Throw light on the significance of Mahatma Gandhi’s thoughts in the present times. [150 words] 10
+24. Why is the Indian Regional Navigational Satellite System (IRNSS) needed? How does it help in navigation? [150 words] 10
+25. Why is India taking a keen interest in the resources of the Arctic Region? [150 words] 10
+26. Define mantle plume and explain its role in plate tectonics. [150 words] 10
+27. What are the consequences of the spreading of ‘Dead Zones’ on the marine ecosystem? [150 words] 10
+28. Comment: “The caste system is assuming new identities and associational forms. Hence, it cannot be eradicated in India.” [150 words] 10
+29. Explain why poverty still exists in India despite various government programmes for its eradication. [150 words] 10
+30. How is the Indian concept of secularism different from the Western model? Discuss. [150 words] 10
+31. Discuss how the Bhakti movement received a remarkable re-orientation with the advent of Sri Chaitanya Mahaprabhu. [250 words] 15
+32. Discuss whether the formation of new states in recent times is beneficial for India’s economy. [250 words] 15
+33. Why was indentured labour taken by the British from India to other colonies? Have they preserved their cultural identity there? [250 words] 15
+34. How can the water harvesting system be made effective in urban areas as the ideal solution for depleting groundwater resources in India? [250 words] 15
+35. Define the blue revolution and explain the problems and strategies for pisciculture development in India. [250 words] 15
+36. What is the significance of Industrial Corridors in India? Identify them and explain their main characteristics. [250 words] 15
+37. Mention core strategies for transforming aspirational districts in India and explain the nature of convergence, collaboration, and competition for its success. [250 words] 15
+38. Substantiate: “Women’s movement in India has not addressed the issues of women of lower social strata.” [250 words] 15
+39. Elucidate: “Globalization promotes cultural homogenization, but cultural specificities appear strengthened in Indian society.” [250 words] 15
+40. Argue: “Communalism arises either due to power struggle or relative deprivation.” Provide suitable illustrations. [250 words] 15
+
 ---
 
 ### Year 2019
