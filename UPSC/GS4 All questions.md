@@ -467,29 +467,96 @@
 
 ### Year 2021
 
-#### Section A
+### SECTION—A
 
-1. (a) Explain the difference between computing methodology of India’s Gross Domestic Product (GDP) before the year 2015 and after the year 2015. (150 words) 10
-2. (b) Distinguish between Capital Budget and Revenue Budget. Explain the components of both these Budgets. (150 words) 10
-3. (a) How did land reforms in some parts of the country help to improve the socio-economic conditions of marginal and small farmers? (150 words) 10
-4. (b) How and to what extent would micro-irrigation help in solving India’s water crisis? (150 words) 10
-5. (a) How is S-400 air defence system technically superior to any other system presently available in the world? (150 words) 10
-6. (b) Explain the purpose of the Green Grid Initiative launched at World Leaders Summit of the COP26 UN Climate Change Conference in Glasgow in November, 2021. When was this idea first floated in the International Solar Alliance (ISA)? (150 words) 10
-7. (a) Describe the key points of the revised Global Air Quality Guidelines (AQGs) recently released by the World Health Organisation (WHO). How are these different from its last update in 2005? What changes in India’s National Clean Air Programme are required to achieve these revised standards? (150 words) 10
-8. (b) Discuss about the vulnerability of India to earthquake related hazards. Give examples including the salient features of major disasters caused by earthquakes in different parts of India during the last three decades. (150 words) 10
-9. (a) Discuss how emerging technologies and globalisation contribute to money laundering. Elaborate measures to tackle the problem of money laundering both at national and international levels. (150 words) 10
-10. (b) Keeping in view India’s internal security, analyse the impact of cross-border cyber attacks. Also discuss defensive measures against these sophisticated attacks. (150 words) 10
-11. (a) Do you agree that the Indian economy has recently experienced V-shaped recovery? Give reasons in support of your answer. (250 words) 15
-12. (b) “Investment in infrastructure is essential for more rapid and inclusive economic growth.” Discuss in the light of India’s experience. (250 words) 15
-13. (a) What are the salient features of the National Food Security Act, 2013? How has the Food Security Bill helped in eliminating hunger and malnutrition in India? (250 words) 15
-14. (b) What are the present challenges before crop diversification? How do emerging technologies provide an opportunity for crop diversification? (250 words) 15
-15. (a) What are the research and developmental achievements in applied biotechnology? How will these achievements help to uplift the poorer sections of the society? (250 words) 15
-16. (b) The Nobel Prize in Physics of 2014 was jointly awarded to Akasaki, Amano and Nakamura for the invention of Blue LEDs in 1990s. How has this invention impacted the everyday life of human beings? (250 words) 15
-17. (a) Describe the major outcomes of the 26 session of the Conference of the Parties (COP) to the United Nations Framework Convention on Climate Change (UNFCCC). What are the commitments made by India in this conference? (250 words) 15
-18. (b) Describe the various causes and the effects of landslides. Mention the important components of the National Landslide Risk Management Strategy. (250 words) 15
-19. (a) Analyse the multidimensional challenges posed by external state and non-state actors, to the internal security of India. Also discuss measures required to be taken to combat these threats. (250 words) 15
-20. (b) Analyse the complexity and intensity of terrorism, its causes, linkages and obnoxious nexus. Also suggest measures required to be taken to eradicate the menace of terrorism. (250 words) 15
+1. (a) Identify five ethical traits on which one can plot the performance of a civil servant. Justify their inclusion in the matrix. (Answer in 150 words) [10 marks]
+    
+    (b) Identify ten essential values that are needed to be an effective public servant. Describe the ways and means to prevent non-ethical behaviour in the public servants. (Answer in 150 words) [10 marks]
+    
+2. (a) Impact of digital technology as reliable source of input for rational decision making is a debatable issue. Critically evaluate with suitable example. (Answer in 150 words) [10 marks]
+    
+    (b) Besides domain knowledge, a public official needs innovativeness and creativity of a high order as well, while resolving ethical dilemmas. Discuss with suitable example. (Answer in 150 words) [10 marks]
+    
+3. What does each of the following quotations mean to you?
+    
+    (a) “Every work has got to pass through hundreds of difficulties before succeeding. Those that persevere will see the light, sooner or later.” —Swami Vivekananda (Answer in 150 words) [10 marks]
+    
+    (b) “We can never obtain peace in the outer world until and unless we obtain peace within ourselves.” —Dalai Lama (Answer in 150 words) [10 marks]
+    
+    (c) “Life doesn’t make any sense without interdependence. We need each other, and the sooner we learn that, it is better for us all.” —Erik Erikson (Answer in 150 words) [10 marks]
+    
+4. (a) Attitude is an important component that goes as input in the development of human being. How to build a suitable attitude needed for a public servant? (Answer in 150 words) [10 marks]
+    
+    (b) In case of crisis of conscience does emotional intelligence help to overcome the same without compromising the ethical or moral stand that you are likely to follow? Critically examine. (Answer in 150 words) [10 marks]
+    
+5. (a) “Refugees should not be turned back to the country where they would face persecution or human right violation.” Examine the statement with reference to ethical dimension being violated by the nation claiming to be democratic with open society. (Answer in 150 words) [10 marks]
+    
+    (b) Should impartial and being non-partisan be considered as indispensable qualities to make a successful civil servant? Discuss with illustrations. (Answer in 150 words) [10 marks]
+    
+6. (a) An independent and empowered social audit mechanism is an absolute must in every sphere of public service, including judiciary, to ensure performance, accountability and ethical conduct. Elaborate. (Answer in 150 words) [10 marks]
+    
+    (b) “Integrity is a value that empowers the human being.” Justify with suitable illustration. (Answer in 150 words) [10 marks]
+    
 
+---
+
+### SECTION—B
+
+7. Sunil is a young civil servant and has a reputation for his competence, integrity, dedication and relentless pursuit of difficult and onerous jobs. Considering his profile, he was picked up by his bosses to handle a very challenging and sensitive assignment. He was posted in a tribal dominated district notorious for illegal sand mining. Excavating sand from river belt and transporting through trucks and selling them in black market was rampant. This illegal sand mining mafia was operating with the support of local functionaries and tribal musclemen who in turn were bribing selected poor tribals and had kept the tribals under fear and intimidation.
+    
+    Sunil being a sharp and energetic officer immediately grasped the ground realities and the modus operandi followed by the mafia through their devious and dubious mechanism. On making inquiries, he gathered that some of their own office employees are in hand and glove with them and have developed close unholy nexus. Sunil initiated stringent action against them and started conducting raids on their illegal operations of movement of trucks filled with sand. The mafia got rattled as not many officers in the past had taken such strong steps against the mafia. Some of the office employees who were allegedly close to mafia informed them that the officer is determined to clean up the mafia’s illegal sand mining operations in that district and may cause them irreparable damage.
+    
+    The mafia turned hostile and launched counter-offensive. The tribal musclemen and mafia started threatening him with dire consequences. His family (wife and old mother) were stalked and were under virtual surveillance and thus causing mental torture, agony and stress to all of them. The matter assumed serious proportions when a muscleman came to his office and threatened him to stop raids, etc., otherwise, his fate will not be different than some of his predecessors (ten years back one officer was killed by the mafia).
+    
+    (a) Identify the different options available to Sunil in attending to this situation.
+    
+    (b) Critically evaluate each of the options listed by you.
+    
+    (c) Which of the above, do you think, would be the most appropriate for Sunil to adopt and why? (Answer in 250 words) [20 marks]
+    
+8. You are Vice Principal of a degree college in one of the middle-class towns. Principal has recently retired and management is looking for his replacement. There are also feelers that the management may promote you as Principal. In the meantime, during annual examination the flying squad which came from the university caught two students red-handed involving in unfair means. A senior lecturer of the college was personally helping these students in this act. This senior lecturer also happens to be close to the management. One of the students was son of a local politician who was responsible in getting college affiliated to the present reputed university. The second student was son of a local businessman who has donated maximum funds for running of the college. You immediately informed the management regarding this unfortunate incident. The management told you to resolve the issue with flying squad at any cost. They further said that such incident will not only tarnish the image of the college but also the politician and businessman are very important personalities for the functioning of the college. You were also given hint that your further promotion to Principal depends on your capability in resolving this issue with flying squad. In the meantime, you were intimated by your administrative officer that certain members of the student union are protesting outside the college gate against the senior lecturer and the students involved in this incident and demanding strict action against defaulters.
+    
+    (a) Discuss the ethical issues involved in the case.
+    
+    (b) Critically examine the options available with you as Vice Principal. What option will you adopt and why? (Answer in 250 words) [20 marks]
+    
+9. An elevated corridor is being constructed to reduce traffic congestion in the capital of a particular state. You have been selected as project manager of this prestigious project on your professional competence and experience. The deadline is to complete the project in next two years by 30 June, 2021, since this project is to be inaugurated by the Chief Minister before the elections are announced in the second week of July 2021. While carrying out the surprise inspection by inspecting team, a minor crack was noticed in one of the piers of the elevated corridor possibly due to poor material used. You immediately informed the chief engineer and stopped further work. It was assessed by you that minimum three piers of the elevated corridor have to be demolished and reconstructed. But this process will delay the project minimum by four to six months. But the chief engineer overruled the observation of inspecting team on the ground that it was a minor crack which will not in any way impact the strength and durability of the bridge. He ordered you to overlook the observation of inspecting team and continue working with same speed and tempo. He informed you that the minister does not want any delay as he wants the Chief Minister to inaugurate the elevated corridor before the elections are declared. Also informed you that the contractor is far relative of the minister and he wants him to finish the project. He also gave you hint that your further promotion as additional chief engineer is under consideration with the ministry. However, you strongly felt that the minor crack in the pier of the elevated corridor will adversely affect the health and life of the bridge and therefore it will be very dangerous not to repair the elevated corridor.
+    
+    (a) Under the given conditions, what are the options available to you as a project manager?
+    
+    (b) What are the ethical dilemmas being faced by the project manager?
+    
+    (c) What are the professional challenges likely to be faced by the project manager and his response to overcome such challenges?
+    
+    (d) What can be the consequences of overlooking the observation raised by the inspecting team? (Answer in 250 words) [20 marks]
+    
+10. The coronavirus disease (COVID-19) pandemic has quickly spread to various countries. As on May 8th, 2020, in India 56342 positive cases of corona had been reported. India with a population of more than 1.35 billion had difficulty in controlling the transmission of coronavirus among its population. Multiple strategies became necessary to handle this outbreak. The Ministry of Health and Family Welfare of India raised awareness about this outbreak and to take all necessary actions to control the spread of COVID-19. Indian Government implemented a 55-day lockdown throughout the country to reduce the transmission of the virus. Schools and colleges had shifted to alternative mode of teaching-learning-evaluation and certification. Online mode became popular during these days.
+    
+    India was not prepared for a sudden onslaught of such a crisis due to limited infrastructure in terms of human resource, money and other facilities needed for taking care of this situation. This disease did not spare anybody irrespective of caste, creed, religion on the one hand and ‘have and have not’ on the other. Deficiencies in hospital beds, oxygen cylinders, ambulances, hospital staff and crematorium were the most crucial aspects.
+    
+    You are a hospital administrator in a public hospital at the time when coronavirus had attacked large number of people and patients were pouring into hospital day in and day out.
+    
+    (a) What are your criteria and justification for putting your clinical and non-clinical staff to attend to the patients knowing fully well that it is highly infectious disease and resources and infrastructure are limited?
+    
+    (b) If yours is a private hospital, whether your justification and decision would remain same as that of a public hospital? (Answer in 250 words) [20 marks]
+    
+11. A reputed food product company based in India developed a food product for the international market and started exporting the same after getting necessary approvals. The company announced this achievement and also indicated that soon the product will be made available for the domestic consumers with almost same quality and health benefits. Accordingly, the company got its product approved by the domestic competent authority and launched the product in Indian market. The company could increase its market share over a period of time and earned substantial profit both domestically and internationally. However, the random sample test conducted by inspecting team found the product being sold domestically in variance with the approval obtained from the competent authority. On further investigation, it was also discovered that the food company was not only selling products which were not meeting the health standard of the country but also selling the rejected export products in the domestic market. This episode adversely affected the reputation and profitability of the food company.
+    
+    (a) What action do you visualize should be taken by the competent authority against the food company for violating the laid down domestic food standard and selling rejected export products in domestic market?
+    
+    (b) What course of action is available with the food company to resolve the crisis and bring back its lost reputation?
+    
+    (c) Examine the ethical dilemma involved in the case. (Answer in 250 words) [20 marks]
+    
+12. Pawan is working as an officer in the State Government for the last ten years. As a part of routine transfer, he was posted to another department. He joined in a new office along with five other colleagues. The head of the office was a senior officer conversant with the functioning of the office. As a part of general inquiry, Pawan gathered that his senior officer carries the reputation of being difficult and insensitive person having his own disturbed family life. Initially, all seem to go well. However, after some time Pawan felt that the senior officer was belittling him and at times unreasonable. Whatever suggestions given or views expressed by Pawan in the meetings were summarily rejected and the senior officer would express displeasure in the presence of others. It became a pattern of boss’s style of functioning to show him in bad light highlighting his shortcomings and humiliating publicly. It became apparent that though there are no serious work-related problems/shortcomings, the senior officer was always on one pretext or the other and would scold and shout at him. The continuous harassment and public criticism of Pawan resulted in loss of confidence, self-esteem and equanimity. Pawan realized that his relations with his senior officer are becoming more toxic and due to this, he felt perpetually tensed, anxious and stressed. His mind was occupied with negativity and caused him mental torture, anguish and agony. Eventually, it badly affected his personal and family life. He was no longer joyous, happy and contented even at home. Rather without any reason he would lose his temper with his wife and other family members. The family environment was no longer pleasant and congenial. His wife who was always supportive to him also became a victim of his negativity and hostile behaviour. Due to harassment and humiliation suffering by him in the office, comfort and happiness virtually vanished from his life. Thus it damaged his physical and mental health.
+    
+    (a) What are the options available with Pawan to cope up with the situation?
+    
+    (b) What approach Pawan should adopt for bringing peace, tranquillity and congenial environment in the office and home?
+    
+    (c) As an outsider, what are your suggestions for both boss and subordinate to overcome this situation and for improving the work performance, mental and emotional hygiene?
+    
+    (d) In the above scenario, what type of training would you suggest for officers at various levels in the government offices? (Answer in 250 words) [20 marks]
 ---
 
 ### Year 2022
