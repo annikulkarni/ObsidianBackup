@@ -293,7 +293,6 @@
 8. Distinguish between gender equality, gender equity, and women’s empowerment. Why is it important to take gender concerns into account in programme design and implementation?
 9. Intercaste marriages between castes which have socio-economic parity have increased, to some extent, but this is less true of interreligious marriages. Discuss.
 10. In dealing with socio-economic issues of development, what kind of collaboration between government, NGOs, and private sector would be most productive?
-
 11. “Though the great Cholas are no more yet their name is still remembered with great pride because of their highest achievements in the domain of art and architecture.” Comment.
 12. How far is it correct to say that the First World War was fought essentially for the preservation of balance of power?
 13. How far was the Industrial Revolution in England responsible for the decline of handicrafts and cottage industries in India?
