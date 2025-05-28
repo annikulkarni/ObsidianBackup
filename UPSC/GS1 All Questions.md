@@ -210,27 +210,26 @@
 
 ### Year 2021
 
-1. ‘Constitutional Morality’ is rooted in the Constitution itself and is founded on its essential facets. Explain the doctrine of ‘Constitutional Morality’ with the help of relevant judicial decisions. (150 words)
-2. Discuss the desirability of greater representation to women in the higher judiciary to ensure diversity, equity and inclusiveness. (150 words)
-3. How have the recommendations of the 14th Finance Commission of India enabled the States to improve their fiscal position? (150 words)
-4. To what extent, in your view, the Parliament is able to ensure accountability of the executive in India? (150 words)
-5. “Pressure groups play a vital role in influencing public policy making in India.” Explain how the business associations contribute to public policies. (150 words)
-6. “Besides being a moral imperative of a Welfare State, primary health structure is a necessary precondition for sustainable development.” Analyze. (150 words)
-7. “‘Earn while you learn’ scheme needs to be strengthened to make vocational education and skill training meaningful.” Comment. (150 words)
-8. Can the vicious cycle of gender inequality, poverty and malnutrition be broken through microfinancing of women SHGs? Explain with examples. (150 words)
-9. “If the last few decades were of Asia’s growth story, the next few are expected to be of Africa’s.” In the light of this statement, examine India’s influence in Africa in recent years. (150 words)
-10. “The USA is facing an existential threat in the form of a China, that is much more challenging than the erstwhile Soviet Union.” Explain. (150 words)
-11. The jurisdiction of the Central Bureau of Investigation (CBI) regarding lodging an FIR and conducting probe within a particular State is being questioned by various States. However, the power of the States to withhold consent to the CBI is not absolute. Explain with special reference to the federal character of India. (250 words)
-12. Though the Human Rights Commissions have contributed immensely to the protection of human rights in India, yet they have failed to assert themselves against the mighty and powerful. Analyzing their structural and practical limitations, suggest remedial measures. (250 words)
-13. Analyze the distinguishing features of the notion of Right to Equality in the Constitutions of the USA and India. (250 words)
-14. Explain the constitutional provisions under which Legislative Councils are established. Review the working and current status of Legislative Councils with suitable illustrations. (250 words)
-15. Do Department-related Parliamentary Standing Committees keep the administration on its toes and inspire reverence for parliamentary control? Evaluate the working of such committees with suitable examples. (250 words)
-16. Has digital illiteracy, particularly in rural areas, coupled with lack of Information and Communication Technology (ICT) accessibility hindered socio-economic development? Examine with justification. (250 words)
-17. “Though women in post-Independent India have excelled in various fields, the social attitude towards women and feminist movement has been patriarchal.” Apart from women education and women empowerment schemes, what interventions can help change this milieu? (250 words)
-18. Can Civil Society and Non-Governmental Organizations present an alternative model of public service delivery to benefit the common citizen? Discuss the challenges of this alternative model. (250 words)
-19. Critically examine the aims and objectives of SCO. What importance does it hold for India? (250 words)
-20. The newly tri-nation partnership AUKUS is aimed at countering China’s ambitions in the Indo-Pacific region. Is it going to supersede the existing partnerships in the region? Discuss the strength and impact of AUKUS in the present scenario. (250 words)
-
+1. Evaluate the nature of Bhakti literature and its contribution to Indian culture. [150 words] 10
+2. Trace the rise and growth of socio-religious reform movements with special reference to Young Bengal and Brahmo Samaj. [150 words] 10
+3. Assess the main administrative issues and socio-cultural problems in the integration process of Indian Princely States. [150 words] 10
+4. Differentiate the causes of landslides in the Himalayan region and Western Ghats. [150 words] 10
+5. Despite being part of Gondwanaland, why does India’s mining industry contribute less to its GDP in percentage? Discuss. [150 words] 10
+6. What are the environmental implications of reclaiming water bodies into urban land use? Explain with examples. [150 words] 10
+7. Mention the global occurrence of volcanic eruptions in 2021 and their impact on the regional environment. [150 words] 10
+8. Why is India considered a subcontinent? Elaborate. [150 words] 10
+9. Examine the uniqueness of the tribal knowledge system compared to mainstream knowledge and cultural systems. [150 words] 10
+10. Examine the role of the ‘Gig Economy’ in empowering women in India. [150 words] 10
+11. To what extent did the role of the Moderates prepare a base for the wider freedom movement? Comment. [250 words] 15
+12. Bring out the constructive programmes of Mahatma Gandhi during the Non-Cooperation Movement and Civil Disobedience Movement. [250 words] 15
+13. Evaluate: “There arose a serious challenge to the Democratic State System between the two World Wars.” [250 words] 15
+14. Briefly mention the alignment of major mountain ranges of the world and explain their impact on local weather conditions, with examples. [250 words] 15
+15. How do the melting of Arctic ice and Antarctic glaciers differently affect weather patterns and human activities on Earth? Explain. [250 words] 15
+16. Discuss the multi-dimensional implications of the uneven distribution of mineral oil in the world. [250 words] 15
+17. What are the main socio-economic implications of the development of IT industries in major cities of India? [250 words] 15
+18. Discuss the main objectives of Population Education and measures to achieve them in India. [250 words] 15
+19. What is Cryptocurrency? How does it affect global society? Has it affected Indian society? [250 words] 15
+20. How does Indian society maintain continuity in traditional social values? Enumerate changes taking place. [250 words] 15
 ---
 
 ### Year 2022
