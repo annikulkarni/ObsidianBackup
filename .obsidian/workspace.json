@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "GS so far"
             }
+          },
+          {
+            "id": "fb0097427990d1d6",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Polity CA/Untitled.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Untitled"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -186,8 +201,11 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0797fb20afd3e77",
+  "active": "fb0097427990d1d6",
   "lastOpenFiles": [
+    "Untitled.md",
+    "Polity CA/Untitled.md",
+    "UPSC/GS so far.md",
     "UPSC/GS1 All Questions.md",
     "UPSC/GS4 All questions.md",
     "UPSC/GS3 All questions.md",
@@ -203,7 +221,6 @@
     "Pasted image 20250527173950.png",
     "Pasted image 20250526182559.png",
     "Untitled.png",
-    "UPSC/GS so far.md",
     "UPSC",
     "Untitled 1.png",
     "Untitled.canvas",
