@@ -35,7 +35,8 @@
               "title": "GS2 All questions"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -200,10 +201,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0797fb20afd3e77",
+  "active": "fb0097427990d1d6",
   "lastOpenFiles": [
-    "Science and Tech CA/TR1 Cells.md",
     "Agriculture CA/MSP.md",
+    "Science and Tech CA/TR1 Cells.md",
     "Agriculture CA",
     "Polity CA/Judge Impeachment.md",
     "Economics CA/India’s financial sector reforms.md",
