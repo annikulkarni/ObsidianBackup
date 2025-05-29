@@ -13,26 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Economics CA/India’s financial sector reforms.md",
+                "file": "Agriculture CA/MSP.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "India’s financial sector reforms"
-            }
-          },
-          {
-            "id": "eedbc6f71be687bf",
-            "type": "leaf",
-            "state": {
-              "type": "markdown",
-              "state": {
-                "file": "Untitled 2.md",
-                "mode": "source",
-                "source": false
-              },
-              "icon": "lucide-file",
-              "title": "Untitled 2"
+              "title": "MSP"
             }
           },
           {
@@ -49,8 +35,7 @@
               "title": "GS2 All questions"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -215,8 +200,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "eedbc6f71be687bf",
+  "active": "a0797fb20afd3e77",
   "lastOpenFiles": [
+    "Science and Tech CA/TR1 Cells.md",
+    "Agriculture CA/MSP.md",
+    "Agriculture CA",
+    "Polity CA/Judge Impeachment.md",
     "Economics CA/India’s financial sector reforms.md",
     "Untitled 2.md",
     "Science and Tech CA",
@@ -230,7 +219,6 @@
     "UPSC/GS4 All questions.md",
     "UPSC/GS3 All questions.md",
     "+ asdfasdfd.md",
-    "Polity CA/Judge Impeachment.md",
     "Environment CA/Carbon Border Adjustment mechanism.md",
     "Polity CA",
     "Environment CA",
