@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Polity CA/Deputy Speaker.md",
+                "file": "UPSC/India’s financial sector reforms.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Deputy Speaker"
+              "title": "India’s financial sector reforms"
             }
           },
           {
@@ -200,10 +200,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0797fb20afd3e77",
+  "active": "2f11eb86e085ef0f",
   "lastOpenFiles": [
-    "Polity CA/India’s financial sector reforms.md",
     "Polity CA/Deputy Speaker.md",
+    "UPSC/India’s financial sector reforms.md",
     "Untitled 1.md",
     "UPSC/GS so far.md",
     "UPSC/GS2 All questions.md",
