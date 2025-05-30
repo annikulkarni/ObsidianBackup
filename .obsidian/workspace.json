@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Things to Remember Prelims/Schemes.md",
+                "file": "Things to Remember Prelims/Economics.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Schemes"
+              "title": "Economics"
             }
           }
         ],
@@ -204,6 +204,7 @@
   "active": "fb0097427990d1d6",
   "lastOpenFiles": [
     "Things to Remember Prelims/Facts.md",
+    "Things to Remember Prelims/Economics.md",
     "Things to Remember Prelims/Schemes.md",
     "Things to Remember Prelims/Schemes/Schemes.md",
     "Things to Remember Prelims/Schemes",
