@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Policy Making/Early Childhood care.md",
+                "file": "Things to Remember Prelims/Facts.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Early Childhood care"
+              "title": "Facts"
             }
           }
         ],
@@ -201,11 +201,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb0097427990d1d6",
+  "active": "2f11eb86e085ef0f",
   "lastOpenFiles": [
+    "Policy Making/Early Childhood care.md",
+    "Things to Remember Prelims/Facts.md",
+    "Things to Remember Prelims",
     "Environment CA/Carbon Border Adjustment mechanism.md",
     "Economics CA/India’s financial sector reforms.md",
-    "Policy Making/Early Childhood care.md",
     "UPSC/GS2 All questions.md",
     "Policy Making",
     "Agriculture CA/MSP.md",
