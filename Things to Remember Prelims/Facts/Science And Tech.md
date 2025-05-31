@@ -3,6 +3,7 @@
 	- The Chambaghat site in Himachal pradesh features an **extensive hill** covered with **stromatolites**
 	- Their presence so **high in the Himalayas** tells a story of **tectonic uplift**, where ancient **shallow marine deposits**were pushed up from the **Tethys Sea**
 	- 
+	
 
 
 
