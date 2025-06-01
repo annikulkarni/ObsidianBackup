@@ -20,19 +20,8 @@
               "icon": "lucide-file",
               "title": "MSP"
             }
-          },
-          {
-            "id": "fb0097427990d1d6",
-            "type": "leaf",
-            "state": {
-              "type": "graph",
-              "state": {},
-              "icon": "lucide-git-fork",
-              "title": "Graph view"
-            }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -198,7 +187,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "fb0097427990d1d6",
+  "active": "a0797fb20afd3e77",
   "lastOpenFiles": [
     "UPSC/GS3 All questions.md",
     "UPSC/GS2 All questions.md",
