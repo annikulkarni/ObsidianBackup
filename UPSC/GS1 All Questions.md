@@ -10,14 +10,14 @@
 8. Discuss the contributions of Maulana Abul Kalam Azad to pre- and post-independent India. (200 words)
 9. Analyze the circumstances that led to the Tashkent Agreement in 1966. Discuss the highlights of the Agreement. (200 words)
 10. Critically examine the compulsions which prompted India to play a decisive role in the emergence of Bangladesh. (200 words)
-11. “Latecomer’ Industrial Revolution in Japan involved certain factors that were markedly different from what West had experienced.” Analyze. (200 words)
-12. “Africa was chopped into States artificially created by accidents of European competition.” Analyze. (200 words)
-13. “American Revolution was an economic revolt against mercantilism.” Substantiate. (200 words)
-14. What policy instruments were deployed to contain the Great Economic Depression? (200 words)
-15. Discuss the various social problems which originated out of the speedy process of urbanization in India. (200 words)
-16. “Male membership needs to be encouraged in order to make women’s organization free from gender bias.” Comment. (200 words)
+11. “Latecomer’ Industrial Revolution in Japan involved certain factors that were markedly different from what West had experienced.” Analyze. (200 words) #world_history
+12. “Africa was chopped into States artificially created by accidents of European competition.” Analyze. (200 words) #world_history
+13. “American Revolution was an economic revolt against mercantilism.” Substantiate. (200 words) #world_history
+14. What policy instruments were deployed to contain the Great Economic Depression? (200 words) #world_history
+15. Discuss the various social problems which originated out of the speedy process of urbanization in India. (200 words) 
+16. “Male membership needs to be encouraged in order to make women’s organization free from gender bias.” Comment. (200 words) #women
 17. Critically examine the effect of globalization on the aged population in India. (200 words)
-18. Growing feeling of regionalism is an important factor in generation of demand for a separate State. Discuss. (200 words)
+18. Growing feeling of regionalism is an important factor in generation of demand for a separate State. Discuss. (200 words) 
 19. (a) What do you understand by the theory of ‘continental drift’? Discuss the prominent evidences in its support. (100 words) (b) The recent cyclone on east coast of India was called ‘Phailin’. How are the tropical cyclones named across the world? Elaborate. (100 words)
 20. (a) Bring out the causes for the formation of heat islands in the urban habitat of the world. (100 words) (b) What do you understand by the phenomenon of ‘temperature inversion’ in meteorology? How does it affect weather and the habitants of the place? (100 words)
 21. Major hot deserts in northern hemisphere are located between 20-30 deg N latitudes and on the western side of the continents. Why? (200 words)
@@ -37,9 +37,9 @@
 5. Sufis and medieval mystic saints failed to modify either the religious ideas and practices or the outward structure of Hindu/Muslim societies to any appreciable extent. Comment. (150 words)
 6. Examine critically the various facets of economic policies of the British in India from mid-eighteenth century till independence. (150 words)
 7. In what ways did the naval mutiny prove to be the last nail in the coffin of British colonial aspirations in India? (150 words)
-8. What were the major political, economic and social developments in the world which motivated the anti-colonial struggle in India? (150 words)
-9. What were the events that led to the Suez Crisis in 1956? How did it deal a final blow to Britain’s self-image as a world power? (150 words)
-10. The New Economic Policy — 1921 of Lenin had influenced the policies adopted by India soon after independence. Evaluate. (150 words)
+8. What were the major political, economic and social developments in the world which motivated the anti-colonial struggle in India? (150 words) #world_history
+9. What were the events that led to the Suez Crisis in 1956? How did it deal a final blow to Britain’s self-image as a world power? (150 words) #world_history
+10. The New Economic Policy — 1921 of Lenin had influenced the policies adopted by India soon after independence. Evaluate. (150 words) #world_history
 11. How does patriarchy impact the position of a middle class working woman in India? (150 words)
 12. Why do some of the most prosperous regions of India have an adverse sex ratio for women? Give your arguments. (150 words)
 13. The life cycle of a joint family depends on economic factors rather than social values. Discuss. (150 words)
@@ -65,8 +65,8 @@
 3. How different would have been the achievement of Indian independence without Mahatma Gandhi? Discuss. (200 words)
 4. Mahatma Gandhi and Dr. B.R. Ambedkar, despite having divergent approaches and strategies, had a common goal of amelioration of the downtrodden. Elucidate. (200 words)
 5. It would have been difficult for the Constituent Assembly to complete its historic task of drafting the Constitution for Independent India in just three years but for the experience gained with the Government of India Act, 1935. Discuss. (200 words)
-6. Why did the industrial revolution first occur in England? Discuss the quality of life of the people there during the industrialization. How does it compare with that in India at present? (200 words)
-7. To what extent can Germany be held responsible for causing the two World Wars? Discuss critically. (200 words)
+6. Why did the industrial revolution first occur in England? Discuss the quality of life of the people there during the industrialization. How does it compare with that in India at present? (200 words) #world_history
+7. To what extent can Germany be held responsible for causing the two World Wars? Discuss critically. (200 words) #world_history
 8. Describe any four cultural elements of diversity in India and rate their relative significance in building a national identity. (200 words)
 9. Critically examine whether growing population is the cause of poverty OR poverty is the main cause of population increase in India. (200 words)
 10. How do you explain the statistics that show that the sex ratio in Tribes in India is more favourable to women than the sex ratio among Scheduled Castes? (200 words)

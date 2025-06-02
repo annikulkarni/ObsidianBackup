@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UPSC/GS so far.md",
+                "file": "UPSC/GS1 All Questions.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GS so far"
+              "title": "GS1 All Questions"
             }
           }
         ]
@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#economy",
+                "query": "world history",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,9 +189,9 @@
   },
   "active": "a0797fb20afd3e77",
   "lastOpenFiles": [
-    "UPSC/GS2 All questions.md",
     "UPSC/GS so far.md",
     "UPSC/GS1 All Questions.md",
+    "UPSC/GS2 All questions.md",
     "UPSC/Anthropology/2021.md",
     "UPSC/Anthropology/2019.md",
     "UPSC/Anthropology/2017.md",
