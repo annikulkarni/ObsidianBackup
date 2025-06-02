@@ -19,6 +19,16 @@ Most Crypto Traded
 - Indians traded over **₹1.03 trillion** worth of VDAs on unregulated platforms.
 - Only about **9%** of India’s estimated **₹1.12 trillion** worth of crypto assets are held or traded on **domestic exchanges**.
 
+## **Way forward:**
+
+India must develop clear, **future-ready legislation** that classifies, governs, and monitors Virtual Digital Assets (VDAs) in alignment with global standards (like FATF, IMF). _Eg_: A dedicated **VDA Regulatory Authority** or inclusion under SEBI/RBI oversight can ensure investor protection, AML enforcement, and innovation support.
+
+Encourage **onshore compliance** by lowering tax burdens, supporting innovation sandboxes, and integrating VASPs into India’s formal financial ecosystem. _Eg_: Offering **tax rebates or compliance credits** to VASPs adopting stringent KYC/CFT and cybersecurity norms can enhance trust and reduce offshore migration.
+
+#Science_and_tech
+#GS3
+
+
 
 
 
