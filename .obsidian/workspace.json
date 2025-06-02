@@ -53,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "WTO",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,8 +74,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -187,7 +186,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0797fb20afd3e77",
+  "active": "2f11eb86e085ef0f",
   "lastOpenFiles": [
     "UPSC/GS3 All questions.md",
     "UPSC/GS2 All questions.md",
