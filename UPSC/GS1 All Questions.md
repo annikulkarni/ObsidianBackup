@@ -172,7 +172,7 @@
 10. What are the challenges to our cultural practices in the name of secularism? (150 words)
 11. Many voices had strengthened and enriched the nationalist movement during the Gandhian phase. Elaborate. (250 words)
 12. Assess the role of British imperial power in complicating the process of transfer of power during the 1940s. (250 words)
-13. Explain how the foundations of the modern world were laid by the American and French Revolutions. (250 words)
+13. Explain how the foundations of the modern world were laid by the American and French Revolutions. (250 words) #world_history 
 14. What is water stress? How and why does it differ regionally in India? (250 words)
 15. How can the mountain ecosystem be restored from the negative impact of development initiatives and tourism? (250 words)
 16. How is efficient and affordable urban mass transport key to the rapid economic development of India? (250 words)
