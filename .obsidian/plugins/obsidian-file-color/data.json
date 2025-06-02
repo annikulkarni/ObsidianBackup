@@ -21,6 +21,31 @@
       "id": "28SDue3QZLT8kMeg0sjHp",
       "name": "",
       "value": "#d3b90d"
+    },
+    {
+      "id": "K0_QC0GbRYs1QwU-N6kwe",
+      "name": "",
+      "value": "#9a9cd6"
+    },
+    {
+      "id": "z9JbwmOU-A8kG52e3ucKO",
+      "name": "",
+      "value": "#e13737"
+    },
+    {
+      "id": "ZsfVvELaX0wsXugLBbRWt",
+      "name": "",
+      "value": "#75155b"
+    },
+    {
+      "id": "WN0JdY75P6tmPf46S9v_T",
+      "name": "",
+      "value": "#73e203"
+    },
+    {
+      "id": "Eq0w9WuyODvN6iBDLPUiP",
+      "name": "",
+      "value": "#480a4d"
     }
   ],
   "fileColors": [
@@ -35,6 +60,26 @@
     {
       "path": "Polity CA",
       "color": "28SDue3QZLT8kMeg0sjHp"
+    },
+    {
+      "path": "Policy Making CA",
+      "color": "z9JbwmOU-A8kG52e3ucKO"
+    },
+    {
+      "path": "International Relations CA",
+      "color": "nc1CCBLhk7T_fJnHTy6ME"
+    },
+    {
+      "path": "Environment CA",
+      "color": "WN0JdY75P6tmPf46S9v_T"
+    },
+    {
+      "path": "Economics CA",
+      "color": "Eq0w9WuyODvN6iBDLPUiP"
+    },
+    {
+      "path": "Agriculture CA",
+      "color": "pBOSDu5MMCUpt_asg7VO0"
     }
   ]
 }
