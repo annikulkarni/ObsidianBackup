@@ -25,6 +25,15 @@ Challenges
 - Compared to other regions, the **Northeast has received less investment** in infrastructure due to **lower population density**
 
 The government has deployed **NDRF units** across the **Northeast** and enhanced **IMD’s region-specific alerts** for **floods and landslides** in states like **Assam**, **Sikkim**, and **Arunachal Pradesh**.
-Schemes like **NESIDS** support **critical infrastructure** such as **flood protection embankments**'
+Schemes like **NESIDS** support **critical infrastructure** such as **flood protection embankments**
 
+**NDMA** conducts **capacity building**, **mock drills**, and implements **region-specific guidelines** for **urban flooding** and **landslide risk** in cities like **Gangtok** and **Guwahati**.
+
+Way forward:
+
+The installation of a **real-time flood monitoring system** in the **Brahmaputra basin** has improved early evacuation in parts of Assam.
+
+Establish a permanent **regional disaster coordination body** with participation from all Northeast states and the Centre to plan, share resources, and respond collectively to disasters.
+
+#GS3 #Environment_and_Biodiversity 
 
