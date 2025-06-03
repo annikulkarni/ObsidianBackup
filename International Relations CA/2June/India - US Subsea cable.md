@@ -28,5 +28,9 @@ _Efforts are being made by_ **_India_** _to_ **_diversify_** _its_ **_digit
 - India depends on **foreign-flagged ships** for cable repairs, which take **3–5 months** to respond due to long travel times and **clearance delays**
 
 ## **Way forward:**
+Simplify and streamline the complex licensing and clearance processes to attract greater investments
+Develop Indian-flagged cable repair vessels and expand cable landing stations
+
+#GS2  #International_relations 
 
 
