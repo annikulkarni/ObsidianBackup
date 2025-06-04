@@ -10,7 +10,7 @@ Donald Trump’s deal-based approach to security have led to doubts being raised
 - Practical collaboration has grown through agreements like the **Mutual Logistics Support Agreement (MLSA)**, enabling joint exercises, logistics sharing, and humanitarian missions
 - Exercises like **AUSINDEX (Navy)**, **AUSTRAHIND (Army)**, and participation in **Malabar and Pitch Black**reflect deepening defence cooperation.
 
-Upgrading the Defence Advisor ( DA ) role to a **one-star rank** signals that India values its growing defence relationship with Australia. Australia views India as a **“top-tier security partner”**
+<mark style="background: FFFF2E;">Upgrading the Defence Advisor ( DA ) role to a **one-star rank**</mark> signals that India values its growing defence relationship with Australia. Australia views India as a **“top-tier security partner”**
 
 Currently held by a Navy officer, the DA position lacks **dedicated Army and Air Force support**, limiting joint-service engagement.
 
@@ -18,9 +18,15 @@ The same DA currently manages India’s engagement with **Pacific Island nation
 
 ## **defence cooperation areas need urgent focus**
 
-- Move beyond Navy-centric cooperation to promote **joint operations** across the Army, Navy, and Air Force.
+- Move beyond Navy-centric cooperation to <mark style="background: FFFF2E;">promote **joint operations** across the Army, Navy, and Air Force.</mark>
 - India’s MRO (**Maintenance, Repair, and Overhaul**) contracts with the **U.S. and U.K. navies** can be replicated with Australia to support regional maritime forces in the Indian and Pacific Oceans.
 - Encourage **working-level military exchanges**, war-gaming, and fellowships to build trust
 
-	
+
+- <mark style="background: FFFF2E;">MSMEs and startups</mark> in both countries are at the forefront of **dual-use and cutting-edge technologies**
+- Both nations are running **indigenisation drives** in defence manufacturing. Aligning these efforts can reduce dependency on third-party suppliers.
+- Establish frameworks similar to the **U.S.-India INDUS X model** to connect MSMEs, investors, and defence officials
+
+#International_relations #GS2 
+
 
