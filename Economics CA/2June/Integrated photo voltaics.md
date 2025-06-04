@@ -22,5 +22,6 @@ The **Renewable Energy Museum in Kolkata** has a solar-powered dome with over 
 - Under the **PM Surya Ghar Muft Bijli Yojana (2024)**, BIPV was included with subsidies up to **₹78,000** for a 3-kW residential system. Similar support is needed for **commercial and industrial sectors**.
 - Integrating BIPV requirements into the **National Building Code**, **Energy Conservation Building Code**, and **Eco Niwas Samhita**
 - Boosting **indigenous production** through **PLI schemes**, along with **pilot projects** in public infrastructure
+- The **CtrlS Datacenters in Navi Mumbai** and **Kolkata’s Renewable Energy Museum** show how BIPV can be scaled in real-world infrastructure.
 
 
