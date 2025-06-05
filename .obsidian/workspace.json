@@ -11,12 +11,14 @@
             "id": "a0797fb20afd3e77",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Untitled.png"
+                "file": "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-31942.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Untitled"
+              "icon": "lucide-file",
+              "title": "FORD27541-31942"
             }
           }
         ]
@@ -51,7 +53,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#GS3",
+                "query": "transmission",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -72,7 +74,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -186,6 +189,7 @@
   },
   "active": "a0797fb20afd3e77",
   "lastOpenFiles": [
+    "Untitled.png",
     "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-31942.md",
     "Pasted image 20250605181105.png",
     "Pasted image 20250605181026.png",
