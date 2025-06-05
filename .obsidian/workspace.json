@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UPSC/Anthropology/2024.md",
-                "mode": "preview",
+                "file": "UPSC/Anthropology/2023.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2024"
+              "title": "2023"
             }
           },
           {
@@ -92,7 +92,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 327.5
+    "width": 242.5
   },
   "right": {
     "id": "84255cb1b4455f4b",
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UPSC/Anthropology/2024.md",
+                "file": "UPSC/Anthropology/2023.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2024"
+              "title": "Backlinks for 2023"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UPSC/Anthropology/2024.md",
+                "file": "UPSC/Anthropology/2023.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2024"
+              "title": "Outgoing links from 2023"
             }
           },
           {
@@ -202,6 +202,7 @@
   },
   "active": "a0797fb20afd3e77",
   "lastOpenFiles": [
+    "UPSC/Anthropology/2024.md",
     "UPSC/Anthropology/2013.md",
     "UPSC/Economics CA/2June/EV segment.md",
     "UPSC/Economics CA/2June/GDP reality, challenges, way forward.md",
@@ -241,7 +242,6 @@
     "UPSC/Economics CA/2June/FDI.md",
     "UPSC/Economics CA/2June/Energy requirements.md",
     "WORK/VST_SPRINT_25_12_CW25.2",
-    "UPSC/GS1 All Questions.md",
     "WORK",
     "UPSC/Things to Remember Prelims/Points to add in your answers",
     "UPSC/Anthropology",
