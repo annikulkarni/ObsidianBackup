@@ -1,5 +1,5 @@
 The **fast loss** of **biodiversity** and **food knowledge**, caused by **cash crops**, **global diets**, and **weak policies**, urges India to use **new science** and revive **orphan crops**
-## **Neglected and Underutilized Species**
+### **Neglected and Underutilized Species**
 
 NUS are traditional crops like **millets, legumes, tubers, and wild fruits** that have been largely ignored or underused in modern agriculture and food systems.
 
@@ -32,4 +32,20 @@ These species are **nutritionally rich**, **climate-resilient**
 ## **few crops’ dominance**
 
 - Global food systems mainly depend on **rice, wheat, and maize**, which provide over **50% of plant-based calories**.
-- 
+- **a decline in agricultural biodiversity**, reducing availability of **diverse nutrients**.
+- Diets based on a limited number of staple crops can cause **deficiencies** in **vitamins, minerals, and proteins**.
+- makes food systems more susceptible to **climate change** impacts, threatening **food security**.
+- increase in diseases like **diabetes** and **obesity**, due to poor **diet quality**.
+
+### Steps by GOI
+
+- **<mark style="background: FFFF2E;">International Year of Millets & Shree Anna Yojana:</mark>** Launched focused strategies to **enhance millet production**, **productivity**, **consumption**, and **export**, while raising **awareness about health benefits**.
+- Several states have started their <mark style="background: FFFF2E;">own **Millet Missions**</mark> to support **local cultivation**, **value chain strengthening**, and **branding** of millets.
+- Efforts are underway to **include minor millets** in the PDS
+
+### Way forward
+
+- Broaden the focus beyond major millets (ragi, jowar, bajra) to include **minor millets and other neglected crops** in state missions and the **Public Distribution System (PDS)**
+- Support **community-led conservation**, improve **value addition technologies** and invest in **interdisciplinary research**
+
+#GS3 #economics #Environment_and_Biodiversity 
