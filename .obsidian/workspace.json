@@ -11,14 +11,12 @@
             "id": "a0797fb20afd3e77",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "image",
               "state": {
-                "file": "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-31942.md",
-                "mode": "source",
-                "source": false
+                "file": "Pasted image 20250605181105.png"
               },
-              "icon": "lucide-file",
-              "title": "FORD27541-31942"
+              "icon": "lucide-image",
+              "title": "Pasted image 20250605181105"
             }
           }
         ]
@@ -53,7 +51,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "transmission",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -74,12 +72,11 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
-    "width": 269.5
+    "width": 380.5
   },
   "right": {
     "id": "84255cb1b4455f4b",
@@ -189,8 +186,8 @@
   },
   "active": "a0797fb20afd3e77",
   "lastOpenFiles": [
-    "Untitled.png",
     "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-31942.md",
+    "Untitled.png",
     "Pasted image 20250605181105.png",
     "Pasted image 20250605181026.png",
     "Pasted image 20250605180816.png",
@@ -229,7 +226,6 @@
     "Pasted image 20250526182559.png",
     "Pasted image 20250527173950.png",
     "Pasted image 20250527234730.png",
-    "Pasted image 20250602190131.jpg",
     "Software Spotlight February (2).pdf",
     "International Relations CA/2June",
     "International Relations CA",
