@@ -1,0 +1,13 @@
+-  You will give at least 6 hours per day (Just get ingrained)
+-  1.5 hours current affairs newspaper reading + note making
+-  1 hour anthropology.
+-  3-3.5 hours general studies /essay on weekends
+- also make note of important facts, quotes, committee reports, conclusion/way forward for issues.
+- Keep revisiting the planning - just to make sure you are in right path 
+- decide the short term plan and stick to it
+- do not get lost
+- Its very easy to loose track, just get your shit right, this is your time, don't be in two minds
+- Its ok to go off track, just get back the faster you get back without worrying the better it will be
+- Give time to reflect its necessary actually
+- BELIEVE
+- Now you sleep, <mark style="background: FFFF2E;">every morning is an opportunity to improve</mark>
