@@ -78,7 +78,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 380.5
+    "width": 327.5
   },
   "right": {
     "id": "84255cb1b4455f4b",
@@ -94,7 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UPSC/GS4 All questions.md",
+                "file": "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-31942 Gauges - Transmission Temp Gauge.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -104,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for GS4 All questions"
+              "title": "Backlinks for FORD27541-31942 Gauges - Transmission Temp Gauge"
             }
           },
           {
@@ -113,12 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UPSC/GS4 All questions.md",
+                "file": "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-31942 Gauges - Transmission Temp Gauge.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from GS4 All questions"
+              "title": "Outgoing links from FORD27541-31942 Gauges - Transmission Temp Gauge"
             }
           },
           {
@@ -172,8 +172,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -186,15 +185,15 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "a0797fb20afd3e77",
+  "active": "2f11eb86e085ef0f",
   "lastOpenFiles": [
+    "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-35651 This Trip.md",
+    "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-35652 Trip Summary.md",
+    "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-35653 Trip Summary.md",
+    "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-36288 FNV 2.1 PCA.md",
+    "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-36357 FNV 2.0 PCA.md",
     "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-38040 RPMx1000 text.md",
     "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-31942 Gauges - Transmission Temp Gauge.md",
-    "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-36357 FNV 2.0 PCA.md",
-    "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-36288 FNV 2.1 PCA.md",
-    "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-35652 Trip Summary.md",
-    "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-35651 This Trip.md",
-    "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-35653 Trip Summary.md",
     "Pasted image 20250605181105.png",
     "Untitled.png",
     "Pasted image 20250605181026.png",
