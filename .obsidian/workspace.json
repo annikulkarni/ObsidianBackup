@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UPSC/Anthropology/2023.md",
-                "mode": "preview",
+                "file": "UPSC/Anthropology/2022.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2023"
+              "title": "2022"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UPSC/Anthropology/2023.md",
+                "file": "UPSC/Anthropology/2022.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2023"
+              "title": "Backlinks for 2022"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UPSC/Anthropology/2023.md",
+                "file": "UPSC/Anthropology/2022.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2023"
+              "title": "Outgoing links from 2022"
             }
           },
           {
@@ -202,6 +202,9 @@
   },
   "active": "a0797fb20afd3e77",
   "lastOpenFiles": [
+    "UPSC/Anthropology/2021.md",
+    "UPSC/Anthropology/2022.md",
+    "UPSC/Anthropology/2023.md",
     "UPSC/Anthropology/2024.md",
     "UPSC/Anthropology/2013.md",
     "UPSC/Economics CA/2June/EV segment.md",
@@ -238,9 +241,6 @@
     "UPSC/Environment CA/25May-31May/Carbon Border Adjustment mechanism.md",
     "UPSC/Environment CA/2June/Tech in climate goals.md",
     "UPSC/Environment CA/2June/Monsoon woes.md",
-    "UPSC/Economics CA/25May-31May/India’s financial sector reforms.md",
-    "UPSC/Economics CA/2June/FDI.md",
-    "UPSC/Economics CA/2June/Energy requirements.md",
     "WORK/VST_SPRINT_25_12_CW25.2",
     "WORK",
     "UPSC/Things to Remember Prelims/Points to add in your answers",
