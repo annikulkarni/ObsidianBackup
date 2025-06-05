@@ -25,5 +25,11 @@
 	- 2015 with ₹895 crore outlay
 	- expanded to ₹10,000 crore in 2019
 	- EV adoption through subsidies and incentives
-- 
+- Caps on imported EVs to encourage domestic production
+- Push for **localisation of components**
+
+### Way forward
+
+- **Promote Strategic Partnerships for Technology Transfer:**- joint ventures
+- **Comprehensive Domestic Battery Ecosystem**- end-to-end battery manufacturing capabilities
  
