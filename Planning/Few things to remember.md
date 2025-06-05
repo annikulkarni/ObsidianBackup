@@ -8,6 +8,6 @@
 - do not get lost
 - Its very easy to loose track, just get your shit right, this is your time, don't be in two minds
 - Its ok to go off track, just get back the faster you get back without worrying the better it will be
-- Give time to reflect its necessary actually
+- Give time to reflect its necessary actually - there is always an opportunity cost for everything, take the risk, fail and win
 - BELIEVE
 - Now you sleep, <mark style="background: FFFF2E;">every morning is an opportunity to improve</mark>
