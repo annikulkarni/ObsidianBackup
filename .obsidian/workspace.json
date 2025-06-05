@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UPSC/Anthropology/2022.md",
+                "file": "UPSC/Anthropology/2021.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "2022"
+              "title": "2021"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "UPSC/Anthropology/2022.md",
+                "file": "UPSC/Anthropology/2021.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for 2022"
+              "title": "Backlinks for 2021"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "UPSC/Anthropology/2022.md",
+                "file": "UPSC/Anthropology/2021.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from 2022"
+              "title": "Outgoing links from 2021"
             }
           },
           {
@@ -202,8 +202,8 @@
   },
   "active": "a0797fb20afd3e77",
   "lastOpenFiles": [
-    "UPSC/Anthropology/2021.md",
     "UPSC/Anthropology/2022.md",
+    "UPSC/Anthropology/2021.md",
     "UPSC/Anthropology/2023.md",
     "UPSC/Anthropology/2024.md",
     "UPSC/Anthropology/2013.md",
