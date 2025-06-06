@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Facts and figures/Energy/Notes.md",
+                "file": "Facts and figures/Economics/Notes.md",
                 "mode": "source",
                 "source": false
               },
@@ -202,8 +202,10 @@
   },
   "active": "a0797fb20afd3e77",
   "lastOpenFiles": [
-    "Facts and figures/Polity/Notes.md",
     "Facts and figures/Energy/Notes.md",
+    "Facts and figures/Economics/Notes.md",
+    "Facts and figures/Economics",
+    "Facts and figures/Polity/Notes.md",
     "Facts and figures/Energy",
     "Facts and figures/International relations.md",
     "Facts and figures/International relations/Notes.md",
@@ -235,7 +237,6 @@
     "Attachments/Pasted image 20250605203132.png",
     "UPSC/Economics CA/2June/Integrated photo voltaics.md",
     "UPSC/Economics CA/2June/India’s textile industry.md",
-    "UPSC/Agriculture CA/2June/Bio happiness.md",
     "Attachments/Pasted image 20250605164448.png",
     "Attachments/Pasted image 20250605163926.png",
     "Attachments/Pasted image 20250602190131.jpg",
@@ -247,7 +248,6 @@
     "Attachments",
     "Planning",
     "UPSC/Agriculture CA/2June",
-    "WORK/VST_SPRINT_25_12_CW25.2",
     "Untitled.canvas"
   ]
 }
