@@ -1,0 +1,2 @@
+- In FY2024, India’s exports to the EU stood at $86 billion, while exports to the U.K. totalled $12 billion, highlighting their strategic role in India’s external trade.
+- 

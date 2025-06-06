@@ -1,0 +1,2 @@
+- India’s nuclear energy capacity from the current 8 GW
+- 
