@@ -1,2 +1,3 @@
-- India’s nuclear energy capacity from the current 8 GW
-- 
+- India’s nuclear energy capacity current 8 GW
+- **Renewable energy generation** increased from **65,520 GWh to 2.26 lakh GWh** over the same period. 2013-14 to 2023-24
+- **Thermal power generation** rose from **7.92 lakh GWh (2013–14)** to **13.26 lakh GWh (2023–24)**.
