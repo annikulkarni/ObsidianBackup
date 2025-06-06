@@ -12,4 +12,11 @@
 - Sanitation Response Units (SRUs) are supported with **modern safety tools**
 - Livelihood
 	- **capital and interest subsidies** for buying equipment
-	- 
+	- **mechanized sanitation work**
+
+#### **Key Achievements**
+- Over 80,000 sewer and septic tank workers have been identified and validated
+- 26,447 health cards issued under <mark style="background: FFFF2E;">PM-JAY</mark>
+- 45,781 PPE kits
+- NAMASTE now aims to profile 2.5 lakh waste pickers
+- 
