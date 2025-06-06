@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Planning/Few things to remember.md",
+                "file": "Quotes/Polity/Notes.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Few things to remember"
+              "title": "Notes"
             }
           },
           {
@@ -108,7 +108,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "Planning/Few things to remember.md",
+                "file": "Quotes/Polity/Notes.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -118,7 +118,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Backlinks for Few things to remember"
+              "title": "Backlinks for Notes"
             }
           },
           {
@@ -127,12 +127,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "Planning/Few things to remember.md",
+                "file": "Quotes/Polity/Notes.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Outgoing links from Few things to remember"
+              "title": "Outgoing links from Notes"
             }
           },
           {
@@ -200,11 +200,12 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f11eb86e085ef0f",
+  "active": "a0797fb20afd3e77",
   "lastOpenFiles": [
-    "Quotes/Untitled",
-    "Statements/Quotes/polity/Q.md",
     "Planning/Few things to remember.md",
+    "Quotes/Polity/Notes.md",
+    "Quotes/Polity",
+    "Statements/Quotes/polity/Q.md",
     "Statements/Quotes.md",
     "Statements/Quotes/Untitled.md",
     "Statements/Quotes/polity",
@@ -247,7 +248,6 @@
     "WORK/VST_SPRINT_25_12_CW25.2",
     "WORK",
     "UPSC/Things to Remember Prelims/Points to add in your answers",
-    "UPSC/Anthropology",
     "Untitled.canvas"
   ]
 }
