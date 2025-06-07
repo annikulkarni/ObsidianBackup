@@ -6,7 +6,7 @@
 
 - A significant rise in **net taxes (taxes minus subsidies)** can inflate GDP figures without a corresponding increase in real economic activity.
 - High net tax contributions may overshadow **sluggish performance in core sectors** like manufacturing or consumption, giving a misleading impression of overall health.
-- While stable growth ensures **low inflation and reduced economic volatility**, it may not generate the momentum needed to transform India into a developed economy.
+- While stable growth ensures **low inflation and reduced economic volatility**,<mark style="background: FFFF2E;"> it may not generate the momentum</mark> needed to transform India into a developed economy.
 -  India’s growing population and developmental needs require **higher employment, infrastructure, and productivity**, which stable but slow growth may not adequately support.
 - Relying on stable growth **without pushing for higher gains may lead to missed strategic opportunities.**
 
