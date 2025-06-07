@@ -8,7 +8,7 @@
 5. “In many ways, Lord Dalhousie was the founder of modern India.” Elaborate. (200 words)
 6. Critically discuss the objectives of Bhoodan and Gramdan Movements initiated by Acharya Vinoba Bhave and their success. (200 words)
 7. Write a critical note on the evolution and significance of the slogan, ‘Jai Jawan Jai Kisan’. (200 words)
-8. Discuss the contributions of Maulana Abul Kalam Azad to pre- and post-independent India. (200 words) #Art_Culture
+8. Discuss the contributions of Maulana Abul Kalam Azad to pre- and post-independent India. (200 words) 
 9. Analyze the circumstances that led to the Tashkent Agreement in 1966. Discuss the highlights of the Agreement. (200 words)
 10. Critically examine the compulsions which prompted India to play a decisive role in the emergence of Bangladesh. (200 words)
 11. “Latecomer’ Industrial Revolution in Japan involved certain factors that were markedly different from what West had experienced.” Analyze. (200 words) #world_history
@@ -20,14 +20,14 @@
 17. Critically examine the effect of globalization on the aged population in India. (200 words)
 18. Growing feeling of regionalism is an important factor in generation of demand for a separate State. Discuss. (200 words)
 19. (a) What do you understand by the theory of ‘continental drift’? Discuss the prominent evidences in its support. (100 words)  
-   (b) The recent cyclone on east coast of India was called ‘Phailin’. How are the tropical cyclones named across the world? Elaborate. (100 words)
+    (b) The recent cyclone on east coast of India was called ‘Phailin’. How are the tropical cyclones named across the world? Elaborate. (100 words)
 20. (a) Bring out the causes for the formation of heat islands in the urban habitat of the world. (100 words)  
-   (b) What do you understand by the phenomenon of ‘temperature inversion’ in meteorology? How does it affect weather and the habitants of the place? (100 words)
+    (b) What do you understand by the phenomenon of ‘temperature inversion’ in meteorology? How does it affect weather and the habitants of the place? (100 words)
 21. Major hot deserts in northern hemisphere are located between 20-30 deg N latitudes and on the western side of the continents. Why? (200 words)
 22. (a) Bring out the causes for more frequent occurrence of landslides in the Himalayas than in the Western Ghats. (100 words)  
-   (b) There is no formation of deltas by rivers of the Western Ghats. Why? (100 words)
+    (b) There is no formation of deltas by rivers of the Western Ghats. Why? (100 words)
 23. (a) Do you agree that there is a growing trend of opening new sugar mills in southern States of India? Discuss with justification. (100 words)  
-   (b) Analyze the factors for the highly decentralized cotton textile industry in India. (100 words)
+    (b) Analyze the factors for the highly decentralized cotton textile industry in India. (100 words)
 24. With growing scarcity of fossil fuels, the atomic energy is gaining more and more significance in India. Discuss the availability of raw material required for the generation of atomic energy in India and in the world. (200 words)
 25. It is said that India has substantial reserves of shale oil and gas, which can feed the needs of the country for quarter century. However, tapping of the resource does not appear to be high on the agenda. Discuss critically the availability and issues involved. (200 words)
 
@@ -39,7 +39,7 @@
 2. Gandhara sculpture owed as much to the Romans as to the Greeks. Explain. (150 words) #Art_Culture
 3. Taxila university was one of the oldest universities of the world with which were associated a number of renowned learned personalities of different disciplines. Its strategic location caused its fame to flourish, but unlike Nalanda, it is not considered as a university in the modern sense. Discuss. (150 words) #Art_Culture
 4. The third battle of Panipat was fought in 1761. Why were so many empire-shaking battles fought at Panipat? (150 words)
-5. Sufis and medieval mystic saints failed to modify either the religious ideas and practices or the outward structure of Hindu/Muslim societies to any appreciable extent. Comment. (150 words) #Art_Culture
+5. Sufis and medieval mystic saints failed to modify either the religious ideas and practices or the outward structure of Hindu/Muslim societies to any appreciable extent. Comment. (150 words) #medival_history
 6. Examine critically the various facets of economic policies of the British in India from mid-eighteenth century till independence. (150 words)
 7. In what ways did the naval mutiny prove to be the last nail in the coffin of British colonial aspirations in India? (150 words)
 8. What were the major political, economic and social developments in the world which motivated the anti-colonial struggle in India? (150 words) #world_history
@@ -49,7 +49,7 @@
 12. Why do some of the most prosperous regions of India have an adverse sex ratio for women? Give your arguments. (150 words)
 13. The life cycle of a joint family depends on economic factors rather than social values. Discuss. (150 words)
 14. Discuss the various economic and socio-cultural forces that are driving increasing feminization of agriculture in India. (150 words)
-15. How do the Indian debates on secularism differ from the debates in the West? (150 words) #Art_Culture
+15. How do the Indian debates on secularism differ from the debates in the West? (150 words) #polity
 16. Most of the unusual climatic happenings are explained as an outcome of the El-Nino effect. Do you agree? (150 words)
 17. Why are the world’s fold mountain systems located along the margins of continents? Bring out the association between the global distribution of fold mountains and the earthquakes and volcanoes. (150 words)
 18. Explain the formation of thousands of islands in Indonesian and Philippines archipelagos. (150 words)
@@ -72,7 +72,7 @@
 5. It would have been difficult for the Constituent Assembly to complete its historic task of drafting the Constitution for Independent India in just three years but for the experience gained with the Government of India Act, 1935. Discuss. (200 words)
 6. Why did the industrial revolution first occur in England? Discuss the quality of life of the people there during the industrialization. How does it compare with that in India at present? (200 words) #world_history
 7. To what extent can Germany be held responsible for causing the two World Wars? Discuss critically. (200 words) #world_history
-8. Describe any four cultural elements of diversity in India and rate their relative significance in building a national identity. (200 words) #Art_Culture
+8. Describe any four cultural elements of diversity in India and rate their relative significance in building a national identity. (200 words) 
 9. Critically examine whether growing population is the cause of poverty OR poverty is the main cause of population increase in India. (200 words)
 10. How do you explain the statistics that show that the sex ratio in Tribes in India is more favourable to women than the sex ratio among Scheduled Castes? (200 words)
 11. Discuss the changes in the trends of labour migration within and outside India in the last four decades. (200 words)
@@ -97,7 +97,7 @@
 5. Highlight the differences in the approach of Subhash Chandra Bose and Mahatma Gandhi in the struggle for freedom. (200 words)
 6. Has the formation of linguistic States strengthened the cause of Indian Unity? (200 words)
 7. The anti-colonial struggles in West Africa were led by the new elite of Western-educated Africans. Examine. (200 words)
-8. To what extent globalization has influenced the core of cultural diversity in India? Explain. (200 words) #Art_Culture
+8. To what extent globalization has influenced the core of cultural diversity in India? Explain. (200 words) 
 9. “An essential condition to eradicate poverty is to liberate the poor from the process of deprivation.” Substantiate this statement with suitable examples. (200 words)
 10. Why are the tribals in India referred to as ‘the Scheduled Tribes’? Indicate the major provisions enshrined in the Constitution of India for their upliftment. (200 words)
 11. With a brief background of quality of urban life in India, introduce the objectives and strategy of the ‘Smart City Programme’. (200 words)
