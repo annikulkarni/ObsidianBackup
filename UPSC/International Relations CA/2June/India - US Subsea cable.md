@@ -18,12 +18,12 @@ _Efforts are being made by_ **_India_** _to_ **_diversify_** _its_ **_digit
 - TRUST enables **concessional finance**, cybersecurity assistance, and encourages **American companies** to anchor digital infrastructure projects in India and the region. **Eg:** Under TRUST, Meta’s multi-year undersea cable investment project aligns with **U.S.-India strategic digital cooperation**.
 ## **Regional hub for subsea connectivity**
 
-- India is centrally positioned between Europe, Africa, and Southeast Asia, near key maritime choke points like the Strait of Hormuz, Strait of Malacca, and Bab-el-Mandeb, making it ideal for **global cable routes**. **Eg:** India can serve as a **transit junction** for Africa-Asia and Europe-Asia subsea cables.
+- India is centrally positioned between Europe, Africa, and Southeast Asia, near key maritime choke points like the <mark class="hltr-boom-bam">Strait of Hormuz, Strait of Malacca, and Bab-el-Mandeb</mark>, making it ideal for **global cable routes**. **Eg:** India can serve as a **transit junction** for Africa-Asia and Europe-Asia subsea cables.
 - increase the number of landing stations beyond existing clusters to **reduce regional risk**
 
 ## Challenges
 
-- Deploying subsea cables in India requires navigating a maze of over **50 clearances** across multiple **ministries** Eg: **customs**, **naval authorities**, and **telecom departments
+- Deploying subsea cables in India requires <mark class="hltr-boom-bam">navigating a maze of over **50 clearances**</mark> across multiple **ministries** Eg: **customs**, **naval authorities**, and **telecom departments
 - **Overconcentration of** **_Landing Stations_** 15 of 17 subsea cables land in **Mumbai**, despite India’s **11,098 km coastline**
 - India depends on **foreign-flagged ships** for cable repairs, which take **3–5 months** to respond due to long travel times and **clearance delays**
 

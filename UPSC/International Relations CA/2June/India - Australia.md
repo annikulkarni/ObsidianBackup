@@ -6,7 +6,7 @@ Donald Trump’s deal-based approach to security have led to doubts being raised
 
 ### Defence partnership
 
-- India and Australia have institutionalised their defence ties through frameworks like the **Comprehensive Strategic Partnership (CSP) 2020** and the **2+2 Ministerial Dialogue** (launched in 2021)
+- India and Australia have institutionalised their defence ties through frameworks like the <mark class="hltr-boom-bam">**Comprehensive Strategic Partnership (CSP) 2020**</mark> and the <mark class="hltr-boom-bam">**2+2 Ministerial Dialogue**</mark> (launched in 2021)
 - Practical collaboration has grown through agreements like the **Mutual Logistics Support Agreement (MLSA)**, enabling joint exercises, logistics sharing, and humanitarian missions
 - Exercises like **AUSINDEX (Navy)**, **AUSTRAHIND (Army)**, and participation in **Malabar and Pitch Black**reflect deepening defence cooperation.
 
