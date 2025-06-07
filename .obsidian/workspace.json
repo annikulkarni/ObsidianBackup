@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "tag:#Art_Culture",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -202,7 +202,7 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "c21415cb98d07e16",
+  "active": "2f28ec39103cb512",
   "lastOpenFiles": [
     "UPSC/GS so far.md",
     "UPSC/Current Affairs.md",

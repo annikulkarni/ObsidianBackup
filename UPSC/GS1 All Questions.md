@@ -152,14 +152,14 @@
 10. How is the Indian concept of secularism different from the Western model? Discuss. [150 words] #Art_Culture
 11. Discuss how the Bhakti movement received a remarkable re-orientation with the advent of Sri Chaitanya Mahaprabhu. [250 words] #Art_Culture
 12. Discuss whether the formation of new states in recent times is beneficial for India’s economy. [250 words]
-13. Why was indentured labour taken by the British from India to other colonies? Have they preserved their cultural identity there? [250 words] #Art_Culture
+13. Why indentured labour was taken by the British from India to other colonies? Have they preserved their cultural identity there? [250 words] #Art_Culture #modern_history 
 14. How can the water harvesting system be made effective in urban areas as the ideal solution for depleting groundwater resources in India? [250 words]
 15. Define the blue revolution and explain the problems and strategies for pisciculture development in India. [250 words]
 16. What is the significance of Industrial Corridors in India? Identify them and explain their main characteristics. [250 words]
 17. Mention core strategies for transforming aspirational districts in India and explain the nature of convergence, collaboration, and competition for its success. [250 words]
-18. Substantiate: “Women’s movement in India has not addressed the issues of women of lower social strata.” [250 words]
-19. Elucidate: “Globalization promotes cultural homogenization, but cultural specificities appear strengthened in Indian society.” [250 words] #Art_Culture
-20. Argue: “Communalism arises either due to power struggle or relative deprivation.” Provide suitable illustrations. [250 words]
+18. Substantiate: “Women’s movement in India has not addressed the issues of women of lower social strata.” [250 words] #women_issues
+19. Elucidate: “Globalization promotes cultural homogenization, but cultural specificities appear strengthened in Indian society.” [250 words] #Art_Culture #globalization
+20. Argue: “Communalism arises either due to power struggle or relative deprivation.” Provide suitable illustrations. [250 words] #communalism
 
 ---
 
@@ -175,8 +175,8 @@
 8. What makes the Indian society unique in sustaining its culture? Discuss. (150 words) #Art_Culture
 9. “Empowering women is the key to control population growth.” Discuss. (150 words)
 10. What are the challenges to our cultural practices in the name of secularism? (150 words) #Art_Culture
-11. Many voices had strengthened and enriched the nationalist movement during the Gandhian phase. Elaborate. (250 words)
-12. Assess the role of British imperial power in complicating the process of transfer of power during the 1940s. (250 words)
+11. Many voices had strengthened and enriched the nationalist movement during the Gandhian phase. Elaborate. (250 words) #modern_history 
+12. Assess the role of British imperial power in complicating the process of transfer of power during the 1940s. (250 words) #modern_history 
 13. Explain how the foundations of the modern world were laid by the American and French Revolutions. (250 words) #world_history
 14. What is water stress? How and why does it differ regionally in India? (250 words)
 15. How can the mountain ecosystem be restored from the negative impact of development initiatives and tourism? (250 words)
@@ -184,7 +184,7 @@
 17. How do ocean currents and water masses differ in their impacts on marine life and coastal environment? Give suitable examples. (250 words)
 18. Do we have cultural pockets of small India all over the nation? Elaborate with examples. (250 words) #Art_Culture
 19. What are the continued challenges for women in India against time and space? (250 words)
-20. Are we losing our local identity for the global identity? Discuss. (250 words) #Art_Culture
+20. Are we losing our local identity for the global identity? Discuss. (250 words) 
 
 ---
 
@@ -201,13 +201,13 @@
 9. COVID-19 pandemic accelerated class inequalities and poverty in India. Comment. (150 words)
 10. Do you agree that regionalism in India appears to be a consequence of rising cultural assertiveness? Argue. (150 words) #Art_Culture
 11. Indian philosophy and tradition played a significant role in conceiving and shaping the monuments and their art in India. Discuss. (250 words) #Art_Culture
-12. Persian literary sources of medieval India reflect the spirit of the age. Comment. (250 words) #Art_Culture
+12. Persian literary sources of medieval India reflect the spirit of the age. Comment. (250 words) #Art_Culture #literature
 13. Since the decade of the 1920s, the national movement acquired various ideological strands and thereby expanded its social base. Discuss. (250 words)
 14. The interlinking of rivers can provide viable solutions to the multi-dimensional inter-related problems of droughts, floods and interrupted navigation. Critically examine. (250 words)
 15. Account for the huge flooding of million cities in India including the smart ones like Hyderabad and Pune. Suggest lasting remedial measures. (250 words)
 16. India has immense potential of solar energy though there are regional variations in its development. Elaborate. (250 words)
 17. Examine the status of forest resources of India and its resultant impact on climate change. (250 words)
-18. Is diversity and pluralism in India under threat due to globalisation? Justify your answer. (250 words) #Art_Culture
+18. Is diversity and pluralism in India under threat due to globalisation? Justify your answer. (250 words) #Art_Culture #globalization 
 19. Customs and traditions suppress reason leading to obscurantism. Do you agree? (250 words) #Art_Culture
 20. How have digital initiatives in India contributed to the functioning of the education system in the country? Elaborate your answer. (250 words)
 
