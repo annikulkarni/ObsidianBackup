@@ -142,7 +142,7 @@
 
 1. Safeguarding Indian heritage is need for the moment. Discuss. [150 words] #Art_Culture
 2. Assess the importance of accounts of Chinese and Arab travellers in reconstructing the history of India. [150 words] #Art_Culture
-3. Throw light on the significance of Mahatma Gandhi’s thoughts in the present times. [150 words] #Art_Culture
+3. Throw light on the significance of Mahatma Gandhi’s thoughts in the present times. [150 words] #modern_history
 4. Why is the Indian Regional Navigational Satellite System (IRNSS) needed? How does it help in navigation? [150 words]
 5. Why is India taking a keen interest in the resources of the Arctic Region? [150 words]
 6. Define mantle plume and explain its role in plate tectonics. [150 words]
