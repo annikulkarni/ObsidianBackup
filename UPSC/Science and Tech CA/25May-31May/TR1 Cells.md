@@ -21,9 +21,6 @@
     - **Effector TR1** – fighting infection.
     - **Memory TR1** – remembering past infections.
 - **Epigenetic Role**: TR1 cells may **respond by switching genes on or off**, not by changing the genes themselves.
-
-
-
 	A special technique was used to **read the genes** of each immune cell — like scanning a **barcode**.
 - **Findings**: TR1 cells were **accurate, long-lasting**, and clearly connected to **malaria** (not other infections).
 - **Why it matters**: This discovery can help in making **better malaria vaccines**, boosting **long-term protection**, and even improving treatments for **other serious diseases**.
