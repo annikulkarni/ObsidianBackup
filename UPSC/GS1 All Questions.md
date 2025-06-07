@@ -301,7 +301,7 @@
 9. Intercaste marriages between castes which have socio-economic parity have increased, to some extent, but this is less true of interreligious marriages. Discuss. (150 words) #Indian_Society
 10. In dealing with socio-economic issues of development, what kind of collaboration between government, NGOs, and private sector would be most productive? (150 words) #Social_Empowerment
 11. “Though the great Cholas are no more yet their name is still remembered with great pride because of their highest achievements in the domain of art and architecture.” Comment. (250 words) #Art_Culture #Architecture
-12. How far is it correct to say that the First World War was fought essentially for the preservation of balance of power? (250 words) #World_History #World_Wars
+12. How far is it correct to say that the First World War was fought essentially for the preservation of balatunce of power? (250 words) #World_History #World_Wars
 13. How far was the Industrial Revolution in England responsible for the decline of handicrafts and cottage industries in India? (250 words) #World_History #Modern_Indian_History
 14. The groundwater potential of the Gangetic valley is on a serious decline. How may it affect the food security of India? (250 words) #Natural_Resources
 15. What are aurora australis and aurora borealis? How are these triggered? (250 words) #Geophysical_Phenomena

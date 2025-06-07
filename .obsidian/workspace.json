@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "#Art_culture",
+                "query": "tag:#Natural_Resources",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -188,8 +188,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
