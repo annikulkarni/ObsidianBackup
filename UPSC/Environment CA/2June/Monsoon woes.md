@@ -2,7 +2,7 @@ The **Northeast** has a complex **topography** of **steep hills** and **f
 These rivers often **overflow** during monsoon, causing **floods** and **erosion**. Eg: In **Assam**, over **10 major rivers** flowed above **danger level** in June 2025, affecting over **3 lakh people** across **19 districts**.
 The region receives one of the **highest average monsoon rainfalls** in India, making even a **“below normal” monsoon**destructive.
 
-The region experiences both the **southwest monsoon** (**June–September**) and a **retreating monsoon** (**October–December**), increasing **disaster exposure**. The **fragile ecology**, including **deforestation** and **slope instability**, worsens risks. Eg: In **North Sikkim**, **landslides** in early **June 2025** marooned **1,500 tourists** and **blocked arterial roads** due to **incessant rain**.
+The region experiences <mark class="hltr-boom-bam">both the **southwest monsoon** (**June–September**) and a **retreating monsoon** (**October–December**)</mark>, increasing **disaster exposure**. The **fragile ecology**, including **deforestation** and **slope instability**, worsens risks. Eg: In **North Sikkim**, **landslides** in early **June 2025** marooned **1,500 tourists** and **blocked arterial roads** due to **incessant rain**.
 
 ## **Dual Monsoon Pattern**
 
@@ -11,7 +11,7 @@ The region experiences both the **southwest monsoon** (**June–September**) a
 - **Southwest Monsoon (June to September)**:  
     This is the **primary monsoon season** for most of India. The **Bay of Bengal branch** of the southwest monsoon brings heavy rainfall to the Northeastern States like **Assam, Meghalaya, and Arunachal Pradesh**.
 - **Retreating/Post-Monsoon (October to December)**:  
-    This secondary phase brings **additional rainfall**, especially to **Nagaland, Manipur, Mizoram, and Tripura (NMMT region)**. This is often accompanied by **cyclonic storms** originating from the Bay of Bengal.
+    This secondary phase brings **additional rainfall**, especially to **Nagaland, Manipur, Mizoram, and Tripura (NMMT region)**. This is often <mark class="hltr-boom-bam">accompanied by **cyclonic storms**</mark> originating from the Bay of Bengal.
 
 - The presence of both the **southwest monsoon** (June–September) and the **retreating/post-monsoon** (October–December) leads to a **prolonged rainy season**
 

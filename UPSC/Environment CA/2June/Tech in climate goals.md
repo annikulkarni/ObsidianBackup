@@ -6,10 +6,10 @@
 ## **using cold plates and immersion cooling in data centres
 
 - These methods reduce emissions by **15–21%** compared to traditional air cooling.
-- liquid coolants transfer heat more efficiently than air. _Eg:_ Alibaba’s deployment of cold plate cooling led to lower power usage effectiveness (PUE)
-- Water usage drops by **31–52%**, helping conserve freshwater resources _Eg:_ In water-stressed regions like Arizona, using cold plate cooling helps tech firms operate data centres
+- liquid coolants transfer heat more efficiently than air. _Eg:_ <mark class="hltr-boom-bam">Alibaba’s deployment of cold plate </mark>cooling led to lower power usage effectiveness (PUE)
+- Water <mark class="hltr-boom-bam">usage drops by **31–52%**</mark>, helping conserve freshwater resources _Eg:_ In water-stressed regions like <mark class="hltr-boom-bam">Arizona</mark>, using cold plate cooling helps tech firms operate data centres
 
-## **life cycle assessment aid in evaluating cooling technologies**
+## <mark class="hltr-boom-bam">**life cycle assessment </mark>aid in evaluating cooling technologies**
 
 The **Microsoft-WSP study** assessed **cold plates** and **immersion cooling** from production to end-of-life, revealing their **overall environmental benefits**.
 
@@ -23,7 +23,7 @@ When combined with **cold plates** or **immersion cooling**, renewables ampli
 
 ## **Way forward:**
 
-Governments should provide **tax breaks, capital subsidies, and faster approvals** for data centres that adopt **liquid-cooling systems** and **renewable energy integration**.
+Governments should provide **tax breaks, capital subsidies, <mark class="hltr-boom-bam">and faster approvals** for data centres that adopt **liquid-cooling systems**</mark> and **renewable energy integration**.
 
 Introduce mandatory **Life Cycle Assessments (LCA)** and **carbon disclosure norms** for large-scale data centres to encourage **transparent, science-based decisions**
 
