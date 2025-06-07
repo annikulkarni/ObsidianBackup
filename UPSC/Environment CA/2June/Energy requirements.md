@@ -13,18 +13,18 @@ _India’s_ <mark class="hltr-boom-bam">**_energy needs_** _will grow_ **_2.5
 ## **Energy security** =  **development security** ?
 
 - India’s rise to the 4th-largest oil consumer shows its energy needs
-- access to affordable and sustainable energy strengthens **national resilience**, Eg: Ethanol blending (19.7% in 2025) and expanding biofuels have saved ₹1.26 lakh crore in foreign exchange
+- access to affordable and sustainable energy strengthens **national resilience**, Eg: <mark class="hltr-boom-bam">Ethanol blending (19.7% in 2025)</mark> and expanding biofuels have saved ₹1.26 lakh crore in foreign exchange
 - Under PM Ujjwala Yojana, LPG cylinder prices for beneficiaries remain at ₹553 despite a global 58% rise, ensuring energy access for the poor.
 
-## **Domestic oil and gas exploration acreage from 2021 to 2025**
+### **Domestic oil and gas exploration acreage from 2021 to 2025**
 
 - India increased its **exploration area** from **8% in 2021 to 16% in 2025**, aiming to cover **1 million sq km by 2030** to unlock vast **hydrocarbon resources**
 - Reforms such as reducing **‘No-Go’ zones by 99%** and streamlining licensing through the **Open Acreage Licensing Policy (OALP)**
 - New **pricing mechanisms** link gas prices to **10% of the Indian crude basket** with a **20% premium for new wells**, and **revenue-sharing contracts** allow shared infrastructure, boosting **investment incentives**
 
-## **Renewable energy initiatives**
+### **Renewable energy initiatives**
 
-- Ethanol blending increased from **1.5% in 2013 to 19.7% in 2025**, expanding the ethanol supply from **38 crore litres to 484 crore litres**
+- Ethanol blending increased from <mark class="hltr-boom-bam">**1.5% in 2013 to 19.7% in 2025**,</mark> expanding the ethanol supply from **38 crore litres to 484 crore litres**
 - The **SATAT** program has commissioned over **100 CBG plants** and targets a **5% CBG blending mandate by 2028**
 - India has produced **8.62 lakh tonnes** of green hydrogen and awarded **3,000 MW electrolyser tenders**
 
