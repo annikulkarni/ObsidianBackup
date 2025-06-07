@@ -8,7 +8,7 @@ These species are **nutritionally rich**, **climate-resilient**
 
 - These crops are rich in **essential nutrients**, **vitamins**, and **minerals**, making them excellent for improving **health**.
 - **Small millets** are high in **fiber** and **micronutrients** compared to rice and wheat.
-- They can withstand **harsh environmental conditions** like **drought** and **poor soils**, helping farmers adapt to **climate change ****Finger millet (ragi)** grows well in **dry** and **marginal lands**.
+- They can withstand **harsh environmental conditions** like **drought** and **poor soils**, helping farmers adapt to **climate change Finger millet (ragi)** grows well in **dry** and **marginal lands**.
 - These crops are naturally suited to **local soils** and **climates**, reducing the need for **chemical fertilizers** and **irrigation ***Eg :  Buckwheat** thrives in the **hilly regions**
 - Cultivating these crops preserves **agrobiodiversity** and **traditional farming knowledge**, maintaining **ecological balance**. _Eg:_ Indigenous **legumes** help fix **nitrogen** in soil, improving **fertility** naturally.
 - Reviving these crops can create new **market opportunities**, increase **farmers’ incomes**, and diversify **food production**

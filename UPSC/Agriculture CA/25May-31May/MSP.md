@@ -12,7 +12,7 @@
 - **Formulae for Calculation**:
     - **A2:** Costs incurred by the farmer in production of a particular crop. It includes several inputs such as expenditure on seeds, fertilisers, pesticides, leased-in land, hired labour, machinery and fuel
     - **A2+FL:** Costs incurred by the farmer and the value of family labour
-    - **C2:** A comprehensive cost, which is A2+FL cost plus imputed rental value of owned land plus interest on fixed capital, rent paid for leased-in land
+    - **C2:** A comprehensive cost, which is A2+FL cost plus <mark style="background: FFFF2E;">imputed rental value of owned land </mark>plus <mark style="background: FFFF2E;">interest on fixed capital</mark>,<mark style="background: FFFF2E;"> rent paid for leased-in land</mark>
 
 - National Commission of Farmers also known as the **Swaminathan Commission (2004)** recommended that the MSP should **at least be 50 per cent more** than the **weighted average Cost of Production (CoP)**, which it refers to as the C2 cost.
 - The government maintains that the MSP was fixed at a level of at least 1.5 times of the all-India weighted average CoP, but it **calculates this cost as 1.5 times of A2+FL**.
