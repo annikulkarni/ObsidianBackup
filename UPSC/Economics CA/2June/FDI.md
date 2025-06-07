@@ -17,13 +17,13 @@
 
 - India shows a strong link between the money flowing in and out, suggesting that funds often **enter and exit quickly** rather than being invested long-term.
 - A significant portion of both inward and outward FDI involves countries like **Singapore and Mauritius
-- Research shows India ranked 6th among emerging markets for such correlated FDI flows, indicating use as a conduit for tax optimization.
+- Research shows India ranked 6th among emerging markets for such correlated FDI flows, indicating use as a <mark class="hltr-boom-bam">conduit for tax optimization</mark>.
 
-## **declining FDI-to-GDP and GFCF ratios**
+#### **declining FDI-to-GDP and GFCF ratios**
 
 Declining **FDI-to-GDP** and **FDI-to-GFCF (Gross Fixed Capital Formation)** ratios indicate that foreign investments are becoming a smaller part of India’s overall economy and capital investment, potentially slowing down **industrial expansion** and **technology adoption**.
 
-The downward trend signals **tepid domestic corporate investment** and reduced foreign investor interest, which can affect job creation and long-term economic stability. _Eg:_ Net FDI relative to GDP has declined from 1.6% in 2020-21 to nearly zero in 2024-25, showing declining investor enthusiasm.
+The downward trend signals **tepid domestic corporate investment** and <mark class="hltr-boom-bam">reduced foreign investor interest, which can affect job creation</mark> and long-term economic stability. _Eg:_ Net FDI relative to GDP has declined from 1.6% in 2020-21 to nearly zero in 2024-25, showing declining investor enthusiasm.
 
 - Current regulations allow large volumes of **inward and outward FDI**through **tax havens**, enabling **tax optimization** rather than genuine investment
 - Reform is needed to encourage FDI that contributes to **capital formation**, **technology acquisition**, and **industrial growth** rather than short-term **PE/VC-driven disinvestment**

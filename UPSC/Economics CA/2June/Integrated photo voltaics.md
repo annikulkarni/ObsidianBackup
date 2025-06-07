@@ -1,20 +1,20 @@
-India’s rooftop solar (RTS) capacity has gone beyond 17 GW
+India’s <mark class="hltr-boom-bam">rooftop solar (RTS) capacity has gone beyond 17 GW</mark>
 
-BIPV refers to the integration of photovoltaic materials directly into the building envelope (e.g., façades, roofs, windows). It serves both as a **building material** and a **solar power generator**. **Eg**: Façades, curtain walls, glass windows, skylights, tiles, railings, balconies, canopies, atriums, and shading devices.
+BIPV (Building integrated photo voltaics ) refers to the integration of photovoltaic materials directly into the building envelope (e.g., façades, roofs, windows). It serves both as a **building material** and a **solar power generator**. **Eg**: Façades, curtain walls, glass windows, skylights, tiles, railings, balconies, canopies, atriums, and shading devices.
 
-A 16-storey building with a 4,000 sq. ft rooftop can install only a **40 kWp RTS system**, but its south-facing façade can support **150 kWp BIPV** panels.
+- A 16-storey building with a 4,000 sq. ft rooftop can install only a **40 kWp RTS system**, but its south-facing façade can support **150 kWp BIPV** panels.
 
-Façade areas of buildings are often **3–4 times larger than rooftop areas**
+- Façade areas of buildings are often **3–4 times larger than rooftop areas**
 
-BIPV enables renewable energy adoption in future infrastructure. _Eg_: Integration of BIPV in new public infrastructure
+- BIPV enables renewable energy adoption in future infrastructure. _Eg_: Integration of BIPV in new public infrastructure
 
-The **Renewable Energy Museum in Kolkata** has a solar-powered dome with over 2,000 integrated panels
+- The **Renewable Energy Museum in Kolkata** has a solar-powered dome with over 2,000 integrated panels
 
 ## Challenges
 
-- **BIPV systems** are more expensive than traditional rooftop
+- **BIPV systems** are more <mark class="hltr-boom-bam">expensive</mark> than traditional rooftop
 - Lack of **clear policies**, **mandates**, and **incentives** specific to BIPV, **Europe’s Energy Performance of Buildings Directive** promote BIPV
-- Specialised **BIPV glass panels** or **semi-transparent modules** are often **imported**
+- Specialised **BIPV glass panels** or **semi-transparent modules** are <mark class="hltr-boom-bam">often **imported**</mark>
 - There are no **clear standards**, **benchmarks**, or **guidelines** for **BIPV performance**, **quality**, and **installation**
 
 ## Measures
