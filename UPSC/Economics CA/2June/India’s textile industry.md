@@ -24,7 +24,7 @@
 ### Steps by GOI
 
 - <mark style="background: FFFF2E;">**PM MITRA Scheme</mark>:** Establishes **Mega Integrated Textile Regions and Apparel Parks** to integrate the entire **textile value chain**, reduce **logistics costs**, boost **competitiveness**, and create **jobs**.
-- Supports <mark style="background: FFFF2E;">**sustainable farming practices**</mark> to improve **soil health**, reduce **chemical use**, and enhance **cotton quality**through **collaborative platforms**.
+- Supports <mark style="background: FFFF2E;">**sustainable farming practices**</mark> to improve **soil health**, reduce **chemical use**, and enhance **cotton quality** through **collaborative platforms**.
 - <mark style="background: FFFF2E;">**National Technical Textiles Mission**</mark> to promote **R&D** and commercialization
 
 ### Way forward
