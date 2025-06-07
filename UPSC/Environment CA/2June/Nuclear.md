@@ -10,7 +10,7 @@ thinking about changing the Civil Liability for Nuclear Damages Act, 2010, and t
 - Companies like _L&T_ and _BHEL_ may contribute to infrastructure
 - Amendments will **remove liability-related hurdles**, allowing global firms to invest
 
-#### SMR
+#### SMR ( Small modular reactors )
 - produce up to **300 MW of electricity**
 - built in factories for easy transport and quicker installation
 - advanced, safer designs with features like **passive cooling and are ideal for remote areas, industrial use**
