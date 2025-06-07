@@ -68,7 +68,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "#Art_culture",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,

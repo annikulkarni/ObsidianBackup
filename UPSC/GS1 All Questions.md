@@ -199,7 +199,7 @@
 7. Account for the present location of iron and steel industries away from the source of raw material, by giving examples. (150 words)
 8. Has caste lost its relevance in understanding the multi-cultural Indian Society? Elaborate your answer with illustrations. (150 words)
 9. COVID-19 pandemic accelerated class inequalities and poverty in India. Comment. (150 words)
-10. Do you agree that regionalism in India appears to be a consequence of rising cultural assertiveness? Argue. (150 words) #Art_Culture
+10. Do you agree that regionalism in India appears to be a consequence of rising cultural assertiveness? Argue. (150 words) #Art_Culture #regionalism
 11. Indian philosophy and tradition played a significant role in conceiving and shaping the monuments and their art in India. Discuss. (250 words) #Art_Culture
 12. Persian literary sources of medieval India reflect the spirit of the age. Comment. (250 words) #Art_Culture #literature
 13. Since the decade of the 1920s, the national movement acquired various ideological strands and thereby expanded its social base. Discuss. (250 words)
@@ -207,7 +207,7 @@
 15. Account for the huge flooding of million cities in India including the smart ones like Hyderabad and Pune. Suggest lasting remedial measures. (250 words)
 16. India has immense potential of solar energy though there are regional variations in its development. Elaborate. (250 words)
 17. Examine the status of forest resources of India and its resultant impact on climate change. (250 words)
-18. Is diversity and pluralism in India under threat due to globalisation? Justify your answer. (250 words) #Art_Culture #globalization 
+18. Is diversity and pluralism in India under threat due to globalisation? Justify your answer. (250 words)  #globalization 
 19. Customs and traditions suppress reason leading to obscurantism. Do you agree? (250 words) #Art_Culture
 20. How have digital initiatives in India contributed to the functioning of the education system in the country? Elaborate your answer. (250 words)
 
