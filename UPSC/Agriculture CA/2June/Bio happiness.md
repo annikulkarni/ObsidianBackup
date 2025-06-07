@@ -39,7 +39,7 @@ These species are **nutritionally rich**, **climate-resilient**
 
 ### Steps by GOI
 
-- **<mark style="background: FFFF2E;">International Year of Millets & Shree Anna Yojana:</mark>** Launched focused strategies to **enhance millet production**, **productivity**, **consumption**, and **export**, while raising **awareness about health benefits**.
+- **<mark style="background: FFFF2E;">International Year of Millets 2023 & Shree Anna Yojana:</mark>** Launched focused strategies to **enhance millet production**, **productivity**, **consumption**, and **export**, while raising **awareness about health benefits**.
 - Several states have started their <mark style="background: FFFF2E;">own **Millet Missions**</mark> to support **local cultivation**, **value chain strengthening**, and **branding** of millets.
 - Efforts are underway to **include minor millets** in the PDS
 

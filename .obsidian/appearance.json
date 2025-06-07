@@ -4,5 +4,7 @@
   "textFontFamily": "Verdana",
   "interfaceFontFamily": "Verdana",
   "baseFontSize": 14,
-  "theme": "moonstone"
+  "theme": "moonstone",
+  "monospaceFontFamily": "Verdana",
+  "baseFontSizeAction": true
 }

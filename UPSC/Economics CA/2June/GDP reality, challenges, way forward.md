@@ -1,6 +1,6 @@
-- To achieve the **developed nation goal by 2047**, India needs sustained annual growth of around **8% or more**. Eg: The Economic Survey states that consistent 8% growth is essential to meet infrastructure, employment, and welfare needs by 2047.
-- India’s **population growth and development needs** demand faster economic expansion, regardless of how the rest of the world is performing. Eg: Even though India outpaces global peers, a 6.5% rate may not create enough jobs or uplift per capita incomes sufficiently.
-- While 6.5% reflects **stability**, it also signals a plateau, with **low inflation but no signs of rapid acceleration** in the near future. Eg: Chief Economic Adviser V. Anantha Nageswaran indicated India may not see major growth spurts soon, making it harder to catch up with long-term development targets.
+- To achieve the **developed nation goal by 2047**, India needs sustained annual growth of around **8% or more**. Eg: The Economic Survey states that <mark style="background: FFFF2E;">consistent 8% growth is essential </mark>to meet infrastructure, employment, and welfare needs by 2047.
+- India’s **population growth and development needs** demand faster economic expansion, regardless of how the rest of the world is performing. Eg: Even though India outpaces global peers, a <mark style="background: FFFF2E;">6.5% rate may not create enough jobs</mark> or uplift per capita incomes sufficiently.
+- While 6.5% reflects **stability**,<mark style="background: FFFF2E;"> it also signals a plateau</mark>, with **low inflation but no signs of rapid acceleration** in the near future. Eg: Chief Economic Adviser V. Anantha Nageswaran indicated India may not see major growth spurts soon, making it harder to catch up with long-term development targets.
 
 ## **true picture**
 
