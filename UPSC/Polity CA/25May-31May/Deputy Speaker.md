@@ -1,4 +1,4 @@
-Came up because 17th Lok sabha has not elected deputy speaker and most probably not for 18th too
+Came up because 17th Lok sabha had not elected deputy speaker and most probably will not for 18th too
 
 **Articles 93 and 94** require the Deputy Speaker to be elected **“as soon as may be”** and to hold office until **resignation, removal, or disqualification**. The prolonged vacancy violates this mandate, creating a **constitutional vacuum**
 

@@ -25,7 +25,7 @@ Effect of parental care
 - programmes like _Bal Choupal_ involve parents in play-based activities
 
 
-Introduction of the “Foundational Literacy and Numeracy” mission (_NIPUN Bharat_) to ensure basic learning outcomes by Grade 3.
+Introduction of the “<mark class="hltr-boom-bam">Foundational Literacy and Numeracy</mark>” mission (_NIPUN Bharat_) to ensure basic learning outcomes by Grade 3.
 NEP proposes a new **5+3+3+4 curriculum structure**, where the first five years focus on foundational learning (ages 3–8)
  The government has focused on upgrading **14 lakh Anganwadi centres** across India to serve as key delivery points for ECE, nutrition, and health services ( POSHAN Abhiyaan supports capacity-building )
 
