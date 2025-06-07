@@ -7,11 +7,11 @@
 
 #### **harmonized nomination framework across BFSI (Banking, Financial Services, and Insurance) verticals necessary**
 
-Different sectors (banks, mutual funds, insurance) treat nominees differently
+- Different sectors (banks, mutual funds, insurance) treat nominees differently
 
-Inconsistent rules create **loopholes** that can be exploited by unscrupulous actors to **divert funds** or delay inheritance.
+- Inconsistent rules create **loopholes** that can be exploited by unscrupulous actors to **divert funds** or delay inheritance.
 
-A **uniform nomination system** makes it easier for ordinary people to **understand, update, and track** their financial nominations.
+- A **uniform nomination system** makes it easier for ordinary people to **understand, update, and track** their financial nominations.
 
 ## **corporate bond market benefit India’s economy**
 
@@ -19,20 +19,20 @@ A deep bond market enables companies to raise funds at **competitive interest r
 
 Large firms like **NTPC** or **Reliance** can raise capital directly from investors through bonds, easing pressure on public sector banks.
 
-Corporate bonds are ideal for funding **long-gestation projects** like highways, power plants, and green energy, attracting **pension funds and insurance firms**.Countries like **South Korea and Malaysia** have developed strong bond markets
+Corporate bonds are<mark class="hltr-boom-bam"> ideal for funding **long-gestation projects**</mark> like highways, power plants, and green energy, attracting **pension funds and insurance firms**.Countries like **South Korea and Malaysia** have developed strong bond markets
 
 **Reserve Bank of India (RBI):** RBI regulates **Non-Banking Financial Companies (NBFCs)**
 
 **Securities and Exchange Board of India (SEBI):** SEBI oversees **brokers, margin lenders, and mutual funds** that may engage in shadow banking-like activities, ensuring transparency in trading and lending practices.
 
-The Ministry designs **regulatory frameworks and inter-agency coordination**, enabling RBI and SEBI to monitor and respond to emerging risks in shadow banking.
+The Ministry of finance (Department of financial services) designs **regulatory frameworks and inter-agency coordination**, enabling RBI and SEBI to monitor and respond to emerging risks in shadow banking.
 
 ## **Way forward:**
 
 **Unified and Risk-Based Regulatory Framework:** Adopt a **harmonised, activity-based regulation** where entities performing similar financial functions are subjected to **similar oversight**, regardless of their institutional form
 
 
-**Enhanced Supervisory Capacity and Real-Time Monitoring:** Strengthen **inter-agency coordination** (RBI, SEBI, Ministry of Finance) and invest in **AI-powered data analytics**to track complex transactions and hidden risks.
+**Enhanced Supervisory Capacity and Real-Time Monitoring:** Strengthen **inter-agency coordination** (RBI, SEBI, Ministry of Finance) and invest in **AI-powered data analytics **to track complex transactions and hidden risks.
 
 
 

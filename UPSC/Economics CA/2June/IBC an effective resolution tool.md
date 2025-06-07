@@ -24,5 +24,5 @@ Credit culture
 
 Way forward
 - Expand the **capacity of NCLT and NCLAT** by appointing more judges
-	- Introduce **clear jurisprudential safeguards** to prevent post-resolution litigations and uphold the **sanctity of approved resolution plans** - boosting investors confidence
+- Introduce **clear jurisprudential safeguards** to prevent post-resolution litigations and uphold the **sanctity of approved resolution plans** - boosting investors confidence
 #economics #GS3 
