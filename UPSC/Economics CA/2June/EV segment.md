@@ -13,9 +13,9 @@
 
 ### Chaaaiina Model ![[Pasted image 20250605203132.png | 70]]
 
-- **New Energy Vehicle subsidy programme** in **2009**- Subsidies encouraged companies like **BYD** and **NIO** to rapidly scale EV
+- <mark class="hltr-boom-bam">**New Energy Vehicle subsidy programme**</mark> in **2009**- Subsidies encouraged companies like **BYD** and **NIO** to rapidly scale EV
 - Required foreign EV manufacturers to form **joint ventures** with Chinese firms until **2022** - Tesla
-- China invested around **$230 billion** over 15 years on EV subsidies, infrastructure, and research
+- China invested around <mark class="hltr-boom-bam">**$230 billion**</mark> over 15 years on EV subsidies, infrastructure, and research
 - Reduced import duties on EVs from **25% in 2010 to 15% in 2018**
 - Controls entire **battery value chain**: mining, processing, manufacturing, and assembly - **CATL** ( battery company dominate globally )
 

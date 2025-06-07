@@ -8,13 +8,13 @@ discussion about whether the **IBC is ready for the future**, whether its **deci
 - As per **IBBI data**, creditors have recovered over **₹3.89 lakh crore**
 
 ### Preferred route
-- According to the **RBI’s 2024 report**, the IBC accounted for **48% of all recoveries** made by banks in FY 2023-24
+- According to the **RBI’s 2024 report**, the IBC accounted for <mark class="hltr-boom-bam">**48% of all recoveries** made by banks in FY 2023-24</mark>
 - **plans under IBC** are yielding **93.41% of the fair value** and **170.1% of liquidation value**
 - Companies facing insolvency threats often **clear dues or settle quickly** - The IBC’s time-bound process has led to early settlements, with **30,310 cases settled before admission**
 
 Credit culture
 - The **Supreme Court** observed that “**the defaulter’s paradise is lost**
-- The IBC has contributed to a sharp fall in **Gross Non-Performing Assets (NPAs)**, which declined from **11.2% in 2018** to **2.8% in 2024
+- The IBC has contributed to a sharp fall in **Gross Non-Performing Assets (NPAs)**, which declined from <mark class="hltr-boom-bam">**11.2% in 2018** to **2.8% in 2024</mark>
 - A study by **IIM Bangalore** showed firms post-resolution had more professionalised management and **stronger compliance norms**.
 
 ### Challenges
