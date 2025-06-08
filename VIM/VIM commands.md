@@ -34,5 +34,7 @@ ex: 2dd will delete two lines
 
 :d$ - To delete from the cursor to the end of a line type:
 
+ce - delete the words and places you in insert mode
+
 
 
