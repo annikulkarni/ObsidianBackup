@@ -24,4 +24,15 @@ de - will delete the current word from the point where your cursor is currently 
 dd - will delete the current line
 
 u - will undo the changes
-Ctrl+r - will redo the c
+Ctrl+r - will redo the changes
+
+d[number]w/e - will perform the action the times you enter the number
+
+<mark class="hltr-boom-bam">operator [number] motion </mark>
+
+ex: 2dd will delete two lines
+
+:d$ - To delete from the cursor to the end of a line type:
+
+
+
