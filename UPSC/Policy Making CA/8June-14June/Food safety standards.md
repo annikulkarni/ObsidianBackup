@@ -20,4 +20,12 @@ Monosodium glumtamate (MSG)
 - sodium salt of glutamic acid
 - Joint Expert committee on food additives have declared MSG safe, but India labels them as unsafe for infants
 - This is misleading, as **natural glutamates** (chemically identical to MSG) are found in **tomato, mushroom, garlic**, and even **breast milk**.
-- 
+- MSG receiving an **“ADI not specified”** status globally (indicating high safety) - India soap slow
+
+#### Better communication
+- Communicate complex terms like **MRLs** (Maximum Residue Limits) and **ADIs** (Acceptable Daily Intake) in **easy-to-understand formats** Eg: explain it as a level safe for life long consumption
+- Replace misleading labels Eg : MSG
+- Build public trust through open communication
+
+#### forward
+- Conduct **localized toxicological studies** and **Total Diet Studies** - reflect local dietary practices and farm
