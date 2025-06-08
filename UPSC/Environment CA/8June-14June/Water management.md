@@ -9,4 +9,6 @@
 #### Glacier 
 - **preservation** ensures sustained **water availability** for **drinking, agriculture, and ecosystems**
 - Glaciers are sensitive to **global warming**; their rapid **melting** signals **climate change impacts**.
-- 
+- **Alpine glaciers** support **mountain agriculture** and **tourism**
+####  **Source-to-Sea (S2S) approach**
+
