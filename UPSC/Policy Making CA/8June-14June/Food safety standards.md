@@ -10,4 +10,12 @@ Theme - _Food Safety: Science in Action_
 
 #### Toxicology studies
 - **scientific assessments** that evaluate the **harmful effects of chemicals or substances**
-- 
+	 Why required for India specific
+	- Different dietary patterns of Indians
+	- Farming methods and pesticide use are different - tailor safety limits
+	- Climate, water quality and genetic factors impact health, Heavy metal contamination
+	- 
+Monosodium glumtamate (MSG)
+- Enhance **umami** taste (a savoury flavour)
+- sodium salt of glutamic acid
+- Joint Expert committee on food additives have declared MSG safe, but India labels them as uaa
