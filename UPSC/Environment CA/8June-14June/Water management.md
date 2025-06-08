@@ -37,4 +37,6 @@ The cryosphere includes all frozen water parts of Earth. It helps regulate the c
 - The **2019 draft National Water Policy** focuses on **water conservation**, **efficient use**, and **equitable distribution**.
 - **2015**, a committee was formed to merge the **Central Water Commission** and **Central Ground Water Board** into a unified **National Water Commission**
 - **Source-to-Sea (S2S)** management, which integrates **land, freshwater, coastal, and marine** resource management.
-- 
+#### Way forward
+- integrated water governance that connects glacial sources to coastal ecosystems
+- Invest in glacier monitoring, early warning systems, and sustainable groundwater management - water security
