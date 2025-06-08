@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UPSC/Science and Tech CA/25May-31May/TR1 Cells.md",
+                "file": "UPSC/Environment CA/8June-14June/Water management.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "TR1 Cells"
+              "title": "Water management"
             }
           }
         ],
@@ -93,7 +93,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "84255cb1b4455f4b",
@@ -201,10 +202,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "2f11eb86e085ef0f",
+  "active": "c21415cb98d07e16",
   "lastOpenFiles": [
-    "UPSC/Science and Tech CA/2June-7June/Crypto Regulations.md",
     "UPSC/Polity CA/25May-31May/Deputy Speaker.md",
+    "UPSC/Environment CA/8June-14June/Water management.md",
+    "UPSC/Environment CA/8June-14June",
+    "UPSC/Science and Tech CA/25May-31May/TR1 Cells.md",
+    "UPSC/Science and Tech CA/2June-7June/Crypto Regulations.md",
     "UPSC/Polity CA/25May-31May/Judge Impeachment.md",
     "UPSC/Policy Making CA/25May-31May/Early Childhood care.md",
     "UPSC/International Relations CA/2June-7June/India - UK.md",
@@ -227,8 +231,6 @@
     "UPSC/Agriculture CA/2June-7June/Bio happiness.md",
     "Facts and figures/Economics/Notes.md",
     "UPSC/GS so far.md",
-    "UPSC/GS1 All Questions.md",
-    "UPSC/Current Affairs.md",
     "Attachments/Pasted image 20250606233853.png",
     "UPSC/Schemes",
     "Facts and figures/Environment",
@@ -248,7 +250,6 @@
     "Attachments/Pasted image 20250527173950.png",
     "Attachments/Pasted image 20250526182559.png",
     "Attachments/licensed-image.jpeg",
-    "Attachments",
     "Untitled.canvas"
   ]
 }
