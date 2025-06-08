@@ -71,7 +71,7 @@ cw - delete the word. Remember e/w
  3. Typing `%`{normal} while the cursor is on a (, ), [, ], {, or } goes to its
     match.
 
- 4. To substitute new for the first old in a line type
+ 5. To substitute new for the first old in a line type
 ~~~ cmd
         :s/old/new
 ~~~
@@ -90,6 +90,28 @@ cw - delete the word. Remember e/w
     To ask for confirmation each time add 'c'
 ~~~ cmd
         :%s/old/new/gc
+
+
+
+#Lesson 5 SUMMARY
+
+ 1. [:!command](:!cmd) executes an external command.
+
+     Some useful examples are:
+     `:!dir`{vim}                   - shows a directory listing
+     `:!del FILENAME`{vim}          - removes file FILENAME
+
+ 2. [:w](:w) FILENAME              writes the current Neovim file to disk with
+                             name FILENAME.
+
+ 3. [v](v)  motion  :w FILENAME   saves the Visually selected lines in file
+                             FILENAME.
+
+ 4. [:r](:r) FILENAME              retrieves disk file FILENAME and puts it
+                             below the cursor position.
+
+ 5. [:r !dir](:r!)                  reads the output of the dir command and
+                             puts it below the cursor position.
 
 
 
