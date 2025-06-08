@@ -28,4 +28,5 @@ Monosodium glumtamate (MSG)
 - Build public trust through open communication
 
 #### forward
-- Conduct **localized toxicological studies** and **Total Diet Studies** - reflect local dietary practices and farm
+- Conduct **localized toxicological studies** and **Total Diet Studies** - reflect local dietary habits and farming practices
+- Simplify scientific terms for the public, **revise outdated labels**, and build **transparent engagement** with stakeholders
