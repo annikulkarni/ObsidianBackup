@@ -1,0 +1,1 @@
+- According to data compiled by FADA, EVs accounted for 7.8% of all vehicles sold in FY 2025.

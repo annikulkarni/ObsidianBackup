@@ -9,3 +9,5 @@
 - **Marine fish production** grew from **34.43 lakh tonnes to 44.95 lakh tonnes**. FY2013-14 to FY 2023-24
 
 - Extreme poverty in India down to 5.3% in 2022-23: World Bank
+
+
