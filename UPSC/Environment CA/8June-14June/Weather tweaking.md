@@ -22,5 +22,11 @@
 
 
 #### challenges
-- SAI could lead to **acid rain**, **delayed ozone recovery**, and unknown ecological disruptions
-- 
+- SAI could lead to **acid rain**, **delayed ozone recovery**, and unknown ecological disruptions - can **form sulphuric acid** in the atmosphere
+- Cooling could be **stronger in polar regions**, while **tropical areas** face the worst climate impacts - may not get benefitted equally
+- SAI affects the **entire planet**, raising questions about **who decides** when, where, and how it’s used
+
+#### forward
+- International collaboration is essential to regulate research, testing, and potential deployment of SAI
+- SAI should be treated as a **temporary, supplementary tool** - not a replacement for emission reduction.
+
