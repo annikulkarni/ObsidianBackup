@@ -1,2 +1,3 @@
 - According to data compiled by FADA, EVs accounted for 7.8% of all vehicles sold in FY 2025.
 - defence production reached a record **₹1.3 lakh crore in FY24**
+- private companies increased their production share from **20% in FY17** to nearly **24% in FY25**, and dominate defence exports.
