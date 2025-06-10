@@ -8,5 +8,6 @@
   },
   "attachmentFolderPath": "/Attachments",
   "defaultViewMode": "source",
-  "showLineNumber": false
+  "showLineNumber": false,
+  "vimMode": true
 }

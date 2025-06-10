@@ -8,7 +8,7 @@ _The_ **_United Nations_** _has declared_ **_2026_** _as the_ **_International Y
 - **barriers women face** such as limited **land ownership**, **market access**
 - The ENACT project in Assam supports women farmers by linking them with agri-experts , promote gender transformative agricultural development
 
-The **ENACT project** stands for **Enhancing Climate Adaptation of Vulnerable Communities through Nature-based Solutions and Gender-Transformative Approaches**. Supported by the World Food Programme (WFP), the Government of Assam, and funded by Norway, it empowers women farmers in Nagaon
+<mark class="hltr-boom-bam">The **ENACT project**</mark> stands for **Enhancing Climate Adaptation of Vulnerable Communities through Nature-based Solutions and Gender-Transformative Approaches**. Supported by the World Food Programme (WFP), the Government of Assam, and funded by Norway, it empowers women farmers in Nagaon
 
 What ENACT do 
 - Over **300 women farmers in 17 villages** of Assam’s Nagaon district receive timely updates on weather and crop planning.
@@ -23,4 +23,4 @@ What ENACT do
 
 #### Way forward
 - Governments must promote **joint land titles**, ensure **inheritance rights**
-- 
+- Strengthen women’s inclusion in **formal credit systems**, promote **mobile-based agricultural advisories**
