@@ -10,5 +10,10 @@ RBI, SEBI for the first time created step by step rules on how will they create 
 #### **Why ( Economic rationale )**
 - Solve real economic issues not only the perceived ones eg  : regulations on digital lending platforms to tackle coercive lending
 - Economic rationale demands **data-backed decision-making** eg : Mandating **minimum capital buffers** after analysing risk exposure in banks post-2008 crisis.
-- Clarifies whether the **expected benefits outweigh the compliance and administrative costs**. eg : can analyse 
+- Clarifies whether the **expected benefits outweigh the compliance and administrative costs**. eg : can analyse weather the benefits to investors justify the burden on companies
+- builds **confidence in the regulator’s objectivity and fairness**
+
+#### **How other countries do it ( International practices )**
+- **US regulators** must evaluate the **economic impact** of any regulation before adoption eg : **Office of Information and Regulatory Affairs (OIRA)** reviews federal regulations to ensure benefits outweigh the costs
+- 
 
