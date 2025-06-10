@@ -14,4 +14,4 @@ Make changes according to the requirement
 
 
 
-![[Pasted image 20250605164448.png]]
+![[Pasted image 20250605164448.png]]Still working on it in ui core
