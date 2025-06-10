@@ -23,4 +23,10 @@ Max Planck Institute for Sustainable Materials has introduced a new method to ex
 
 #### Where in India
 - Found as **nickeliferous limonite** in chromite mine overburden with 0.4–0.9% nickel content. - Odisha Sukinda Valley, 
-- Jharkhand , Singh
+- Jharkhand , Singhbhum ( less quantity )
+
+#### GOI
+- **National Critical Mineral Mission**: Launched in **January 2025** with **₹16,300–34,300 crore outlay** to enhance **domestic exploration**, **mining**, **processing**, and **recycling** of minerals like **nickel**, **lithium**, and **cobalt**.
+- **PLI scheme** for **Advanced Chemistry Cell batteries**
+-  **Mineral Security Partnership** and **Khanij Bidesh India Ltd (KABIL)** - securing overseas mineral assets
+
