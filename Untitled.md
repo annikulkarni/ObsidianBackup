@@ -60,7 +60,9 @@ static void sendDriveCycleAvgFuel(const tHmi_OslU16 u16AvgFuelValue, const tHmi_
         HMI_OSL_LOG_ERROR("Send TRAP failed for Datum : Drive cycle avg fuel");
     }
 }
+
   sendTripDistance(hal_IOD_SendTrap_DATUM_TRIPB_EV_DIST_TRAVELLED, &psIodData->sTripB.sdist, true);
         
-        <mark class="hltr-boom-bam">sendDriveCycleAvgFuel(psIodData->sDriveCycle.u16FuelValue, psIodData->u8PowerType, psIodData->u8fuelUnit);</mark>
+        sendDriveCycleAvgFuel(psIodData->sDriveCycle.u16FuelValue, psIodData->u8PowerType, psIodData->u8fuelUnit);
+    
         sendDriveCycleDistance(psIodData->sDriveCycle.u32distanceValue);
