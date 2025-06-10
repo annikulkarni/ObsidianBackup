@@ -15,5 +15,20 @@ RBI, SEBI for the first time created step by step rules on how will they create 
 
 #### **How other countries do it ( International practices )**
 - **US regulators** must evaluate the **economic impact** of any regulation before adoption eg : **Office of Information and Regulatory Affairs (OIRA)** reviews federal regulations to ensure benefits outweigh the costs
-- 
+- The **EU’s Better Regulation Framework** requires identifying the **core problem**, evaluating **alternative policy options** eg : EU energy efficiency regulations
+- **post-implementation reviews** to check if regulations achieve intended goals.
+
+#### When should regulations be reviewed
+- **IFSCA mandates** review of its regulations **every 3 years**
+- Major changes like **market failures, technological advancements, or crises** should trigger a regulatory review.
+- **achieved their intended goals** and consider **public feedback**
+
+#### **Who need to do it**
+- Parliament can **introduce a standardised law**
+- The **Central Government or NITI Aayog** can issue **model guidelines or frameworks**
+
+#### Way forward
+- **Enact a Unified Regulatory Procedure Law**
+- Build the **capacity of regulatory bodies** through training, digital tools, and staffing, and set up an **independent oversight mechanism**
+
 
