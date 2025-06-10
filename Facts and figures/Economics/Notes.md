@@ -10,4 +10,9 @@
 
 - Extreme poverty in India down to 5.3% in 2022-23: World Bank
 
+##### Women Farmer Year
+
+T he United Nations General Assembly has declared 2026 as the International Year of the Woman Farmer, garnering the support of over 100 co-sponsors.
+
+
 
