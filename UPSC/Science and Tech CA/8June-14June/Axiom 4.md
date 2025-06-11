@@ -13,4 +13,14 @@
 #### Align with India's research
 - **muscle behaviour studies** in zero gravity help understand **health impacts of space travel**.
 - Studies on **sprouting moong dal** and **micro-algae** explore **sustainable food solutions** in space.
-- Experiments are **customised to Indian needs**,marking ISRO’s entry into **tailor-made space research**.
+- Experiments are **customised to Indian needs**,marking ISRO’s entry into **tailor-made space research**
+
+#### Private secotr
+- Startups like **Skyroot Aerospace** and **Agnikul Cosmos** are developing **indigenous launch vehicles**.
+- allows ISRO to focus on **core research** and **strategic missions**, while routine tasks are outsourced.aims to capture **10% of the $1 trillion space economy** by 2030.
+- Space-tech startups are hiring **young engineers**, promoting **STEM education** and **aerospace skills**.
+- **Pixxel** has partnered with international clients for **hyperspectral imaging satellites**., **technology transfers**, enhancing global credibility
+
+#### Way forward
+- enabling policy environment through institutions like **IN-SPACe** to facilitate **private investments**, streamline **licensing**, and ensure **intellectual property protection**.
+- 
