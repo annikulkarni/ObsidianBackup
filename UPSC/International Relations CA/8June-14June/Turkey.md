@@ -1,0 +1,2 @@
+- **President Recep Tayyip Erdogan**, **Türkiye** has followed a **foreign policy** that leans towards **Islamic values** with **practical**and **flexible approach**
+- 
