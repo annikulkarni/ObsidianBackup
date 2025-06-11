@@ -1,0 +1,4 @@
+- Group Captain
+- India's participation is strategic aligning with India's future missions such as gaganyaan, 1984 Rakesh Sharma's participation was just symbolic
+- ISRO is now a global leader in satellite and rocket technology and aims to have a space station by 2035, back then India didnt not have well developed space infrastructure
+- Provides
