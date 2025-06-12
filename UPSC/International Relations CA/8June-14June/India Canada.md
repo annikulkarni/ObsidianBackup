@@ -1,2 +1,0 @@
-- Trudeau alleged india involved in nijjar killing publicly 
-- both countries expelled their diplomats, t 
