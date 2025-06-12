@@ -24,4 +24,14 @@ The campaign was led by **the then District Collector of Nizamabad** along with 
 
 #### Status of national child policy
  - It recognizes rights to survival, development , protection and participation, <mark class="hltr-boom-bam">it does not specifically address rehabilitation strategies</mark>
-- Not aligned with child labour amend
+- Not aligned with child labour amendment<mark class="hltr-boom-bam">(Prohibition and regulation)</mark> act 2016, or with SDG 8.7 India aims to eliminate **child labour by 2025** under SDG 8.7
+- The government had initiated a process to draft a **new National Child Policy in 2020**, but no final version has been released or implemented so far
+
+#### Steps by GOI
+- The **Child Labour (Prohibition and Regulation) Amendment Act, 2016** prohibits employment of children below 14 years and restricts adolescents (14–18 years) from hazardous occupations. Rescue of thousands of children from **beedi-making** and **fireworks units** in states like **Tamil Nadu and Telangana.**
+- <mark class="hltr-boom-bam">**National Child Labour Project (NCLP):** Launched in **1988**, this centrally sponsored scheme focuses on **identifying, rescuing, and rehabilitating child labourers**through **special training centres.**</mark>
+- Programs like **Right to Education Act (2009)**, **Mid-Day Meal Scheme**, and **Samagra Shiksha** aim to improve school access and retention
+
+#### Way forward
+- Empower **panchayats**, **school management committees**, and **civil society** to track school dropouts
+- Finalize and implement a **revised National Child Policy** aligned with **SDG 8.7**, and strengthen **rehabilitation measures**like skill development, financial support, and psychosocial care for rescued children.
