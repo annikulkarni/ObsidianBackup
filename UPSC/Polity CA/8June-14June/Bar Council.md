@@ -1,2 +1,0 @@
-- The BCI is a **_statutory body_** established under the **Advocates Act, 1961** to regulate the legal profession and legal education in India.
-- 
