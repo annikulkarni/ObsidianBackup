@@ -13,6 +13,11 @@ Leading to authoritarianism?
 - could be exploited by **international armed groups** to **smuggle weapons** and infiltrate conflict zones.
 - no guarantee that **humanitarian aid** will reach only the intended civilian population (like **Rohingya**) and not be diverted to **militant factions**
 
+#### Democratic concerns
 
 - **Exclusion of major political parties** weakens democratic legitimacy
-- 
+- The **ban on the Awami League** and the **marginalisation of the BNP**
+- The vacuum created by sidelining mainstream parties can be filled by **unaccountable or extremist groups**, increasing **political instability**. **Eg**: The rise of the **National Citizens Party (NCP)**, referred to as the **‘King’s Party’** by the BNP, raises fears of **state-sponsored political manipulation**.
+
+Forward
+- Clearly define and **restrict the mandate** of the interim government to **conduct elections only**, and restrain from actions which require public mandate
