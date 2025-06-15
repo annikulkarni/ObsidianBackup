@@ -9,4 +9,6 @@
 - chokepoints like the **Strait of Hormuz** can disrupt global energy flows. **Eg**: About **20% of global oil**
 
 #### US foreign policy 
+- The U.S. pulled out of the **Joint Comprehensive Plan of Action (JCPOA)** in 2018
+- the U.S. exited the deal and applied **“maximum pressure” sanctions**
 - 
