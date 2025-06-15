@@ -15,7 +15,7 @@ shocking reminder of how poor aviation safety is in India
 - in the current incident breaching **ICAO Annex 13**
 - **strict runway maintenance**, especially before seasonal weather shifts, to prevent bird strikes and foreign object damage.
 
-
-Enforce strict compliance with **ICAO safety protocols**, such as restricting construction near flight paths and maintaining airport surroundings.
-
-Create an **autonomous investigation body** separate from the Ministry of Civil Aviatio
+#### Way forward
+- Enforce strict compliance with **ICAO safety protocols**, such as restricting construction near flight paths and maintaining airport surroundings.
+- Create an **autonomous investigation body** separate from the Ministry of Civil Aviation
+- The U.S. **NTSB** operates independently of the FAA
