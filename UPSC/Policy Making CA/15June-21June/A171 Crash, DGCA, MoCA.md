@@ -7,4 +7,15 @@ shocking reminder of how poor aviation safety is in India
 
 #### lack of accountability 
 - scapegoating pilots, not addressing deeper regulatory and infrastructural issues
-- 
+- **named the pilots publicly**, violating **ICAO norms**
+- After **Mangaluru crash**, a **PIL listing DGCA and MoCA violations** was dismissed
+
+#### What was violated 
+- The **International Civil Aviation Organization (ICAO)** mandates that crew identities be protected during and after investigations
+- in the current incident breaching **ICAO Annex 13**
+- **strict runway maintenance**, especially before seasonal weather shifts, to prevent bird strikes and foreign object damage.
+
+
+Enforce strict compliance with **ICAO safety protocols**, such as restricting construction near flight paths and maintaining airport surroundings.
+
+Create an **autonomous investigation body** separate from the Ministry of Civil Aviatio
