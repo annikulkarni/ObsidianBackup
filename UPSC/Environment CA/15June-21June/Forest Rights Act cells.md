@@ -1,0 +1,5 @@
+- Under [[DAJUA]] Ministry of Tribal Affairs has sanctioned the creation of District and State-level Forest Rights Act (FRA) Cells across 18
+- FRA Cells are **administrative support units** assist implementing Forest Rights Act
+- **funded directly by the Union Ministry of Tribal Affairs**
+- **help tribal claimants and Gram Sabhas** prepare and submit **forest rights claims**
+- 
