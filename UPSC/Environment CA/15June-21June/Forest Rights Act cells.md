@@ -15,7 +15,7 @@
 	- **Community Forest Resource (CFR) rights** to manage and protect forests
 - The Act is implemented through a **multi-tier system** consisting of Gram Sabhas, Forest Rights Committees (FRCs), SDLCs, DLCs, and State Monitoring Committees.
 - **legal protection from evictions**, supports **livelihoods**, and enhances **local forest governance**
-- 
+
 
 
 
