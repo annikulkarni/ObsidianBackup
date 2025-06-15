@@ -47,6 +47,11 @@ Develop Indian-flagged cable repair vessels and expand cable landing stations
 - administration failed to account for **services** and **arms trade** while citing **trade deficits** as justification.
 - U.S. cited a **$44.4 billion deficit** with **India**, while it actually runs a **$35–40 billion surplus** when services are included.
 - contradicted **U.S. commitments under WTO agreements** and eroded **global trade norms**, Eg: **tariffs** even to **uninhabited territories** like the **Heard and McDonald Islands**
+
+#### Justification by US
+- Despite WTO panels rejecting the **justification** in 2022, the U.S. raised **steel and aluminium tariffs** to **50%** on India.
+- enhanced **tariffs** served as **negotiation tools** to pressure trade partners eg: US claimed that tariffs helped them to negotiate trade deal with india
+- The **50% tariffs** imposed in 2025 contradicted the **earlier settlement**, undermining trust in **WTO dispute resolution**.
 - 
 
 
