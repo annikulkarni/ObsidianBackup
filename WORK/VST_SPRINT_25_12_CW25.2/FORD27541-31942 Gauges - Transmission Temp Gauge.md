@@ -16,3 +16,5 @@ at 132
 
 Need requirement for this
 Check what do they want, it seems they are not seeing the colour transition, they only see blue and red, just align the numbers with that, VP is sending the values differently it seems
+
+waiting for requirement

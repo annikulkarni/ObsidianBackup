@@ -10,7 +10,6 @@
 - often **responds after accidents occur**, rather than identifying and mitigating risks in advance
 - Multiple **helicopter and flying school crashes** in 2024–25 were not adequately investigated for systemic lapses
 
-#### WHy pilots are blamed
-- **Legally Convenient: **In many crash reports, including **Aurangabad crash (1993)**, pilot error was highlighted, structural or operational flaws downplayed
+#### Why pilots are blamed
+- **Legally Convenient: **In many crash reports, including **Aurangabad crash (1993)**, pilot error was highlighted, structural or operational flaws were downplayed
 - It **protects airlines, maintenance agencies, air traffic control**, and the regulator from scrutiny
-- 
