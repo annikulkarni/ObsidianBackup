@@ -12,12 +12,17 @@ the thing is we need to have the signal to send dashes AND the fault signal in t
 - the signal to send distance and ev distance for this trip are in tripData, that is  IodReceiveTransformTripStats (function)     static tsIodTripsData sIodData;(data structure) in these
 - but the signal for dashes is in fuel economy, that is not working practically
 
-The above mentioned issue was not there, just added signal in fuel economy, reloaded in fuel economy kanzi, and used that in trip_iod kanzi project to show dashes 
+<mark class="hltr-boom-bam">The above mentioned issue was a wrong assumption</mark>, just added signal in fuel economy, reloaded in fuel economy kanzi, and used that in trip_iod kanzi project to show dashes 
 
 Implemented
 DI APPS is testing
 Testing done, issue in Connection from VP to HMI
 working in target through VMF :) waiting for RTE team to test and close the defect
 
+Testing sequence
 
+Verified Version
+None
+
+![[Pasted image 20250618120834.png]]
 

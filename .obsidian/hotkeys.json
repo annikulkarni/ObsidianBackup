@@ -6,5 +6,13 @@
       ],
       "key": "Q"
     }
+  ],
+  "highlightr-plugin:Red": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "B"
+    }
   ]
 }
