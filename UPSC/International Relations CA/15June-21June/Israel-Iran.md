@@ -60,4 +60,5 @@ Israel controls the skies and keeps bombing Iran to stop its nuclear program
 
 #### way forward
 - _Global powers, especially the_ **_U.S._**_,_ **_EU_**_, and_ **_UN_**_, should mediate a_ **_ceasefire_** _to de-escalate hostilities and revive_ **_nuclear diplomacy_**
+- _Establish a joint_ **_crisis response framework_** _involving_ **_regional actors_** _(like_ **_Saudi Arabia_**_,_ **_UAE_**_, and_ **_Turkey_**_) to contain_ **_proxy escalations_** _and protect_ **_civilian infrastructure_**_._
 - 
