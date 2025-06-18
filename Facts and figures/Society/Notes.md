@@ -1,0 +1,3 @@
+- The Economic Survey 2025-26 reports that Indian pension assets amount to just 17% of GDP, compared with up to 80% in many advanced economies.
+- Currently, only around 12% of India’s workforce is covered by formal pension schemes.
+- 
