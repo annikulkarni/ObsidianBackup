@@ -12,7 +12,24 @@
       "modifiers": [
         "Mod"
       ],
-      "key": "B"
+      "key": "R"
     }
-  ]
+  ],
+  "highlightr-plugin:Yellow": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "Y"
+    }
+  ],
+  "highlightr-plugin:Green": [
+    {
+      "modifiers": [
+        "Mod"
+      ],
+      "key": "G"
+    }
+  ],
+  "graph:open": []
 }
