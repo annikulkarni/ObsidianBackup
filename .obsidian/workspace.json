@@ -25,12 +25,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Facts and figures/Society/Notes.md",
+                "file": "UPSC/International Relations CA/15June-21June/Israel-Iran.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Notes"
+              "title": "Israel-Iran"
             }
           }
         ],
@@ -185,8 +185,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5,
-    "collapsed": true
+    "width": 280.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -199,10 +198,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1261f5cbd4f05ae",
+  "active": "889f6d24319ee1cc",
   "lastOpenFiles": [
-    "Code.md",
     "Facts and figures/Society/Notes.md",
+    "Code.md",
     "Facts and figures/Society",
     "VIM/VIM TIPS.md",
     "VIM/VIM.md",

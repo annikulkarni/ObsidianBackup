@@ -31,4 +31,7 @@
 - should diversify oil import sources (e.g., from Latin America, Africa) and **expand strategic petroleum reserves**
 - deals with Brazil, UAE, and the U.S., while increasing domestic oil storage capacity.
 - India must engage in **quiet diplomacy** with both Israel and Iran, reaffirming strategic ties without compromising neutrality. using platforms like G20, SCO, BRICS need to promote regional de escalation
+
+
+# What is Netanyahu’s endgame in Iran
 - 
