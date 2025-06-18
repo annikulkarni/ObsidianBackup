@@ -3,4 +3,8 @@
 - GC : 84% SC: 69% ST: 64%, lowest income decile : 71% LACK, hightest income decile : 1.9% lack 
 - 94% Rural house holds own mobile phone, only 25.3% GC women use it independently, while SC women even lower
 - **skills like emailing and online banking** are still underdeveloped. 20% of rural, 40% of urban can send and receive mails, only 37% can do online banking transactions
-- 
+
+way forward
+- Make broadband a basic utility, like water or electricity, to ensure universal access. Provide **low-cost broadband plans** or **free connections** for families in the **bottom income deciles**
+- Government-backed **digital literacy missions** in rural areas
+- nsure equal digital access for **SCs, STs, OBCs**, and **women** through targeted schemes. **Eg**: Initiate **women-focused mobile usage schemes** in rural areas
