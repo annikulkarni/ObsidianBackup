@@ -45,4 +45,19 @@ Israel controls the skies and keeps bombing Iran to stop its nuclear program
 - Iran launched **~400 missiles**, striking targets in Israel like the **Haifa oil refinery**
 
 #### Regional security 
-- Hezbollah in leba
+- Hezbollah in lebanon, Shia militants in Iraq and syria could retalitate, may escalate beyond israel and iran
+- derails ongoing peace talks and normalisation efforts between Israel and Arab nations
+- ran may target Gulf oil infrastructure or tankers, affecting exports from **Saudi Arabia**, **Kuwait**, and **UAE**
+
+#### US role
+- the U.S. has tacitly approved Israel’s actions, trump opposed on social media
+- Netanyahu admitted they have attacked with clear green light of USA
+- **Iran has been cautious** to avoid direct conflict with U.S. forces
+#### Future
+- Israel can continue bombing, but it doesnt have the capabilities to completely destroy Iran's nuclear capabilites
+- It can pause attacks to allow negotiations between US and Iran, US use attacks to force Iran to a deal 
+- **Eg:** Iran reportedly sent **feelers through Gulf countries** expressing willingness to talk if Israel stops bombing
+
+#### way forward
+- _Global powers, especially the_ **_U.S._**_,_ **_EU_**_, and_ **_UN_**_, should mediate a_ **_ceasefire_** _to de-escalate hostilities and revive_ **_nuclear diplomacy_**
+- 
