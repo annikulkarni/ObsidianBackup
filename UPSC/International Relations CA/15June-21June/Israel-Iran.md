@@ -34,4 +34,15 @@
 
 
 # What is Netanyahu’s endgame in Iran
-- 
+Israel controls the skies and keeps bombing Iran to stop its nuclear program
+
+- Israel aimed to destroy key facilities involved in uranium enrichment and nuclear fuel processing. **Eg:** The air strikes on **Natanz** and **Isfahan Nuclear Technology Centre** targeted centrifuge halls, uranium conversion labs, and fuel manufacturing plants.
+- weaken Iran’s retaliatory capabilities by decapitating its chain of command
+- came 3days just before scheduled U.S.-Iran 6th nuclear talks
+
+- The **Natanz facility’s** above-ground buildings were “completely destroyed”, but the **underground centrifuge hall** remained mostly intact, as per the **IAEA**.
+- Several critical facilities were hit, At **Isfahan**, Israel destroyed a **chemical lab**, **uranium conversion plant**, **fuel manufacturing plant**
+- Iran launched **~400 missiles**, striking targets in Israel like the **Haifa oil refinery**
+
+#### Regional security 
+- Hezbollah in leba
