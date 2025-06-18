@@ -16,5 +16,8 @@ The above mentioned issue was not there, just added signal in fuel economy, relo
 
 Implemented
 DI APPS is testing
+Testing done, issue in Connection from VP to HMI
+working in target through VMF :) waiting for RTE team to test and close the defect
+
 
 

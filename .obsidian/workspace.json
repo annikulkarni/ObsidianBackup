@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-35652 Trip Summary.md",
+                "file": "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-31942 Gauges - Transmission Temp Gauge.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FORD27541-35652 Trip Summary"
+              "title": "FORD27541-31942 Gauges - Transmission Temp Gauge"
             }
           },
           {
@@ -27,16 +27,15 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-36357 FNV 2.0 PCA.md",
+                "file": "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-35651 This Trip.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FORD27541-36357 FNV 2.0 PCA"
+              "title": "FORD27541-35651 This Trip"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "vertical"
@@ -68,7 +67,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "cai",
+                "query": "",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -201,10 +200,13 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "e1261f5cbd4f05ae",
+  "active": "a0797fb20afd3e77",
   "lastOpenFiles": [
-    "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-36288 FNV 2.1 PCA.md",
     "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-35652 Trip Summary.md",
+    "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-35651 This Trip.md",
+    "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-35653 Trip Summary.md",
+    "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-36357 FNV 2.0 PCA.md",
+    "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-36288 FNV 2.1 PCA.md",
     "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-38040 RPMx1000 text.md",
     "VIM/VIM.md",
     "UPSC/Schemes/PRASHAD.md",
@@ -215,9 +217,6 @@
     "UPSC/Social Justice CA/Untitled.md",
     "UPSC/Society CA",
     "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-31942 Gauges - Transmission Temp Gauge.md",
-    "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-35651 This Trip.md",
-    "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-35653 Trip Summary.md",
-    "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-36357 FNV 2.0 PCA.md",
     "UPSC/Environment CA/15June-21June/Air craft accident investigation.md",
     "UPSC/Environment CA/15June-21June/Flue Gas Desulphurisation.md",
     "UPSC/GS so far.md",
