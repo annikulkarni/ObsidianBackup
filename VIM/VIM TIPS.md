@@ -40,7 +40,6 @@ Vertical Navigation
         Ctrl-d: Scroll down half a page.
         Ctrl-u: Scroll up half a page.
         Ctrl-e: Scroll down one line.
-        Ctrl-y: Scroll up one line.
     Paragraph and Block Navigation:
         {: Move to the previous paragraph or block (empty line or scope boundary, depending on file type).
         }: Move to the next paragraph or block.
