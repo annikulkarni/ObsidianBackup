@@ -128,26 +128,50 @@
 ---
 ### Year 2018
 
-1. In the light of recent controversy regarding the use of Electronic Voting Machines (EVM), what are the challenges before the Election Commission of India to ensure the trustworthiness of elections in India? (Answer in 150 words) [10 marks]
-2. Whether National Commission for Scheduled Castes (NCSC) can enforce the implementation of constitutional reservation for the Scheduled Castes in the religious minority institutions? Examine. (Answer in 150 words) [10 marks]
-3. Under what circumstances can the Financial Emergency be proclaimed by the President of India? What consequences follow when such a declaration remains in force? (Answer in 150 words) [10 marks]
-4. Why do you think the committees are considered to be useful for parliamentary work? Discuss, in this context, the role of the Estimates Committee. (Answer in 150 words) [10 marks]
-5. “The Comptroller and Auditor General (CAG) has a very vital role to play.” Explain how this is reflected in the method and terms of his appointment as well as the range of powers he can exercise. (Answer in 150 words) [10 marks]
-6. “Policy contradictions among various competing sectors and stakeholders have resulted in inadequate ‘protection and prevention of degradation’ to environment.” Comment with relevant illustrations. (Answer in 150 words) [10 marks]
-7. Appropriate local community-level healthcare intervention is a prerequisite to achieve ‘Health for All’ in India. Explain. (Answer in 150 words) [10 marks]
-8. E-governance is not only about utilization of the power of new technology, but also much about critical importance of the ‘use value’ of information. Explain. (Answer in 150 words) [10 marks]
-9. “India’s relations with Israel have, of late, acquired a depth and diversity, which cannot be rolled back.” Discuss. (Answer in 150 words) [10 marks]
-10. A number of outside powers have entrenched themselves in Central Asia, which is a zone of interest to India. Discuss the implications, in this context, of India’s joining the Ashgabat Agreement, 2018. (Answer in 150 words) [10 marks]
-11. Whether the Supreme Court Judgement (July 2018) can settle the political tussle between the Lt. Governor and elected government of Delhi? Examine. (Answer in 250 words) [15 marks]
-12. How far do you agree with the view that tribunals curtail the jurisdiction of ordinary courts? In view of the above, discuss the constitutional validity and competency of the tribunals in India. (Answer in 250 words) [15 marks]
-13. India and USA are two large democracies. Examine the basic tenets on which the two political systems are based. (Answer in 250 words) [15 marks]
-14. How is the Finance Commission of India constituted? What do you know about the terms of reference of the recently constituted Finance Commission? Discuss. (Answer in 250 words) [15 marks]
-15. Assess the importance of the Panchayat system in India as a part of local government. Apart from government grants, what sources the Panchayats can look out for financing developmental projects? (Answer in 250 words) [15 marks]
-16. Multiplicity of various commissions for the vulnerable sections of the society leads to problems of overlapping jurisdiction and duplication of functions. Is it better to merge all commissions into an umbrella Human Rights Commission? Argue your case. (Answer in 250 words) [15 marks]
-17. How far do you agree with the view that the focus on lack of availability of food as the main cause of hunger takes the attention away from ineffective human development policies in India? (Answer in 250 words) [15 marks]
-18. The Citizens’ Charter is an ideal instrument of organizational transparency and accountability, but it has its own limitations. Identify the limitations and suggest measures for greater effectiveness of the Citizens’ Charter. (Answer in 250 words) [15 marks]
-19. What are the key areas of reform if the WTO has to survive in the present context of ‘Trade War’, especially keeping in mind the interest of India? (Answer in 250 words) [15 marks]
-20. In what ways would the ongoing US-Iran Nuclear Pact Controversy affect the national interest of India? How should India respond to this situation? (Answer in 250 words) [15 marks]
+**Questions 1 to 10 (150 words each, 10 marks each):**
+
+1. “Access to affordable, reliable, sustainable and modern energy is the sine qua non to achieve Sustainable Development Goals (SDGs).” Comment on the progress made in India in this regard.
+
+2. Comment on the important changes introduced in respect of the Long-term Capital Gains Tax (LCGT) and Dividend Distribution Tax (DDT) in the Union Budget for 2018-2019.
+
+3. What do you mean by Minimum Support Price (MSP)? How will MSP rescue the farmers from the low income trap?
+
+4. Examine the role of supermarkets in supply chain management of fruits, vegetables and food items. How do they eliminate number of intermediaries?
+
+5. Discuss the work of ‘Bose-Einstein Statistics’ done by Prof. Satyendra Nath Bose and show how it revolutionized the field of Physics.
+
+6. What are the impediments in disposing the huge quantities of discarded solid wastes which are continuously being generated? How do we remove safely the toxic wastes that have been accumulating in our habitable environment?
+
+7. What is wetland? Explain the Ramsar concept of ‘wise use’ in the context of wetland conservation. Cite two examples of Ramsar sites from India.
+
+8. Sikkim is the first ‘Organic State’ in India. What are the ecological and economical benefits of Organic State?
+
+9. The China-Pakistan Economic Corridor (CPEC) is viewed as a cardinal subset of China’s larger ‘One Belt One Road’ initiative. Give a brief description of CPEC and enumerate the reasons why India has distanced itself from the same.
+
+10. Left Wing Extremism (LWE) is showing a downward trend, but still affects many parts of the country. Briefly explain the Government of India’s approach to counter the challenges posed by LWE.
+
+**Questions 11 to 20 (250 words each, 15 marks each):**
+
+11. How are the principles followed by the NITI Aayog different from those followed by the erstwhile Planning Commission in India?
+
+12. How would the recent phenomena of protectionism and currency manipulations in world trade affect macroeconomic stability of India?
+
+13. Assess the role of National Horticulture Mission (NHM) in boosting the production, productivity and income of horticulture farms. How far has it succeeded in increasing the income of farmers?
+
+14. How has the emphasis on certain crops brought about changes in cropping patterns in recent past? Elaborate the emphasis on millets production and consumption.
+
+15. Why is there so much activity in the field of biotechnology in our country? How has this activity benefitted the field of biopharma?
+
+16. With growing energy needs should India keep on expanding its nuclear energy programme? Discuss the facts and fears associated with nuclear energy.
+
+17. How does biodiversity vary in India? How is the Biological Diversity Act, 2002 helpful in conservation of flora and fauna?
+
+18. Describe various measures taken in India for Disaster Risk Reduction (DRR) before and after signing ‘Sendai Framework for DRR (2015-2030)’. How is this framework different from ‘Hyogo Framework for Action, 2005’?
+
+19. Data security has assumed significant importance in the digitized world due to rising cyber crimes. The Justice B. N. Srikrishna Committee Report addresses issues related to data security. What, in your view, are the strengths and weaknesses of the Report relating to protection of personal data in cyber space?
+
+20. India’s proximity to two of the world’s biggest illicit opium-growing states has enhanced her internal security concerns. Explain the linkages between drug trafficking and other illicit activities such as gunrunning, money laundering and human trafficking. What counter-measures should be taken to prevent the same?
+
 ### Year 2019
 
 1. Enumerate the indirect taxes which have been subsumed in the Goods and Services Tax (GST) in India. Also, comment on the revenue implications of the GST introduced in India since July 2017. (150 words)

@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GS Questions/GS2 All questions.md",
+                "file": "UPSC/International Relations CA/15June-21June/Oil-Prices (Iran-israel).md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GS2 All questions"
+              "title": "Oil-Prices (Iran-israel)"
             }
           },
           {
@@ -157,13 +157,13 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "GS Questions/GS2 All questions.md",
+                "file": "UPSC/International Relations CA/15June-21June/Oil-Prices (Iran-israel).md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Outline of GS2 All questions"
+              "title": "Outline of Oil-Prices (Iran-israel)"
             }
           },
           {
@@ -184,6 +184,16 @@
               "state": {},
               "icon": "git-pull-request",
               "title": "Source Control"
+            }
+          },
+          {
+            "id": "0fa48d43c197792d",
+            "type": "leaf",
+            "state": {
+              "type": "smart-lookup-view",
+              "state": {},
+              "icon": "search",
+              "title": "Smart Lookup"
             }
           }
         ],
@@ -225,12 +235,12 @@
   },
   "active": "a0797fb20afd3e77",
   "lastOpenFiles": [
-    "GS Questions/GS3 All questions.md",
     "GS Questions/GS2 All questions.md",
+    "GS Questions/GS3 All questions.md",
+    "GS Questions/GS4 All questions.md",
     "GS Questions/GS1 All Questions.md",
     "UPSC/International Relations CA/15June-21June/Oil-Prices (Iran-israel).md",
     "GS Questions",
-    "GS Questions/GS4 All questions.md",
     "UPSC/International Relations CA/2June-7June/India - Australia.md",
     "GS Questions",
     "UPSC/International Relations CA/15June-21June/BIMSTEC.md",
