@@ -16,3 +16,4 @@ Make changes according to the requirement
 
 ![[Pasted image 20250605164448.png]]Still working on it in ui core
 still stuck in ui core, units and value are in two different screens causing issue
+
