@@ -120,27 +120,26 @@
 
 ### Year 2018
 
-1. Safeguarding Indian heritage is need for the moment. Discuss [150 words] 10
-2. Assess the importance of accounts of Chinese and Arab travellers in reconstructing the history of India. [150 words] 10
-3. Throw light on the significance of Mahatma Gandhi’s thoughts in the present times. [150 words] 10
-4. Why is the Indian Regional Navigational Satellite System (IRNSS) needed? How does it help in navigation? [150 words] 10
-5. Why is India taking a keen interest in the resources of the Arctic Region? [150 words] 10
-6. Define mantle plume and explain its role in plate tectonics. [150 words] 10
-7. What are the consequences of the spreading of ‘Dead Zones’ on the marine ecosystem? [150 words] 10
-8. Comment: “The caste system is assuming new identities and associational forms. Hence, it cannot be eradicated in India.” [150 words] 10
-9. Explain why poverty still exists in India despite various government programmes for its eradication. [150 words] 10
-10. How is the Indian concept of secularism different from the Western model? Discuss. [150 words] 10
-11. Discuss how the Bhakti movement received a remarkable re-orientation with the advent of Sri Chaitanya Mahaprabhu. [250 words] 15
-12. Discuss whether the formation of new states in recent times is beneficial for India’s economy. [250 words] 15
-13. Why was indentured labour taken by the British from India to other colonies? Have they preserved their cultural identity there? [250 words] 15
-14. How can the water harvesting system be made effective in urban areas as the ideal solution for depleting groundwater resources in India? [250 words] 15
-15. Define the blue revolution and explain the problems and strategies for pisciculture development in India. [250 words] 15
-16. What is the significance of Industrial Corridors in India? Identify them and explain their main characteristics. [250 words] 15
-17. Mention core strategies for transforming aspirational districts in India and explain the nature of convergence, collaboration, and competition for its success. [250 words] 15
-18. Substantiate: “Women’s movement in India has not addressed the issues of women of lower social strata.” [250 words] 15
-19. Elucidate: “Globalization promotes cultural homogenization, but cultural specificities appear strengthened in Indian society.” [250 words] 15
-20. Argue: “Communalism arises either due to power struggle or relative deprivation.” Provide suitable illustrations. [250 words] 15
-
+1. In the light of recent controversy regarding the use of Electronic Voting Machines (EVM), what are the challenges before the Election Commission of India to ensure the trustworthiness of elections in India? (Answer in 150 words)  
+2. Whether National Commission for Scheduled Castes (NCSC) can enforce the implementation of constitutional reservation for the Scheduled Castes in the religious minority institutions? Examine. (Answer in 150 words)  
+3. Under what circumstances can the Financial Emergency be proclaimed by the President of India? What consequences follow when such a declaration remains in force? (Answer in 150 words)  
+4. Why do you think the committees are considered to be useful for parliamentary work? Discuss, in this context, the role of the Estimates Committee. (Answer in 150 words)  
+5. “The Comptroller and Auditor General (CAG) has a very vital role to play.” Explain how this is reflected in the method and terms of his appointment as well as the range of powers he can exercise. (Answer in 150 words)  
+6. “Policy contradictions among various competing sectors and stakeholders have resulted in inadequate ‘protection and prevention of degradation’ to environment.” Comment with relevant illustrations. (Answer in 150 words)  
+7. Appropriate local community-level healthcare intervention is a prerequisite to achieve ‘Health for All’ in India. Explain. (Answer in 150 words)  
+8. E-governance is not only about utilization of the power of new technology, but also much about critical importance of the ‘use value’ of information. Explain. (Answer in 150 words)  
+9. “India’s relations with Israel have, of late, acquired a depth and diversity, which cannot be rolled back.” Discuss. (Answer in 150 words)  
+10. A number of outside powers have entrenched themselves in Central Asia, which is a zone of interest to India. Discuss the implications, in this context, of India’s joining the Ashgabat Agreement, 2018. (Answer in 150 words)  
+11. Whether the Supreme Court Judgement (July 2018) can settle the political tussle between the Lt. Governor and elected government of Delhi? Examine. (Answer in 250 words)  
+12. How far do you agree with the view that tribunals curtail the jurisdiction of ordinary courts? In view of the above, discuss the constitutional validity and competency of the tribunals in India. (Answer in 250 words)  
+13. India and USA are two large democracies. Examine the basic tenets on which the two political systems are based. (Answer in 250 words)  
+14. How is the Finance Commission of India constituted? What do you know about the terms of reference of the recently constituted Finance Commission? Discuss. (Answer in 250 words)  
+15. Assess the importance of the Panchayat system in India as a part of local government. Apart from government grants, what sources the Panchayats can look out for financing developmental projects? (Answer in 250 words)  
+16. Multiplicity of various commissions for the vulnerable sections of the society leads to problems of overlapping jurisdiction and duplication of functions. Is it better to merge all commissions into an umbrella Human Rights Commission? Argue your case. (Answer in 250 words)  
+17. How far do you agree with the view that the focus on lack of availability of food as the main cause of hunger takes the attention away from ineffective human development policies in India? (Answer in 250 words)  
+18. The Citizens’ Charter is an ideal instrument of organizational transparency and accountability, but it has its own limitations. Identify the limitations and suggest measures for greater effectiveness of the Citizens’ Charter. (Answer in 250 words)  
+19. What are the key areas of reform if the WTO has to survive in the present context of ‘Trade War’, especially keeping in mind the interest of India? (Answer in 250 words)  
+20. In what ways would the ongoing US-Iran Nuclear Pact Controversy affect the national interest of India? How should India respond to this situation? (Answer in 250 words)
 ### Year 2019
 
 1. Does the Constitution of India accept the principle of strict separation of powers, or is it based on checks and balances? Explain. [150 words] 10
