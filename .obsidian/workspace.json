@@ -6,31 +6,40 @@
       {
         "id": "f0937245dc3b9120",
         "type": "tabs",
+        "dimension": 71.51029748283753,
         "children": [
           {
             "id": "a0797fb20afd3e77",
             "type": "leaf",
             "state": {
-              "type": "image",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Pasted image 20250527173950.png"
+                "file": "UPSC/International Relations CA/15June-21June/Oil-Prices (Iran-israel).md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-image",
-              "title": "Pasted image 20250527173950"
-            }
-          },
-          {
-            "id": "e1261f5cbd4f05ae",
-            "type": "leaf",
-            "state": {
-              "type": "smart-release-notes-view",
-              "state": {},
-              "icon": "file-text",
-              "title": "Release Notes"
+              "icon": "lucide-file",
+              "title": "Oil-Prices (Iran-israel)"
             }
           }
-        ],
-        "currentTab": 1
+        ]
+      },
+      {
+        "id": "b80046e901ec029a",
+        "type": "tabs",
+        "dimension": 28.489702517162474,
+        "children": [
+          {
+            "id": "49377dd98af1179e",
+            "type": "leaf",
+            "state": {
+              "type": "smart-chat-view",
+              "state": {},
+              "icon": "smart-chat",
+              "title": "Smart Chat"
+            }
+          }
+        ]
       }
     ],
     "direction": "vertical"
@@ -169,6 +178,16 @@
               "icon": "smart-connections",
               "title": "Smart Connections"
             }
+          },
+          {
+            "id": "5610f9eb65eb387c",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {},
+              "icon": "git-pull-request",
+              "title": "Source Control"
+            }
           }
         ],
         "currentTab": 4
@@ -191,7 +210,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 280.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -206,9 +226,11 @@
       "smart-connections:Open: View Smart Connections": false
     }
   },
-  "active": "25c3e29dc1d176e4",
+  "active": "a0797fb20afd3e77",
   "lastOpenFiles": [
+    "UPSC/International Relations CA/15June-21June/BIMSTEC.md",
     "UPSC/International Relations CA/15June-21June/Oil-Prices (Iran-israel).md",
+    "Attachments/Pasted image 20250527173950.png",
     "Personal/Instrumental.md",
     "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-35652 Trip Summary.md",
     "Personal",
@@ -231,7 +253,6 @@
     "Facts and figures/Society",
     "WORK/VST_SPRINT_25_13_CW27.2",
     "Attachments/Pasted image 20250618120834.png",
-    "Attachments/Pasted image 20250527173950.png",
     "Attachments/Pasted image 20250527234730.png",
     "Attachments/Pasted image 20250602190131.jpg",
     "Attachments/Pasted image 20250605163926.png",
@@ -243,13 +264,11 @@
     "UPSC/Schemes/PRASHAD.md",
     "UPSC/International Relations CA/15June-21June/G7.md",
     "UPSC/Society CA/15June-21June/Internet access.md",
-    "UPSC/International Relations CA/15June-21June/BIMSTEC.md",
     "UPSC/Society CA/15June-21June",
     "UPSC/Social Justice CA/Untitled.md",
     "UPSC/Society CA",
     "UPSC/Environment CA/15June-21June/Air craft accident investigation.md",
     "UPSC/Environment CA/15June-21June/Flue Gas Desulphurisation.md",
-    "UPSC/GS so far.md",
     "UPSC/Environment CA/15June-21June",
     "UPSC/Policy Making CA/15June-21June",
     "UPSC/International Relations CA/15June-21June",
