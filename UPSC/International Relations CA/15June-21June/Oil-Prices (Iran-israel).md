@@ -4,4 +4,5 @@
  - In 2024, **84% of crude oil** and **83% of liquefied natural gas (LNG)** transported via, china, japan, India
 
 Economic implications
-- Brent Crude Oil surged to $78 
+- Brent Crude Oil surged to $78, India imports 80% of its crude oil needs
+- 

@@ -20,9 +20,10 @@
   "folder_exclusions": "",
   "smart_view_filter": {
     "render_markdown": true,
-    "show_full_path": true,
+    "show_full_path": false,
     "expanded_view": false,
-    "results_limit": "20"
+    "results_limit": "20",
+    "include_filter": "GS Questions"
   },
   "excluded_headings": "",
   "language": "en",
