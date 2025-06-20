@@ -21,4 +21,16 @@
 Green wall project
 - he **Centre** (Government of India) is spearheading the initiative, allocating funding and coordinating implementation across states.
 - **three states (Haryana, Rajasthan, Gujarat)**, **one UT (Delhi)**  and guidance from the **Wildlife Institute of India (WII)**, using ecological data to target **12 degradation gaps** in the Aravalli range.
+
+#### Addressing carbon sequestration, land degradation
+- **restoring impaired open forests**, which is a **cost-effective and high-impact**
+- Under the **Aravalli Green Wall Project**, **8 lakh hectares** will be restored to combat desertification
+- As per the **Forest Survey of India (FSI)**, restoring **15 million hectares** can sequester **1.89 billion tonnes of CO₂**.
+- <mark class="hltr-boom-bam">
+- climate commitment to create an **additional carbon sink of 2.5 to 3 billion tonnes** of CO₂ by **2030**</mark>
+-  <mark class="hltr-boom-bam">GIM aims to expand **forest and tree cover up to 24.7 million hectares**, capturing **3.39 billion tonnes of CO₂**.</mark>
+
+- Adopt a **holistic, ecosystem-specific approach** by aligning GIM with other environmental programs (e.g., CAMPA, MGNREGS)
+- Use **technology (GIS, remote sensing)** for real-time progress tracking, while empowering **local communities**
+ 
 - 
