@@ -19,4 +19,4 @@ What ensures safe oil transit through
 #### Way forward
 - through **coalitions like the International Maritime Security Construct (IMSC**
 - Investing in **alternative pipelines and trade routes** (e.g., via Red Sea or land-based pipelines)
-- 
+- The<mark class="hltr-boom-bam"> **UAE’s Habshan-Fujairah pipeline** bypasses the Strait and delivers oil directly to the Arabian Sea</mark>
