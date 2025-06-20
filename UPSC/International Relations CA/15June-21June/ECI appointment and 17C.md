@@ -1,0 +1,2 @@
+- The **2023 Election Commissioners Appointment Act** provides a **2:1 majority** to the **executive** in the **selection committee** — comprising the **Prime Minister**, the **Home Minister**, and the **Leader of the Opposition**.
+- 
