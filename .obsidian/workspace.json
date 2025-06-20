@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "UPSC/Schemes/PMAY.md",
+                "file": "VIM/VIM TIPS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "PMAY"
+              "title": "VIM TIPS"
             }
           }
         ],
@@ -102,7 +102,7 @@
       {
         "id": "d3b8c15d0863c4fd",
         "type": "tabs",
-        "dimension": 70.8454810495627,
+        "dimension": 70.84548104956268,
         "children": [
           {
             "id": "4f8cd2e900c632f8",
@@ -203,7 +203,7 @@
       {
         "id": "5e707860d2995b40",
         "type": "tabs",
-        "dimension": 29.154518950437318,
+        "dimension": 29.154518950437314,
         "children": [
           {
             "id": "889f6d24319ee1cc",
@@ -237,8 +237,9 @@
   },
   "active": "f4ca6ba0294d5125",
   "lastOpenFiles": [
-    "UPSC/International Relations CA/15June-21June/ECI appointment and 17C.md",
+    "VIM/VIM.md",
     "UPSC/Schemes/PMAY.md",
+    "UPSC/International Relations CA/15June-21June/ECI appointment and 17C.md",
     "UPSC/International Relations CA/15June-21June/India US.md",
     "GS Questions/GS1 All Questions.md",
     "UPSC/International Relations CA/15June-21June/BIMSTEC.md",
@@ -262,7 +263,6 @@
     "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-35653 Trip Summary.md",
     "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-36288 FNV 2.1 PCA.md",
     "WORK/VST_SPRINT_25_12_CW25.2/FORD27541-36357 FNV 2.0 PCA.md",
-    "VIM/VIM.md",
     "WORK/VST_SPRINT_25_13_CW27.2/FORD27541-38620 B1.7 PHEV IFE Bar not functioning.md",
     "UPSC/Economics CA/15June-21June/Rice evolution.md",
     "UPSC/Economics CA/2June-7June/IBC an effective resolution tool.md",
