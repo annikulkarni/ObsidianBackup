@@ -219,7 +219,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 330.5
+    "width": 200,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -234,7 +235,7 @@
       "smart-connections:Open: View Smart Connections": false
     }
   },
-  "active": "f4ca6ba0294d5125",
+  "active": "2f11eb86e085ef0f",
   "lastOpenFiles": [
     "UPSC/International Relations CA/15June-21June/India US.md",
     "UPSC/International Relations CA/15June-21June/ECI appointment and 17C.md",
