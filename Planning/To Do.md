@@ -3,7 +3,9 @@ https://anudeepdurishetty.in/how-to-conquer-gs-in-upsc-mains-explained/
 June 21 to July 15 - GS1 
 - Doing society
 - June 21 to 30 finish society and art and culture
-- Next 15 days we can do geography
+- 22 - society need to be finished
+- We need to finish spectrum in this only 23rd to 2July finish with notes, can extend a little bit as geography notes are done already
+- Next 15 days we can do geography with 2nd July to 15July geography 
 - Need to do notes for geography, have done, check them and do what extra needed when studying 
 July 16 - Aug 15 GS2
 - Laxmikanth in and out have read 4 times, read again and make notes
