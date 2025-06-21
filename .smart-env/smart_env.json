@@ -14,6 +14,9 @@
         "model_key": "TaylorAI/bge-micro-v2"
       },
       "TaylorAI/bge-micro-v2": {}
+    },
+    "smart_view_filter": {
+      "expanded_view": true
     }
   },
   "file_exclusions": "Untitled",
