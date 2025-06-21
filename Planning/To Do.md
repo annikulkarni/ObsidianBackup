@@ -2,10 +2,13 @@ Today is June 21
 https://anudeepdurishetty.in/how-to-conquer-gs-in-upsc-mains-explained/
 June 21 to July 15 - GS1 
 - Doing society
+- June 21 to 30 finish society and art and culture
+- Next 15 days we can do geography
 - Need to do notes for geography, have done, check them and do what extra needed when studying 
 July 16 - Aug 15 GS2
+- Laxmikanth in and out have read 4 times, read again and make notes
 - ARC 2 (One of the best reports ever written for the government. It’s been more than ten years since the reports were published, but the content is still priceless. Read complete reports, memorise only recommendations)
-- 
+
 August 16 - Sept 15 GS3
 - 
 September 16 - Oct 16 GS4

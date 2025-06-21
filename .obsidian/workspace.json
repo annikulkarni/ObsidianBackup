@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Syllabus.md",
+                "file": "Planning/To Do.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Syllabus"
+              "title": "To Do"
             }
           },
           {
@@ -64,7 +64,7 @@
             }
           }
         ],
-        "currentTab": 3
+        "currentTab": 2
       }
     ],
     "direction": "vertical"
@@ -265,12 +265,12 @@
       "obsidian-day-planner:Open Multi-Day View": false
     }
   },
-  "active": "229ee1a23ad251c0",
+  "active": "c5e463e74d27eb7d",
   "lastOpenFiles": [
-    "UPSC 2026.md",
     "Planning/Few things to remember.md",
-    "Planning/To Do.md",
     "Syllabus.md",
+    "Planning/To Do.md",
+    "UPSC 2026.md",
     "Attachments/Anthro_Syllabi.pdf",
     "Attachments/Mains_Syllabus.pdf",
     "Attachments/prelims.pdf",
