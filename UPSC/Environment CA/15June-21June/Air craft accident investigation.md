@@ -3,7 +3,7 @@
 - The **MoCA appoints the heads** of both the **DGCA and the AAIB**
 - Undermining its role as independent investigator
 - unlike the **railway sector**, where investigations are done by the **Commissioner of Railway Safety**
-- The **Air Marshal J.K. Seth Committee Report (1997)** identified serious aviation safety issues, <mark class="hltr-boom-bam">never implemented</mark>
+- The <mark class="hltr-red">**Air Marshal J.K. Seth Committee Report</mark> (1997)** identified serious aviation safety issues, <mark class="hltr-boom-bam">never implemented</mark>
 
 #### systemic flaws
 - India suffers from **poor coordination**, limited resources
