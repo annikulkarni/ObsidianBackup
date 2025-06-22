@@ -6,5 +6,8 @@
   "baseFontSize": 14,
   "theme": "moonstone",
   "monospaceFontFamily": "Verdana",
-  "baseFontSizeAction": true
+  "baseFontSizeAction": true,
+  "enabledCssSnippets": [
+    "my-style"
+  ]
 }

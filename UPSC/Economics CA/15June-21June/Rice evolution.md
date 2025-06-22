@@ -23,4 +23,4 @@ scientists proved that cold exposure in rice plants can cause changes that impro
 #### Way forward
 - Government research bodies and agricultural universities should integrate **epigenetic trait selection and editing** into mainstream
 - Increase funding for **long-term, controlled environment trials** to identify and stabilize **heritable epigenetic traits**
-- 
+ 
