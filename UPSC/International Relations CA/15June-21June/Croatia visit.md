@@ -15,4 +15,13 @@ Since Yugoslavia breakup
 #### Economic and cultural relations
 - increasing from **$199.45 million in 2017** to **$337.68 million in 2023**
 - **medicines, machinery, chemicals**, and **apparel** - India
-- 
+- **scholars and missionaries engaging with Indian traditions and languages** **Ivan Filip Vezdin** printed the **first Sanskrit grammar** in Latin learnt from **Kerala Brahmins**
+- Croatian involvement in the **construction of the Church of Sao Braz in Goa** in the 1560s
+
+#### **India deepen engagement with Central and Eastern Europe amid China’s BRI**
+
+Strengthening ties with countries like **Croatia, Poland, and Hungary** allows India to offer an alternative partnership model based on mutual respect and balanced trade. **India’s bid for permanent membership in the United Nations Security Council (UNSC)**and other multilateral forums.
+Croatia’s role in the **Three Seas Initiative (3SI)** and its ports linked to **Trans-European corridors** can serve as hubs for the **India-Middle East-Europe Economic Corridor (IMEC)**.
+
+India should establish regular **high-level forums and joint working groups** with Croatia and other CEE countries, cooperation in trade, infrastructure, digital tech
+Boosting **people-to-people ties** through scholarships, cultural festivals, and collaborative research
