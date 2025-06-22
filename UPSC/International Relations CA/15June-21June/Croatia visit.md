@@ -11,4 +11,8 @@
 Since Yugoslavia breakup
 - India was among the first non-European countries to **recognise Croatia’s independence in 1992**, The Indian mission in **Zagreb** opened in 1996, ambassadorial level in 1998
 - Friendly ties from the **Non-Aligned Movement (NAM)** days continued, Marshal Tito ( mixed race had a good rapport with india ), 
-- India maintained cordial ties and engaged through **trade, cultural diplomacy**, and **multilateral platforms**
+- India maintained cordial ties and engaged through **trade, cultural diplomacy**, and **multilateral platforms**, despite croatia's focus on NATO and EU  Croatia joined **NATO in 2009** and the **EU in 2013**
+#### Economic and cultural relations
+- increasing from **$199.45 million in 2017** to **$337.68 million in 2023**
+- **medicines, machinery, chemicals**, and **apparel** - India
+- 
