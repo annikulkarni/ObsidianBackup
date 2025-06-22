@@ -6,7 +6,7 @@
 - Low income families rely on children for their income, Eg: Sub saharan africa
 - Lack of schools, infrastructure, hidden costs of travel, deter from attending schools Eg: Afghanistan
 - weak legal enforcement in informal sectors where most of the child labour occurs 
-- Acceptance by society, livelihood and community, eg: working in beedi , carpet rolling
+- <mark class="hltr-red">Acceptance by society</mark>, livelihood and community, eg: working in beedi , carpet rolling
 - Armed conflict, refugee crises, and natural disasters disrupt schooling and increase reliance on child labour for survival eg: syria
 
 #### **national-level challenges in eliminating child labour**

@@ -9,5 +9,6 @@
   "attachmentFolderPath": "/Attachments",
   "defaultViewMode": "source",
   "showLineNumber": false,
-  "vimMode": true
+  "vimMode": true,
+  "spellcheck": false
 }

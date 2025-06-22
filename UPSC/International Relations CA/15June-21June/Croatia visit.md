@@ -20,8 +20,21 @@ Since Yugoslavia breakup
 
 #### **India deepen engagement with Central and Eastern Europe amid China’s BRI**
 
-Strengthening ties with countries like **Croatia, Poland, and Hungary** allows India to offer an alternative partnership model based on mutual respect and balanced trade. **India’s bid for permanent membership in the United Nations Security Council (UNSC)**and other multilateral forums.
+Strengthening ties with countries like **Croatia, Poland, and Hungary** allows India to offer an alternative partnership model based on mutual respect and balanced trade. CEE countries **India’s bid for permanent membership in the United Nations Security Council (UNSC)**and other multilateral forums.
 Croatia’s role in the **Three Seas Initiative (3SI)** and its ports linked to **Trans-European corridors** can serve as hubs for the **India-Middle East-Europe Economic Corridor (IMEC)**.
 
 India should establish regular **high-level forums and joint working groups** with Croatia and other CEE countries, cooperation in trade, infrastructure, digital tech
 Boosting **people-to-people ties** through scholarships, cultural festivals, and collaborative research
+
+#### <mark class="hltr-red">3Si</mark>
+ The Three Seas Initiative was born out of a shared interest in developing transport, energy and digital infrastructure connections on the EU’s north-south axis. Connections that must be trusted, sustainable and inclusive thus strengthening EU cohesion and enrich transatlantic links. 3SI aims to scale up region’s excellence EU-wide and globally. 3SI partners – the United States, Germany, and the European Commission – are closely involved in this process.
+#### Objectives
+
+The Three Seas initiative aims to promote cooperation, first and foremost, for the development of infrastructure in the energy, transport, and digital sectors. It targets new investments, economic growth, and energy security.
+#### Three Seas Story
+
+The cornerstone of Three Seas was laid down in 2015. Today, the initiative comprises of an annual summit held at the presidential level, a business forum, and an international investment fund for the financing of infrastructure projects.
+
+#### Investment Fund
+
+The Three Seas Initiative Investment Fund is a dedicated commercial fund targeting critical infrastructure investment in the region. The fund is advised by Amber Infrastructure Group, an independent specialist international investment manager.
