@@ -27,12 +27,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "GS Questions/GS3 All questions.md",
-                "mode": "preview",
+                "file": "UPSC/Economics CA/22June-28June/Steering Indian economy.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "GS3 All questions"
+              "title": "Steering Indian economy"
             }
           }
         ],
@@ -55,7 +55,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byCreatedTimeReverse",
+                "sortOrder": "byModifiedTime",
                 "autoReveal": false
               },
               "icon": "lucide-folder-closed",
@@ -237,8 +237,10 @@
   },
   "active": "c5e463e74d27eb7d",
   "lastOpenFiles": [
-    "UPSC/Schemes/CROPIC.md",
     "GS Questions/GS3 All questions.md",
+    "UPSC/Economics CA/22June-28June/Steering Indian economy.md",
+    "UPSC/Economics CA/22June-28June",
+    "UPSC/Schemes/CROPIC.md",
     "UPSC/International Relations CA/15June-21June/BIMSTEC.md",
     "Syllabus.md",
     "GS Questions/GS2 All questions.md",
@@ -263,7 +265,6 @@
     "UPSC/International Relations CA/15June-21June/Israel-Iran.md",
     "UPSC/International Relations CA/8June-14June/Bangladesh July Proclamation.md",
     "UPSC/International Relations CA/8June-14June/Trump tar.md",
-    "UPSC/International Relations CA/8June-14June/India - Canada.md",
     "UPSC/Geography CA/15June-21June",
     "UPSC/Geography CA",
     "Attachments/Anthro_Syllabi.pdf",
@@ -273,7 +274,6 @@
     "GS Questions",
     "GS Questions",
     "Attachments/Pasted image 20250527173950.png",
-    "Personal",
     "Attachments/Pasted image 20250618120834.png",
     "Attachments/Pasted image 20250527234730.png",
     "Attachments/Pasted image 20250602190131.jpg",
