@@ -1,13 +1,14 @@
 {
-  "cssTheme": "Minimal",
+  "cssTheme": "Typewriter",
   "accentColor": "#6299b7",
   "textFontFamily": "Verdana",
   "interfaceFontFamily": "Verdana",
-  "baseFontSize": 22,
+  "baseFontSize": 16,
   "theme": "moonstone",
   "monospaceFontFamily": "Verdana",
   "baseFontSizeAction": true,
   "enabledCssSnippets": [
     "my-style"
-  ]
+  ],
+  "nativeMenus": true
 }
