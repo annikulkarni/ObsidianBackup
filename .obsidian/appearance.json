@@ -3,10 +3,10 @@
   "accentColor": "#6299b7",
   "textFontFamily": "Verdana",
   "interfaceFontFamily": "Verdana",
-  "baseFontSize": 14,
+  "baseFontSize": 13,
   "theme": "moonstone",
   "monospaceFontFamily": "Verdana",
-  "baseFontSizeAction": true,
+  "baseFontSizeAction": false,
   "enabledCssSnippets": [
     "my-style"
   ],
