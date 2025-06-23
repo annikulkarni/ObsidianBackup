@@ -22,4 +22,5 @@ GOI
 - PLI : **IoT devices** or **battery raw materials** promotes **domestic manufacturing**,
 - Ensuring **low interest rates** and **easy liquidity** through **monetary support**, RBI's repo rate cut
 
-- In
+- India need to expand PLI schemes for critical goods like wearables, batteries, semiconductors which can generate high value jobs, directly and indirectly, PLI boost FDI and induces technology transfer and helps industires to raise quality standards
+- 
