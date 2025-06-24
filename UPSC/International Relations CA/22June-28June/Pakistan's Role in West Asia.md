@@ -20,4 +20,8 @@ Pakistan Economy
 GOI
 - India continues to balance its ties with Iran and GCC, actively involved in developing chabahar port
 - Saudi arabia and UAE in defence and energy sectors
-- 
+- **increased surveillance and intelligence gathering along the western borders**
+
+Way forward
+- India need to balance relations between the west and IRan, ensuring its energy security, and regional  interests are safeguarded
+- India must stay alert to any spillover effects. **Eg:** Boost **surveillance in Jammu & Kashmir**
