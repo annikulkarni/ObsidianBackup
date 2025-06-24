@@ -17,7 +17,7 @@ the thing is we need to have the signal to send dashes AND the fault signal in t
 Implemented
 DI APPS is testing
 Testing done, issue in Connection from VP to HMI
-working in target through VMF :) waiting for RTE team to test and close the defect
+working in target through VMF :) waiting for RTE team complete and i need to test and close 
 
 Testing sequence
 
