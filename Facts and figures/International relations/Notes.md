@@ -1,2 +1,3 @@
 - In FY2024, India’s exports to the EU stood at $86 billion, while exports to the U.K. totalled $12 billion, highlighting their strategic role in India’s external trade.
-- 
+- Intraregional trade of South Asia (South Asian Free Trade Area or SAFTA) accounts for barely 5% to 7% of its total international trade, which is the lowest when compared to other trading blocs. In contrast, intraregional trade accounts for approximately 45% of total international trade within the European Union (EU), 22% within the Association of Southeast Asian Nations (ASEAN), and around 25% within North American Free Trade Agreement (NAFTA).
+- For instance, South Asia’s bilateral trade cost with the U.S. is only 109% despite the vastly greater distance. It is about 20% more costly for a company in India to trade with Pakistan than with Brazil, which is 22 times farther away.
