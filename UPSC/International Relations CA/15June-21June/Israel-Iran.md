@@ -87,6 +87,29 @@ Israel controls the skies and keeps bombing Iran to stop its nuclear program
 - Investing in **alternative pipelines and trade routes** (e.g., via Red Sea or land-based pipelines)
 - The<mark class="hltr-boom-bam"> **UAE’s Habshan-Fujairah pipeline** bypasses the Strait and delivers oil directly to the Arabian Sea</mark>
 
+### US bombed
+**Operation Midnight Hammer**
+**Fordow**, **Natanz**, and **Isfahan**.
+B2 Stealth bomber B2 - Spirit advanced **long-range, heavy bomber**
+- weakens on going negotiations on JCPOA 2018
+- signals **U.S. commitment to Israel’s security**
+- Set deterrance like in 1981, when Israel attacked Iraq's Osirak reactor
+- its low radar signature and long-range capabilities
+
+#### West asia strategy
+- message against the development of **nuclear weapons**
+- The deployment of **B-2 bombers** and **Tomahawk missiles** illustrates America’s intent to maintain military superiority
+
+Fordow
+- **Fordow nuclear site** is buried **80–90 meters underground**, shielded by **reinforced concrete**, caused only **partial damage**
+- **B-2 Spirit stealth bomber**, supported by **decoy tactics**, **mid-air refuelling**, and **long-duration flights**
+- 2 billion for one boy, high maintenance, 100 hours of maintenence per flight, only 21 in number
+
+
+- India relies on **multirole fighter jets** such as the **Sukhoi Su-30MKI**, **Rafale**, and **Mirage-2000**
+- but **lack deep-strike stealth capabilities** and the **payload capacity**
+- Sukhoi su 30 KMcan carry brahmos 
+
 
 
 
