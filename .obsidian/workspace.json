@@ -20,8 +20,23 @@
               "icon": "lucide-file",
               "title": "Schemes"
             }
+          },
+          {
+            "id": "c9c516f698f18e67",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "UPSC/Things to Remember Prelims/Facts/Science And Tech.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Science And Tech"
+            }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -220,8 +235,13 @@
       "smart-connections:Open: View Smart Connections": false
     }
   },
-  "active": "d7b583d4dd1ef095",
+  "active": "c9c516f698f18e67",
   "lastOpenFiles": [
+    "UPSC/Things to Remember Prelims/Points to add in your answers/Evaporative Demand.md",
+    "UPSC/Things to Remember Prelims/Schemes/DAJA.md",
+    "UPSC/Things to Remember Prelims/Schemes.md",
+    "UPSC/Things to Remember Prelims/Schemes",
+    "scme.md",
     "UPSC/Policy Making CA/22June-28June/Safe drinking water.md",
     "UPSC/Policy Making CA/22June-28June/Gender equity in urban bureaucracy.md",
     "UPSC/International Relations CA/15June-21June/Israel-Iran.md",
@@ -248,10 +268,6 @@
     "GS Questions/GS4 All questions.md",
     "UPSC/Things to Remember Prelims/Points to add in your answers/Use of AI in education.md",
     "Attachments/Pasted image 20250624210310.png",
-    "UPSC/Things to Remember Prelims/Points to add in your answers/AI.md",
-    "UPSC/Schemes/NAVYA.md",
-    "UPSC/Things to Remember Prelims/Schemes.md",
-    "UPSC/Environment CA/25May-31May/Critical Minerals.md",
     "Attachments/Pasted image 20250623211401.png",
     "UPSC/Science and Tech CA/22June-28June",
     "UPSC/International Relations CA/22June-28June",
@@ -261,7 +277,6 @@
     "UPSC/Geography CA",
     "Attachments/Anthro_Syllabi.pdf",
     "Attachments/Mains_Syllabus.pdf",
-    "Attachments/prelims.pdf",
     "Attachments/Pasted image 20250527173950.png",
     "Attachments/Pasted image 20250618120834.png",
     "Attachments/Pasted image 20250527234730.png",

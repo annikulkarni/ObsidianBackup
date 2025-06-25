@@ -1,0 +1,4 @@
+- **Definition**: **Evaporative demand** is the measure of how much water the atmosphere can potentially absorb from land, plants, and water surfaces if there is unlimited water available. It tells us how **“thirsty” the atmosphere** is.
+- **Nature of Measurement**: It is not about how much water is actually lost but how much could be lost if water was fully available. It depends on weather conditions, not the amount of water in the soil.
+- **Standard Metric**: The most widely used metric to quantify this is **Standardized Short-Crop Reference Evapotranspiration (ETos)**—which assumes a 12 cm grass surface with unlimited water availability.
+- **Impact of Global Warming**: As global warming increases atmospheric heat, evaporative demand also rises, making the air more “thirsty”.
