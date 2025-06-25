@@ -1,0 +1,3 @@
+- Safe drinking water refers to water that is **free from harmful contaminants** such as **bacteria, viruses, and chemicals.**
+- It must be located on the premises, readily available when needed
+- 
