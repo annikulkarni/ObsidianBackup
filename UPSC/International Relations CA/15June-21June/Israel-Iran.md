@@ -66,7 +66,7 @@ Israel controls the skies and keeps bombing Iran to stop its nuclear program
 
 ---
 
-### Oil-Prices (Iran-israel)
+# Oil-Prices (Iran-israel)
 
 #### Strait of Hormuz
  - most important maritime chokepoints, through which nearly **20 million barrels per day (mb/d)** of oil passed in 2024 — about **one-fifth of global consumption** strait handled the world’s largest oil tankers
@@ -148,6 +148,8 @@ GOI
 Way forward
 - India need to balance relations between the west and IRan, ensuring its energy security, and regional  interests are safeguarded
 - India must stay alert to any spillover effects. **Eg:** Boost **surveillance in Jammu & Kashmir**
+---
+
 
 
 

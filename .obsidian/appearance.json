@@ -8,7 +8,8 @@
   "monospaceFontFamily": "Verdana",
   "baseFontSizeAction": false,
   "enabledCssSnippets": [
-    "my-style"
+    "my-style",
+    "customCss"
   ],
   "nativeMenus": false
 }
