@@ -31,6 +31,8 @@
 - should diversify oil import sources (e.g., from Latin America, Africa) and **expand strategic petroleum reserves**
 - deals with Brazil, UAE, and the U.S., while increasing domestic oil storage capacity.
 - India must engage in **quiet diplomacy** with both Israel and Iran, reaffirming strategic ties without compromising neutrality. using platforms like G20, SCO, BRICS need to promote regional de escalation
+---
+
 
 
 # What is Netanyahu’s endgame in Iran
@@ -62,6 +64,8 @@ Israel controls the skies and keeps bombing Iran to stop its nuclear program
 - _Global powers, especially the_ **_U.S._**_,_ **_EU_**_, and_ **_UN_**_, should mediate a_ **_ceasefire_** _to de-escalate hostilities and revive_ **_nuclear diplomacy_**
 - _Establish a joint_ **_crisis response framework_** _involving_ **_regional actors_** _(like_ **_Saudi Arabia_**_,_ **_UAE_**_, and_ **_Turkey_**_) to contain_ **_proxy escalations_** _and protect_ **_civilian infrastructure_**_._
 
+---
+
 ### Oil-Prices (Iran-israel)
 
 #### Strait of Hormuz
@@ -86,6 +90,7 @@ Israel controls the skies and keeps bombing Iran to stop its nuclear program
 - through **coalitions like the International Maritime Security Construct (IMSC**
 - Investing in **alternative pipelines and trade routes** (e.g., via Red Sea or land-based pipelines)
 - The<mark class="hltr-boom-bam"> **UAE’s Habshan-Fujairah pipeline** bypasses the Strait and delivers oil directly to the Arabian Sea</mark>
+---
 
 ### US bombed
 **Operation Midnight Hammer**
@@ -108,7 +113,41 @@ Fordow
 
 - India relies on **multirole fighter jets** such as the **Sukhoi Su-30MKI**, **Rafale**, and **Mirage-2000**
 - but **lack deep-strike stealth capabilities** and the **payload capacity**
-- Sukhoi su 30 KMcan carry brahmos 
+- Sukhoi su 30 MKI can carry brahmos 
+- India invests in **missile-based deterrents** such as the **Agni series** (ballistic missiles) and **long-range cruise missiles**.
+
+#### Forward
+- can accelerate development of **indigenous stealth bombers or long-range unmanned combat aerial vehicles (UCAVs)**
+- India can **develop or acquire heavy bunker-busting munitions** and integrate them with existing platforms like the **Su-30MKI**
+---
+### Pakistan's role in west asia
+The USA recently carried out military attacks on three of Iran’s nuclear sites
+- may trigger a **prolonged confrontation**, Past Iraq (2003), Libya (2001)
+- potentially **isolating Iran** and affecting **critical land-based trade routes**. Pakistan may shift alliances, Pakistan closed its land borders with Iran just before Munir lunch
+- conflict could **embolden Pakistan strategically**, raising **concerns for India**.
+
+#### **General Munir’s meeting with Trump**
+- **Pakistan’s rising strategic relevance** in U.S. calculations
+
+- In early **2024**, both countries **exchanged missile strikes** after attacks on Iranian security forces allegedly by groups based in Pakistan.
+- Both countries **compete for influence** in **Afghanistan**
+- Iran backs **Shia groups**, while Pakistan supports **Sunni factions**, intensifying **sectarian divides**
+- Pakistan could play a **critical role in isolating Iran**
+
+Pakistan Economy
+- **Interest payments** consume **74% of revenue**
+- **defense gets a 17% increase**, **developmental funds are halved**.
+- Defence allocation 11 billion including pensions, its 37% of total Budget
+- After its 25th **IMF bailout**, Pakistan secured **PKR 1.4 billion** in climate resilience funds
+
+GOI
+- India continues to balance its ties with Iran and GCC, actively involved in developing chabahar port
+- Saudi arabia and UAE in defence and energy sectors
+- **increased surveillance and intelligence gathering along the western borders**
+
+Way forward
+- India need to balance relations between the west and IRan, ensuring its energy security, and regional  interests are safeguarded
+- India must stay alert to any spillover effects. **Eg:** Boost **surveillance in Jammu & Kashmir**
 
 
 

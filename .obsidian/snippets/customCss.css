@@ -1,0 +1,15 @@
+
+/* For preview mode */
+.markdown-preview-view hr {
+  border-top: 3px solid #264653!important; /* Change color and thickness */
+}
+
+/* For live preview mode */
+.is-live-preview hr {
+  border-top: 3px solid #000000 !important; /* Same as above */
+}
+
+/* For source (editing) mode */
+.markdown-source-view.mod-cm6 hr {
+  border-top: 3px solid #000000 !important;
+}
