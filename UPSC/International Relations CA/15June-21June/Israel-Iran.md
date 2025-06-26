@@ -149,8 +149,24 @@ Way forward
 - India need to balance relations between the west and IRan, ensuring its energy security, and regional  interests are safeguarded
 - India must stay alert to any spillover effects. **Eg:** Boost **surveillance in Jammu & Kashmir**
 ---
+# Axis of Upheaval
+
+**China**, **Russia**, and **Iran** that seek to challenge the dominance of the **Western-led global order**
+These blocs focus on **economic cooperation**, **strategic alignment**, and **institutional alternatives** such as **BRICS** and **SCO**
+
+## **Israel-Iran conflict weakened the idea of new global power blocs**
+- Despite Iran’s close ties with **Russia** and **China**, neither provided **military assistance**
+- The so-called **‘Axis of Upheaval’** lacks **formal military treaties** that require collective defense
+- The U.S. bombing of Iran may **distract American focus** from the **Indo-Pacific** and **Europe**, which suits **Beijing** and **Moscow**.
+#### Limits of Iran ties with russia
+- Russia has turned to **North Korea for troops**, showing its own resource constraints.
+- Iran is heavily dependent on these relationships, while **Russia** and **China** gain **economic and geopolitical advantages without** taking on direct strategic risks.
 
 
+- Despite having **strategic partnerships** with **Russia** and **China**, Iran received only **verbal and symbolic backing**,
+- Iran suffered a **decapitation of leadership and capacity**, while its key proxies like **Hezbollah, Hamas, and the Houthis**were unable to respond effectively.
 
+- Iran, Russia, and China should work toward **institutionalising their ties** through **defense cooperation frameworks**
+- The three nations need to develop a **shared geopolitical vision**, that goes beyond transactional ties, ensuring **mutual support mechanisms**
 
 
