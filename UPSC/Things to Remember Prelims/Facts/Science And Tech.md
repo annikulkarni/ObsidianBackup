@@ -8,7 +8,7 @@
 
 
 - - **Key Indian Experiments on Axiom-4:**
-    - **Microgravity**’**s impact** on muscle dysfunction.
+    - **Microgravity**’**s impact** on muscle dysf1unction.
     - **Use of computer screens in zero gravity** and their effects on human cognition and vision.
     - **Growth of six varieties of crop seeds** in space conditions.
     - **Tardigrade survival** **study**—these microscopic creatures can endure extreme environments and may provide insight into life support systems in space.
