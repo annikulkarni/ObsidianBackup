@@ -1,3 +1,5 @@
+What is BIMSTEC? About: BIMSTEC (Bay of Bengal Initiative for Multi-Sectoral Technical and Economic Cooperation) is a regional organization comprising 7 member states as Bangladesh, Bhutan, India, Myanmar, Nepal, Sri Lanka, and Thailand.
+
 India recently withdrew Bangladesh’s access to its ports for sending goods to other countries
 - India cited **logistical constraints** and **congestion at its ports**
 - seen in Dhaka as a **political signal**, possibly linked to **Bangladesh’s growing ties with China**
