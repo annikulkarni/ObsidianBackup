@@ -16,3 +16,10 @@ Countering china
 -  India has adopted a **proactive approach** to respond to security threats, Op Sindhoor, Indus water treaty, restricting port access to BD
 - Despite past tensions, India supported **Nepal’s energy cooperation** with Bangladesh and **re-engaged with Maldives and Sri Lanka**
 -  India has deepened ties through platforms like **QUAD**,
+
+-  Over **$29 billion in loans**, and **80% of arms imports** from China. - Pakistan
+- Afghanistan leaning towards china-pakistan axis after regime change 
+
+Way 
+- Strengthening initiatives like **BIMSTEC** and **Act East Policy** can counterbalance China’s influence.
+- **lead anti-terror cooperation, defend regional sovereignty, promote inclusive regional forums**
