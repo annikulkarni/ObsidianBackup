@@ -8,4 +8,17 @@ Zero hunger challenge
 
 Good performances
 - **SDG 1 - No Poverty** - reduction in povery according to NSSO 22% poverty in 2012, 12% in 2023 (WB)
-- **SDG 7 – Affordable and Clean Energy:** 
+- **SDG 7 – Affordable and Clean Energy:** India is the 4th largest in renewable energy capacity, near universal acccess to electricity
+- **SDG 9 – Industry, Innovation, and Infrastructure:** Rapid growth in digital connectivity and financial inclusion.
+Poor
+- **SDG 2 – Zero Hunger** : 
+- **SDG 4 – Quality Education** Uneven access to education
+- **SDG 16 – Peace, Justice and Strong Institutions** 
+
+GOI
+- **POSHAN Abhiyaan**: Launched to reduce **malnutrition**, **stunting**, and **anemia** among **children and women**through **better nutrition** and **health services**.
+- **PM-KUSUM and Solar Missions**: Promote **renewable energy** and **sustainable farming** by enabling **farmers** to adopt **solar-powered pumps and panels**.  **SDG 7: Affordable and Clean Energy** and **SDG 13: Climate Action**.
+
+Way
+- Ensure **timely delivery of justice**, **reduce corruption**,
+- Safeguard **freedom of expression**, support **independent media**, enforce law that protect journalists
