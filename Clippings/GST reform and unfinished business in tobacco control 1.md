@@ -15,7 +15,7 @@
 - "After GST, the **share of excise duty fell sharply** (e.g., from **54% to 8%** for cigarettes)"
 - "GST relies heavily on **ad valorem taxes** (based on product price), which are easier for the tobacco industry"
 - "to **manipulate through pricing strategies**."
-- "(Way forward)"
+#### - "(Way forward)"
 - "Add a **fixed per-unit tax** (**specific excise**)"
 - "on **tobacco products** along with **GST**."
 - "Increase **GST on tobacco** to the legal ceiling of **40%** and expand the **GST Compensation Cess**"
