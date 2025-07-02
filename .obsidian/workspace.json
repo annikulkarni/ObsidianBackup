@@ -13,12 +13,40 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "WORK/VST_SPRINT_25_13_CW27.2/FORD27541-38470 Trip reset bar freezes.md",
+                "file": "WORK/VST_SPRINT_25_14_CW29.2/FORD27541-38370 2026 T6 P703 Raptor FNV21 Warning Warning display graphic issue was monitored during validation tests.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "FORD27541-38470 Trip reset bar freezes"
+              "title": "FORD27541-38370 2026 T6 P703 Raptor FNV21 Warning Warning display graphic issue was monitored during validation tests"
+            }
+          },
+          {
+            "id": "ead111aba0a89102",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WORK/VST_SPRINT_25_14_CW29.2/FORD27541-31942 MY26 P703 Base FNV2.1 - Gauges - Transmission Temp Gauge turns white when it reaches 131 degrees.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FORD27541-31942 MY26 P703 Base FNV2.1 - Gauges - Transmission Temp Gauge turns white when it reaches 131 degrees"
+            }
+          },
+          {
+            "id": "1672069509e4e8b1",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "WORK/VST_SPRINT_25_13_CW27.2/FORD27541-38182 2026 T6 P703 FNV21 Warning Warning display graphic issue was monitored during validation tests.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "FORD27541-38182 2026 T6 P703 FNV21 Warning Warning display graphic issue was monitored during validation tests"
             }
           },
           {
@@ -35,7 +63,8 @@
               "title": "Instrumental"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -234,12 +263,16 @@
       "smart-connections:Open: View Smart Connections": false
     }
   },
-  "active": "c9c516f698f18e67",
+  "active": "ead111aba0a89102",
   "lastOpenFiles": [
-    "WORK/VST_SPRINT_25_13_CW27.2/FORD27541-35652 P703 Base FNV2.1 PHEV Trip Summary Wrong Format for AFE.md",
+    "WORK/VST_SPRINT_25_14_CW29.2/FORD27541-38432 2026 T6 U704 Warning Warning display graphic issue was monitored during validation tests.md",
+    "WORK/VST_SPRINT_25_14_CW29.2/FORD27541-31942 MY26 P703 Base FNV2.1 - Gauges - Transmission Temp Gauge turns white when it reaches 131 degrees.md",
+    "WORK/VST_SPRINT_25_14_CW29.2/FORD27541-38370 2026 T6 P703 Raptor FNV21 Warning Warning display graphic issue was monitored during validation tests.md",
     "WORK/VST_SPRINT_25_13_CW27.2/FORD27541-38182 2026 T6 P703 FNV21 Warning Warning display graphic issue was monitored during validation tests.md",
-    "WORK/VST_SPRINT_25_13_CW27.2/FORD27541-38620 B1.7 PHEV IFE Bar not functioning.md",
     "WORK/VST_SPRINT_25_13_CW27.2/FORD27541-38470 Trip reset bar freezes.md",
+    "WORK/VST_SPRINT_25_14_CW29.2",
+    "WORK/VST_SPRINT_25_13_CW27.2/FORD27541-35652 P703 Base FNV2.1 PHEV Trip Summary Wrong Format for AFE.md",
+    "WORK/VST_SPRINT_25_13_CW27.2/FORD27541-38620 B1.7 PHEV IFE Bar not functioning.md",
     "Clippings/pib NAKSHA Programme.md",
     "Clippings/In a perilous world, India must read the tea leaves well.md",
     "Clippings/1st July 2025 The Hindu Op-ed How do unsafe cancer drugs reach patients.md",
@@ -263,9 +296,6 @@
     "UPSC/International Relations CA/22June-28June/India - China.md",
     "UPSC/Environment CA/22June-28June",
     "UPSC/Environment CA/Untitled.md",
-    "GS Questions/GS4 All questions.md",
-    "Personal/Instrumental.md",
-    "UPSC/Environment CA/15June-21June/Forest Rights Act cells.md",
     "UPSC/Society CA/22June-28June",
     "UPSC/Things to Remember Prelims/Schemes",
     "UPSC/Policy Making CA/22June-28June",
@@ -275,7 +305,6 @@
     "Attachments/Pasted image 20250623211401.png",
     "UPSC/Science and Tech CA/22June-28June",
     "UPSC/International Relations CA/22June-28June",
-    "UPSC/Economics CA/22June-28June",
     "Attachments/Pasted image 20250527173950.png",
     "Attachments/Pasted image 20250618120834.png",
     "Attachments/Pasted image 20250527234730.png",
