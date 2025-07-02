@@ -10,7 +10,8 @@ datums are defined in component.xml
 Need confirmation on when
 Resetting is complete, but the user has not yet released the ok button, and warning is triggered,  Whether the resetting action done, or resetting is cancelled
 still waiting
-
+made, resetting screen disapper by adding close screen trap in iod_ok_trip_button_reseting_handler
+defect closed
 
 
 
