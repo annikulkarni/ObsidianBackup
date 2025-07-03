@@ -39,12 +39,28 @@
             "id": "54141ebeb112da58",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Anthro_Syllabi.pdf"
+                "file": "Facts and figures/Society/Notes.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Anthro_Syllabi"
+              "icon": "lucide-file",
+              "title": "Notes"
+            }
+          },
+          {
+            "id": "7bab3471097485ac",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "Clippings/2nd July 2025 The Hindu Op-ed A triangular dynamic in South Asia’s power politics.md",
+                "mode": "source",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "2nd July 2025 The Hindu Op-ed A triangular dynamic in South Asia’s power politics"
             }
           },
           {
@@ -76,7 +92,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 3
       }
     ],
     "direction": "vertical"
@@ -129,8 +145,7 @@
               "title": "Bookmarks"
             }
           }
-        ],
-        "currentTab": 1
+        ]
       }
     ],
     "direction": "horizontal",
@@ -276,12 +291,16 @@
       "smart-connections:Open: View Smart Connections": false
     }
   },
-  "active": "54141ebeb112da58",
+  "active": "7bab3471097485ac",
   "lastOpenFiles": [
-    "Planning/To Do.md",
-    "Attachments/Anthro_Syllabi.pdf",
-    "UPSC/Syllabus Anthro.md",
+    "Clippings/Reserved faculty posts are still vacant and out of reach.md",
+    "Quotes.md",
+    "Clippings/2nd July 2025 The Hindu Op-ed A triangular dynamic in South Asia’s power politics.md",
+    "Facts and figures/Society/Notes.md",
     "Planning/Few things to remember.md",
+    "Attachments/Anthro_Syllabi.pdf",
+    "Planning/To Do.md",
+    "UPSC/Syllabus Anthro.md",
     "Anthropology/2021.md",
     "Anthropology/2017.md",
     "Anthropology/2013.md",
@@ -302,9 +321,6 @@
     "UPSC/Polity CA/Revisit digital search powers under the I-T Bill 2025.md",
     "Clippings/No. 1 UPSC IAS Platform for preparation.md",
     "Clippings/General Studies Notes.md",
-    "Clippings/General Studies Notes 1.md",
-    "UPSC/Polity CA/29June-5July/BNSS new criminal laws.md",
-    "Clippings/30th June 2025 The Hindu Op-ed A year later — colonial-era laws to new criminal codes  2025-06-30T204952+0530.md",
     "Clippings",
     "UPSC/Polity CA/29June-5July",
     "UPSC/Polity CA/22June-28June",
