@@ -242,19 +242,9 @@
               "icon": "git-pull-request",
               "title": "Source Control"
             }
-          },
-          {
-            "id": "0fa48d43c197792d",
-            "type": "leaf",
-            "state": {
-              "type": "smart-lookup-view",
-              "state": {},
-              "icon": "search",
-              "title": "Smart Lookup"
-            }
           }
         ],
-        "currentTab": 6
+        "currentTab": 5
       },
       {
         "id": "5e707860d2995b40",
@@ -290,14 +280,14 @@
       "smart-connections:Open: View Smart Connections": false
     }
   },
-  "active": "0fa48d43c197792d",
+  "active": "5610f9eb65eb387c",
   "lastOpenFiles": [
+    "Facts and figures/Society/Notes.md",
     "Clippings/In a perilous world, India must read the tea leaves well.md",
     "Clippings/Groundwater crisis deepens in Karnataka’s hard rock terrain.md",
     "Clippings/Reserved faculty posts are still vacant and out of reach.md",
     "Clippings/2nd July 2025 The Hindu Op-ed A triangular dynamic in South Asia’s power politics.md",
     "Quotes.md",
-    "Facts and figures/Society/Notes.md",
     "Planning/Few things to remember.md",
     "Attachments/Anthro_Syllabi.pdf",
     "Planning/To Do.md",
