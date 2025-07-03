@@ -1,0 +1,22 @@
+- A **tragic pattern** keeps repeating in **Tamil Nadu’s firecracker industry**, especially in **Virudhunagar district**,
+- repeated accidents in Tamil Nadu’s fireworks industry
+- friction during the mixing or filling of explosive chemicals
+- Fireworks units **store chemicals in unsafe conditions**, often **exposed to direct sunlight and heat**,
+- Eg: **Explosives Rules, 2008** prohibit **storage under excessive heat**
+- especially during summer, increases the likelihood
+- **regulatory inspections** are **infrequent or ineffective**,
+- safety regulations in India
+- **Explosives Rules, 2008** (under Explosives Act, 1884): Regulates licensing, safe storage, handling, and transport of explosives.
+- **Factories Act, 1948**: Ensures worker safety through ventilation, PPE (​​Personal Protective Equipment), safety training, and health monitoring.
+- **Environment (Protection) Act, 1986**: Mandates pollution control, hazardous waste management, and environmental safeguards.
+- **Disaster Management Act, 2005**: Requires emergency response plans, mock drills, and local authority coordination.
+- **PESO Guidelines**: Enforces safety standards in explosives units and conducts inspections for compliance.
+- **National Building Code (NBC), 2016**: Prescribes fire safety, exits, alarms, and structural norms for industrial buildings.
+- **Indian Boilers Act, 1923**: Ensures safe operation and periodic inspection of industrial boilers.
+- Workers are often from **poor, rural, and socially disadvantaged backgrounds**
+- **low literacy levels** and receive **little or no safety training**, increasing the chance of **mishandling chemicals**
+- **informal or unregistered setups**,
+- (Way forward)
+- Ensure **regular inspections** and **penalties for violations**
+- Work with manufacturers to **develop a culture of safety**
+- Ensure **social security, compensation**, and **rehabilitation**

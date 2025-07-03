@@ -1,0 +1,26 @@
+- ***Custodial death*** *refers to the* ***death of a person while in police or judicial custody****, due to torture, negligence, or maltreatment by authorities.*
+- key reasons behind recurring custodial deaths in India
+- **Police personnel** often resort to **physical abuse** during interrogations,
+- Tamil Nadu
+- Ambasamudram case
+- numerous **inquiries**, **very few convictions**
+- **123 police personnel** were arrested and **79 were chargesheeted**, yet **zero conviction**
+- Most investigations into **custodial deaths** are conducted **internally** with minimal **external checks** or judicial scrutiny
+- creates an environment where **violations are repeated**
+- In **Tamil Nadu (2022)**, SCs accounted for **38.5%** of detainees under preventive laws, despite forming only **20%** of the State’s population.
+- often face **discriminatory policing**, leading to higher instances
+- steps taken by the Indian Government
+- **Article 21** and **DK Basu guidelines** by the Supreme Court to prevent custodial torture.
+- **CrPC Section 176(1A)**,  **judicial inquiry** is mandated in custodial death cases.
+- Establishment of the **National Human Rights Commission (NHRC)** and **State Human Rights Commissions (SHRCs)**
+- Implementation of **CCTV in police stations**, **body cameras**, and **e-Sakshya app**
+- for real-time evidence collection.
+- case studies?
+- UK established the **Independent Police Complaints**
+- to investigate deaths and serious incidents involving the police
+- **South Africa – Legal Accountability via Constitutional Court:** In ***Bhe and Others v. Magistrate, Khayelitsha (2005)***
+- South African **Constitutional Court** held the state responsible for custodial deaths
+- Way forward
+- Create autonomous bodies or empower **judicial magistrates** to investigate custodial deaths
+- Pass a **dedicated legislation** aligned with the **UN Convention Against Torture**
+- Mandate the use of **CCTV and body cameras** in all custody areas
