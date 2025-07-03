@@ -1,0 +1,23 @@
+- **WELL Labs in Chennai** studied **Aralumallige and Doddathumakuru gram panchayats** in the **Upper Arkavathy watershed near Bengaluru**, and found a **sharp drop in groundwater levels caused** by **intensive farming practices**.
+- groundwater depletion in the Deccan Plateau
+- The Deccan Plateau is underlain by **basalt and granite** (hard rock aquifers) that have **limited porosity**
+- These rely on **fractures and weathered zones** to store water, making them **less efficient** in holding groundwater.
+- **Borewells drilled into granite** cause **microfractures**, allowing rainwater to **bypass shallow aquifers**
+- Cultivation of **vegetables, flowers, and exotic crops** for urban markets like Bengaluru demands **large volumes of groundwater**.
+- **Lakes and tanks**, once used for groundwater recharge, are being **encroached upon** or **neglected**.
+- **Aralumallige (Karnataka)**, once a major recharge source, **remained dry in 2022**
+- reliance on borewells unsustainable in rural Karnataka
+- Continuous extraction through deep borewells causes the **water table to drop**
+- Drilling deeper borewells costs **₹4–5 lakh**, often unaffordable for small farmers, with **no guarantee of success**.
+- Borewells **alter subsurface geology**, causing rainwater to **bypass shallow aquifers**,
+- socio-economic impact on local communities and governance
+- Free power for farmers fuels overuse, pushing gram panchayats
+- Drilling costs ₹4-5 lakh with no assurance of success,
+- **Contamination by nitrates, fluoride, and arsenic** poses serious health risks
+- Lack of **real-time monitoring**, insufficient **local-level data**, and fragmented **water governanc**
+- steps taken by the Indian Government
+- **Jal Shakti Abhiyan (JSA):** A nationwide **water conservation campaign** launched in 2019 to promote **rainwater harvesting**, recharge structures, and **sustainable water use**. **Eg:** In water-stressed blocks of states like Maharashtra and Rajasthan, the JSA promoted **check dams** and **contour trenches** to boost groundwater recharge.
+- **Atal Bhujal Yojana (Atal Jal):** A **World Bank-assisted** scheme launched in 2019 for sustainable groundwater management in **7 states**. It focuses on **community participation**, water budgeting, and **crop water use efficiency**. **Eg:** In Gujarat and Madhya Pradesh, **water user associations** have helped monitor and reduce groundwater extraction.
+- **Groundwater Regulation by Central Groundwater Authority (CGWA):** The CGWA regulates groundwater usage in **over-exploited areas** by mandating **No Objection Certificates (NOCs)** for industries and commercial users.
+- Shift from **water-intensive crops** (like paddy, sugarcane) to **less water-demanding**
+- Empower **Gram Panchayats** to manage groundwater through **community water budgeting**,
