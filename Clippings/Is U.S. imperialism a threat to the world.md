@@ -1,0 +1,24 @@
+- Note: **Imperialism** is a policy or ideology by which a powerful country **extends its control over weaker territories** politically, economically, or militarily, often for strategic or resource-driven gains.
+- Is U.S. imperialism a threat to the world?
+- The U.S. has engaged in **unilateral military interventions** without UN approval
+- U.S. actions often leave countries in prolonged conflict
+- U.S. interventions in Afghanistan
+- U.S. encourages **disregard for international cooperation**, weakening collective decision-making.
+- U.S. view China’s rise as a threat
+- world’s second-largest economy (**$20 trillion GDP**) challenge U.S. dominance in **trade**, **infrastructure**
+- China’s progress in **semiconductors**, **AI**, and **green technologies**
+- China’s expanding presence in global institutions and **alliances like BRICS and SCO**
+- **South China Sea** and strategic investments in **Africa and Latin Americ**
+- challenges does bipolarity pose for rising power
+- India may face pressure to **align with one power bloc**, limiting its **independent foreign policy**
+- making consensus harder
+- Tensions between major powers can **destabilize regional security**,
+- Global South crucial amid failing multilateralism
+- As traditional multilateral institutions like the **UN or WTO lose credibility**, the Global South offers a platform for **developing nations to assert their interests**
+- BRICS expansion
+- The Global South promotes **minilateralism and regional alliances** to address shared challenges like debt, climate change, and trade inequities.
+- International Solar Alliance (ISA)
+- resist **coercive trade or security alignments**
+- India must maintain an **independent foreign policy** despite partnerships like **Quad**.
+- India should **speak out against violations** of international law even by allies.
+- India can lead in **climate justice, debt relief, and trade equity** for developing countries.
