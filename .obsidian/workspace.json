@@ -41,12 +41,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "Clippings/Under fire The state must enforce compliance of regulations in the fireworks industry.md",
+                "file": "VIM/VIM TIPS.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Under fire The state must enforce compliance of regulations in the fireworks industry"
+              "title": "VIM TIPS"
             }
           }
         ],
@@ -69,7 +69,7 @@
             "state": {
               "type": "file-explorer",
               "state": {
-                "sortOrder": "byModifiedTime",
+                "sortOrder": "byCreatedTime",
                 "autoReveal": true
               },
               "icon": "lucide-folder-closed",
@@ -241,9 +241,10 @@
   },
   "active": "54141ebeb112da58",
   "lastOpenFiles": [
+    "VIM/VIM.md",
+    "Clippings/Under fire The state must enforce compliance of regulations in the fireworks industry.md",
     "Clippings/Custodial deaths police convictions remain zero in T.N. and beyond.md",
     "Clippings/3rd July 2025 The Hindu Op-ed Rephasing global development finance.md",
-    "Clippings/Under fire The state must enforce compliance of regulations in the fireworks industry.md",
     "Facts and figures/Society/Notes.md",
     "Clippings/{date}/3rd July 2025 The Hindu Op-ed Rephasing global development finance.md",
     "Clippings/{date}",
@@ -269,7 +270,6 @@
     "WORK/VST_SPRINT_25_13_CW27.2/FORD27541-35652 P703 Base FNV2.1 PHEV Trip Summary Wrong Format for AFE.md",
     "WORK/VST_SPRINT_25_13_CW27.2/FORD27541-38620 B1.7 PHEV IFE Bar not functioning.md",
     "Clippings/pib NAKSHA Programme.md",
-    "Clippings/1st July 2025 The Hindu Op-ed How do unsafe cancer drugs reach patients.md",
     "Clippings",
     "UPSC/Polity CA/29June-5July",
     "UPSC/Polity CA/22June-28June",

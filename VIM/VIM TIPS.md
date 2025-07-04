@@ -158,3 +158,86 @@ Additional Notes
 This list covers all techniques mentioned in the thread, organized for clarity. Practice these motions gradually to build muscle memory and improve efficiency. For further learning, check :help motion.txt, ThePrimeagen’s YouTube videos, or the book Practical Vim. If you want to focus on 
 
 specific motions or plugins, let me know!
+
+
+# Consolidated Vim Tips from YouTube Comments
+
+Below is a comprehensive list of Vim tips and commands gathered from the comments on the YouTube video "30 Vim commands you NEED TO KNOW (in just 10 minutes)" ([https://www.youtube.com/watch?v=RSlrxE21l_k](https://www.youtube.com/watch?v=RSlrxE21l_k)).
+
+## Navigation and Movement
+
+- **hjkl**: Use for basic navigation (left, down, up, right). Referred to as "LDUR" (Left, Down, Up, Right) by some users.
+- *****: Searches forward for the word under the cursor.
+- **#**: Searches backward for the word under the cursor (complements `*`).
+- **<C-^>**: Toggles between the current and previous buffers, similar to switching in tools like Harpoon.
+- : Moves backward in the jump table to navigate to previous cursor positions.
+- : Moves forward in the jump table (mnemonic: "o" for out, "i" for in).
+- **f"**: Jumps to the next double quote on the current line, useful for navigating to specific characters.
+- **Relative Line Numbering**: Enable with `:set relativenumber` for easier navigation by showing line numbers relative to the cursor. Jump to a specific line with `:<line number>`.
+
+## Editing and Text Manipulation
+
+- **ciw vs. ce**: Instead of `ciw` (change inner word), use `ce` to change to the end of the word from the cursor position.
+- **yiw**: Yanks the entire word under the cursor, faster than `viwy` or `v + i + w + y`.
+- **yw**: Yanks from the cursor to the start of the next word (if at the beginning of a word).
+- **cgn**: Replaces the next occurrence of the current search term and can be repeated with `.` (dot command).
+- **ci"**: Changes text between double quotes after jumping to the first quote with `f"`.
+- **:norm**: Executes normal mode commands on a range of visually selected lines (e.g., `:'<,'>norm f{2xa;`). Useful for repetitive edits like reformatting function signatures.
+- **1v**: Repeats the last selection pattern after performing a change.
+- **"_d**: Deletes without overwriting the default yank register.
+- **P** (in visual mode): Pastes without overwriting the default register.
+
+## Search and Replace
+
+- **:%s/old/new/g**: Replaces all occurrences of "old" with "new" in the entire file. The `%` specifies the whole buffer, and `/g` makes it global within each line.
+- **:s/old/new/**: Substitutes only on the current line without a range.
+- **:,s/old/new/**: Substitutes in a specific line range (e.g., `:2,9s/foo/bar/`).
+- **:%s//new/g**: Replaces the last searched term (e.g., after `*`) without retyping it.
+- **:'<,'>s/old/new/g**: Substitutes within a visually selected range.
+- **:g/search/d**: Deletes all lines containing a search term.
+- **:!/search/d**: Deletes all lines _not_ containing a search term.
+- **:args `find . -type f -name '*.md'`**: Fills the argument list with files (e.g., Markdown files in the current directory), then use `:argdo %s/old/new/g` to perform substitutions across all files.
+
+## Registers
+
+- **"a-"z**: Named registers for storing text. Lowercase (`"ay`) overwrites, uppercase (`"Ay`) appends.
+- **"0**: Always contains the last yanked text.
+- **"1-"9**: Store deleted text, but only populate if the deletion is larger than one line.
+- **"_**: Black hole register; use to delete without affecting other registers (e.g., `"_d`).
+- __"_ and "+_*: System clipboard registers. `*` is for the selection (middle-click paste in Linux), `+` is for the primary clipboard (Ctrl+C/V). Both work on Windows and macOS.
+- **set clipboard=unnamedplus**: Configures Vim to always yank/paste to the system clipboard, simplifying clipboard operations.
+- **%**: Holds the full path and filename. To get only the filename and extension, use `:imap <C-X>% <C-R>=expand('%:t')<CR>` in insert mode.
+
+## Macros
+
+- **qq**: Start recording a macro into register `q` (easier to remember than `q<letter>`).
+- **@@**: Replays the last executed macro.
+- **@h**: Replays macro `h`. Can be used recursively (e.g., `qah...@hq` to replay macro `h` until an error occurs).
+- **:'<,'>norm @@**: Applies a macro to each line in a visually selected range.
+- **:'<,'>norm .**: Applies the last change (dot command) to each visually selected line.
+- **qH**: Appends to an existing macro in register `h` (e.g., `qHi,q` to add a comma).
+- **Editing Macros**: Paste a macro’s content with `"xp`, edit it, then yank it back into the register to modify the macro.
+- **Recursive Macros**: A macro can call another macro or itself for complex, repeatable tasks.
+
+## Clipboard Support
+
+- **Install Clipboard Tools**:
+    - Linux: Run `sudo apt install vim-gtk3` and verify with `vim --version | grep clipboard` (should show `+clipboard`).
+    - Wayland (e.g., Fedora 40): Install `wl-clipboard` with `sudo dnf install wl-clipboard` to enable `"+y` and `"*y`.
+- **set clipboard=unnamedplus**: Add to `.vimrc` or `init.vim` to sync yanks with the system clipboard by default.
+
+## Miscellaneous
+
+- **:q**: Quits Vim (or `:conf q` to prompt for saving if modified).
+- **ZZ**: Saves and quits (shorter than `:wq`).
+- **Ctrl+P**: Enters pane mode, allowing `hjkl` to navigate panes, exit with `<Esc>`.
+- **Autocommand for Yank Highlight**: Add an autocommand to briefly highlight yanked text, eliminating the need to enter visual mode first.
+- **Alt Key in Insert Mode**: Use Alt with commands in insert mode for faster interactions.
+- **Network-Wide Clipboard**: Create a custom system using Python/PHP to pipe text to a server and retrieve it on another machine (e.g., `eput` and `eget` commands).
+- **norm Command for Refactoring**: Highlight lines, then use `:norm` to apply normal mode commands (e.g., `:'<,'>norm f{2xa;`) for bulk edits like adding semicolons to function signatures.
+
+## Configuration and Setup
+
+- **catppuccin**: A popular colorscheme mentioned in the video.
+- **Neovim for Specific Languages**:
+    - For Android development, use plugins like TreeSitter for syntax highlighting, Telescope for file
