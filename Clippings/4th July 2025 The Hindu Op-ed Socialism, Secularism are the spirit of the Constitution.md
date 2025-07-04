@@ -1,0 +1,20 @@
+- The recent statement by the right-wing leader advocating the removal of “socialism” and “secularism”
+- role of socialism and secularism
+- Articles like **38**, **39**, **41–43** guide the state to secure **economic justice**,
+- **Rights**: **Article 14** (equality before law) and **Article 16** (equal opportunity in public employment)
+- Courts and lawmakers have interpreted and enacted policies
+- socialist philosophy
+- Role of Secularism beyond the Preamble
+- Articles 25–28
+- **Articles 15 and 29–30** ensure that **no citizen is discriminated**
+- secularism is **inherent** to the Constitution’s **basic structure**,
+- How do India’s freedom struggle and debates reflect these constitutional values
+- Leaders like **MK** **Gandhi, Nehru, and Ambedkar** envisioned an India free not only from colonial rule but also from **poverty, caste oppression, and economic exploitation**.
+- The framers, influenced by India’s **diverse social fabric**, stressed a **neutral state** that treats **all religions equally**
+- Supreme Court upheld secularism
+- **Kesavananda Bharati Case (1973):** The Court held that **Parliament cannot alter the “basic structure”** of the Constitution.
+- **S.R. Bommai Case (1994):** The Court explicitly declared that **secularism is part of the Constitution’s basic structure**
+- **Aruna Roy v. Union of India (2002):** The Court upheld that **secularism does not mean hostility to religion**, but rather **equal respect for all religions**
+- Way forward:
+- **curricula, public campaigns**,
+- **judiciary must remain proactive**

@@ -1,0 +1,26 @@
+- **(ECI)** is currently carrying out a **Special Intensive Revision (SIR)** of the **voter list in** **Bihar**.
+- caused **political** and **social concerns**
+- criticised
+- The ECI allocated just one month, till July 31
+- The emphasis on “ordinary residents” could ignore **the legal protection for temporary absentees** as outlined in the Representation of the People Act, 1950.
+- Migrant workers might not be present
+- An estimated **20% of Bihar’s electorate** is migrant;
+- many may miss the **July 31 deadline**, risking exclusion.
+- How does the law define ‘ordinary residence’ for voters?
+- **Representation of the People Act, 1950** defines **‘ordinary residence’** as the **place where a person normally lives and has the intention to return**, even if they are **temporarily absent**.
+- Section 19 of the Act:
+- **Temporary absence** does **not** disqualify a person from being considered ordinarily resident.
+- Migrants **temporarily away** (for work, studies, etc.) are **still eligible** if they have the **ability and intention to return**
+- In the 2024 general election, **more women voted than men** in absolute numbers in Biha
+- Despite having **more registered male voters**, the **male turnout was lower**
+- same issues occur in other states?
+- **Jharkhand** has seen **low male voter turnout** due to **seasonal and long-term migration**
+- In urban areas of **Uttar Pradesh**, **slum and migrant populations** often lack proper **identity or address documents**
+- **Non-Resident Indians (NRIs)** often face difficulty in **exercising their voting rights**
+- Though the **Representation of the People (Amendment) Act, 2010** allowed NRIs to register, **postal or online voting** is still not widely available.
+- case studies in the world
+- Mexico allows its **citizens living abroad** to **vote in national elections** via **postal ballots and electronic voting**.
+- **Philippines – Overseas Absentee Voting Act (2003):** The Philippines enacted a law enabling **overseas Filipinos** to **vote in presidential, senatorial, and party-list elections**
+- (Way forward)
+- Long-term migrants should be allowed and encouraged to **register as voters at their current place of residence**.
+- The **Election Commission** should provide a **longer and flexible verification window**
