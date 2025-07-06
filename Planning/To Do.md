@@ -26,7 +26,9 @@ Strategy for 2026 aspirants
 
 1.) 1st June to 30th June: Units 2-8 of Paper I. Read and Solve Basic or easy PYQs (Make your own model answer) simultaneously. #Sociocultural_anthropology
 
+
 2.) 1st July to 31st July: Units 1.4-1.6 and 9-12 of Paper I. Read and Solve easy PYQs simultaneously. #Biological_anthropology
+![[Pasted image 20250706144854.png]]
 
 3.) 1st August to 7th August: Unit 1.8 of Paper I and Unit 1 of Paper II. Read…… #Archaeological_anthropology
 

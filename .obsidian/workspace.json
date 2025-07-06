@@ -39,18 +39,16 @@
             "id": "54141ebeb112da58",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Syllabus.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/Anthro_Syllabi.pdf"
               },
-              "icon": "lucide-file",
-              "title": "Syllabus"
+              "icon": "lucide-file-text",
+              "title": "Anthro_Syllabi"
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,8 +247,13 @@
       "smart-connections:Open: View Smart Connections": false
     }
   },
-  "active": "54141ebeb112da58",
+  "active": "ead111aba0a89102",
   "lastOpenFiles": [
+    "Attachments/Pasted image 20250706144854.png",
+    "Attachments/Anthro_Syllabi.pdf",
+    "Planning/To Do.md",
+    "WORK/VST_SPRINT_25_14_CW29.2/FORD27541-38370 2026 T6 P703 Raptor FNV21 Warning Warning display graphic issue was monitored during validation tests.md",
+    "Syllabus.md",
     "UPSC/International Relations CA/8June-14June/Bangladesh July Proclamation.md",
     "Clippings/4th July 2025 The Hindu Op-ed Socialism, Secularism are the spirit of the Constitution.md",
     "UPSC/Things to Remember Prelims/Schemes/CARA.md",
@@ -274,11 +277,6 @@
     "Clippings/2nd July 2025 The Hindu Op-ed A triangular dynamic in South Asia’s power politics.md",
     "Quotes.md",
     "Planning/Few things to remember.md",
-    "Attachments/Anthro_Syllabi.pdf",
-    "Planning/To Do.md",
-    "UPSC/Syllabus Anthro.md",
-    "Anthropology/2021.md",
-    "Anthropology/2017.md",
     "WORK/VST_SPRINT_25_14_CW29.2",
     "Clippings",
     "UPSC/Polity CA/29June-5July",
