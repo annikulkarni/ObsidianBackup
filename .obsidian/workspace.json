@@ -247,11 +247,17 @@
       "obsidian-git:Open Git source control": false,
       "smart-connections:Open: Smart Chat": false,
       "smart-connections:Open: View Smart Connections": false,
-      "khoj:Khoj": false
+      "khoj:Khoj": false,
+      "templater-obsidian:Templater": false
     }
   },
   "active": "ead111aba0a89102",
   "lastOpenFiles": [
+    "Templates/Autosort.md",
+    "Templates/Autosord.md.md",
+    "Templates/Autosord.md",
+    "UPSC/Economics CA/2June-7June/EV segment.md",
+    "Templates",
     "UPSC/Economics CA/2June-7June/IBC an effective resolution tool.md",
     "UPSC/Agriculture CA/25May-31May/MSP.md",
     "UPSC/Agriculture CA/2June-7June/Bio happiness.md",
@@ -276,10 +282,6 @@
     "UPSC/International Relations CA/8June-14June/Bangladesh July Proclamation.md",
     "Clippings/4th July 2025 The Hindu Op-ed Socialism, Secularism are the spirit of the Constitution.md",
     "UPSC/Things to Remember Prelims/Schemes/CARA.md",
-    "UPSC/Things to Remember Prelims/Schemes/DAJA.md",
-    "UPSC/Things to Remember Prelims/Schemes.md",
-    "Clippings/Is U.S. imperialism a threat to the world.md",
-    "Personal/Instrumental.md",
     "Clippings/{date}",
     "WORK/VST_SPRINT_25_14_CW29.2",
     "Clippings",
@@ -288,7 +290,6 @@
     "UPSC/Environment CA/22June-28June",
     "UPSC/Society CA/22June-28June",
     "UPSC/Things to Remember Prelims/Schemes",
-    "UPSC/Policy Making CA/22June-28June",
     "Attachments/Pasted image 20250625154806.png",
     "Attachments/Pasted image 20250625154539.png",
     "Attachments/Pasted image 20250624210310.png",
