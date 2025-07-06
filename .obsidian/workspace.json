@@ -39,12 +39,14 @@
             "id": "54141ebeb112da58",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Anthro_Syllabi.pdf"
+                "file": "Anthropology/2019.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Anthro_Syllabi"
+              "icon": "lucide-file",
+              "title": "2019"
             }
           }
         ],
@@ -231,8 +233,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200,
-    "collapsed": true
+    "width": 407.5
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -247,10 +248,10 @@
       "smart-connections:Open: View Smart Connections": false
     }
   },
-  "active": "54141ebeb112da58",
+  "active": "580c2cb43df00cbb",
   "lastOpenFiles": [
-    "Anthropology/2013.md",
     "Attachments/Anthro_Syllabi.pdf",
+    "Anthropology/2013.md",
     "Planning/To Do.md",
     "Attachments/Pasted image 20250706144854.png",
     "WORK/VST_SPRINT_25_14_CW29.2/FORD27541-38370 2026 T6 P703 Raptor FNV21 Warning Warning display graphic issue was monitored during validation tests.md",
@@ -277,7 +278,6 @@
     "Clippings/Reserved faculty posts are still vacant and out of reach.md",
     "Clippings/2nd July 2025 The Hindu Op-ed A triangular dynamic in South Asia’s power politics.md",
     "Quotes.md",
-    "Planning/Few things to remember.md",
     "WORK/VST_SPRINT_25_14_CW29.2",
     "Clippings",
     "UPSC/Polity CA/29June-5July",
