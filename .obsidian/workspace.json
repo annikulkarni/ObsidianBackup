@@ -233,7 +233,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 407.5
+    "width": 407.5,
+    "collapsed": true
   },
   "left-ribbon": {
     "hiddenItems": {
@@ -248,8 +249,9 @@
       "smart-connections:Open: View Smart Connections": false
     }
   },
-  "active": "580c2cb43df00cbb",
+  "active": "54141ebeb112da58",
   "lastOpenFiles": [
+    "Anthropology/2024.md",
     "Attachments/Anthro_Syllabi.pdf",
     "Anthropology/2013.md",
     "Planning/To Do.md",
