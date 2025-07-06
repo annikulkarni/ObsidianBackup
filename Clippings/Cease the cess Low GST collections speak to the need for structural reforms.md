@@ -1,0 +1,29 @@
+- ## **What do low GST collections reveal about the economy and system efficiency?**
+- **GST** is a **consumption-based tax**
+- indicate **reduced demand and consumption**
+- **loopholes in compliance**, **delayed refunds**
+- ## **Why is the exclusion of fuel from GST debated?**
+- **Fuel taxes** are a major **independent revenue source** for State governments
+- shared with the Centre, reducing the States’ **financial autonomy**
+- Excluding key commodities like **petrol and diesel** creates **fragmentation** in the GST system, violating the **principle of tax uniformity**.
+- Including fuel under **GST could reduce retail prices**
+- If petrol (currently taxed ~100%) comes under the **28% GST slab**
+- ## **What does “fewer GST slabs” mean?**
+- It means **merging some of these tax rates** to move toward a **simpler, more uniform GST system**
+- India has **multiple GST slabs**: **5%**, **12%**, **18%**, **28%**
+- ## **How will fewer GST slabs improve tax efficiency?**
+- **Fewer slabs** reduce **confusion**, **errors** in tax calculation, classification, and **filing**, especially for **small businesses**.
+- **Multiple slabs** create room for **misclassification** and **disputes** over applicable rates.
+- **Footwear** priced above ₹1,000 is taxed at **18%**, while below ₹1,000 it’s **5%**—leading to **price manipulation**.
+- A **simplified rate structure** improves **consumer confidence**, reduces **cascading effects**
+- ## **What is the future of the GST Compensation Cess?**
+- Originally meant to **compensate States for GST losses for 5 years**, extended till **March 2026**
+- should be phased out
+- **Removing the cess** will restore trust, **reduce tax burden**,
+- **Sustainable subsidies** and managing the **compensation burden** are essential for maintaining **healthy public finances**.
+- Responsible **fiscal conduct** by both the Centre and States builds **trust**, which is critical for **cooperative federalism**.
+- **Fiscal prudence** enables the government to invest in **long-term reforms** such as **rationalising GST slabs**,
+- These efforts can improve **tax buoyancy** and offset short-term **revenue losses**.
+- ## **How can the Centre–State balance be ensured? (Way forward)**
+- The Centre should **increase devolved funds** under the Finance Commission framework to **compensate**
+- Regular, consensus-based decision-making in the **GST Council** can improve **Centre-State trust** and ensure shared ownership of reforms.
