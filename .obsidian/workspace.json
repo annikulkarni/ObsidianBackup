@@ -25,14 +25,12 @@
             "id": "ead111aba0a89102",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "pdf",
               "state": {
-                "file": "Planning/To Do.md",
-                "mode": "source",
-                "source": false
+                "file": "Attachments/Anthro_Syllabi.pdf"
               },
-              "icon": "lucide-file",
-              "title": "To Do"
+              "icon": "lucide-file-text",
+              "title": "Anthro_Syllabi"
             }
           },
           {
@@ -50,7 +48,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
@@ -249,18 +247,18 @@
       "smart-connections:Open: View Smart Connections": false
     }
   },
-  "active": "54141ebeb112da58",
+  "active": "ead111aba0a89102",
   "lastOpenFiles": [
+    "Planning/To Do.md",
+    "Anthropology/2019.md",
     "Anthropology/2018.md",
     "Anthropology/2017.md",
     "Anthropology/2016.md",
     "Anthropology/2015.md",
     "Anthropology/2013.md",
     "Anthropology/2014.md",
-    "Anthropology/2019.md",
     "Anthropology/2024.md",
     "Attachments/Anthro_Syllabi.pdf",
-    "Planning/To Do.md",
     "Attachments/Pasted image 20250706144854.png",
     "WORK/VST_SPRINT_25_14_CW29.2/FORD27541-38370 2026 T6 P703 Raptor FNV21 Warning Warning display graphic issue was monitored during validation tests.md",
     "Syllabus.md",
