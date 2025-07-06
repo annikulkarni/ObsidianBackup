@@ -1,0 +1,26 @@
+- serious issue is emerging in **fertiliser supply**,
+- ## **What are the fertiliser security risks for India amid geopolitical conflicts?**
+- India relies heavily on **fertiliser imports** from **Gulf countries**
+- Strait of Hormuz
+- **urea and DAP**,
+- raise the prices of **natural gas** (used to produce urea)
+- India imports **100% of MOP** (Muriate of Potash), including from **Belarus and Israel**
+- ## **What lessons from the Russia-Ukraine crisis remain unaddressed?**
+- India **still lacks a fertiliser buffer stock policy** or **minimum stocking norms**
+- **30–45 days of operational stock** is inadequate to absorb external shocks.
+- it **continues to rely heavily on Gulf countries**
+- After disruptions in nitrogen and potash from Russia and Belarus, the current **dependence on Israel and Jordan for DAP**
+- The policy response has focused more on **short-term procurement**
+- ## **Why should fertilisers be part of India’s national security planning?**
+- **Fertilisers** are essential for sustaining **agricultural output**
+- Heavy reliance on **imports** from **unstable regions**
+- Fertiliser **shortages** or **price hikes** raise **subsidy burdens**
+- ## **What are the steps taken by the Indian government?**
+- Reviving closed urea plants (e.g., **Gorakhpur**, **Sindri**, **Talcher**) to achieve **90% urea self-sufficiency** by 2025.
+- Forming **long-term agreements** and **joint ventures** with countries like **Morocco (for phosphates)** and **Canada (for potash)**
+- Implementing the **Direct Benefit Transfer (DBT)** system for fertiliser subsidie
+- <mark class="hltr-boom-bam">Promoting **alternative fertilisers** like **Nano Urea** and encouraging balanced nutrient usage.</mark>
+- ## **How can India build resilience in fertiliser supply chains? (Way forward)**
+- Establish buffer stocks of key fertilisers like **urea, DAP, and MOP**
+- Forge **long-term agreements** and **joint ventures** with stable countries
+- alternative shipping route
