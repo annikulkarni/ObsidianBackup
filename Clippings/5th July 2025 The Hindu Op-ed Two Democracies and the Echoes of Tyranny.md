@@ -1,0 +1,26 @@
+- Constitutional gaps enabled the 1975 Emergency’s misuse
+- The term **“internal disturbance”** (before it was amended to “armed rebellion” by the 44th Amendment) was **undefined**
+- **Supreme Court**, failed to protect fundamental rights
+- **ADM Jabalpur case (1976)**, the Court ruled that even the **right to life could be suspended**
+- **Maintenance of Internal Security Act (MISA)** allowed for the **detention of individuals without trial**
+- Emergency weaken democratic institutions in India
+- The government imposed **pre-censorship** on newspapers like *The Indian Express* and *The Statesman*
+- **Parliament** became a **rubber stamp**, passing **ordinance**
+- relevant to the current global democratic decline
+- **laws can be manipulated** to suspend rights
+- and suppress dissent **without military coups**.
+- **judiciary, media, and civil services** failed to resist executive overreach.
+- ndira Gandhi’s consolidation of power and her son’s parallel command structure resemble modern **populist leaderships**that **centralise authority**,
+- ethical duties
+- Institutions like the **judiciary, legislature,** and **civil services** must **prioritise the Constitution over political loyalty**
+- Institutions have a duty to remain **independent and impartial**
+- Ethical responsibility requires institutions to **serve the public interest**
+- They must ensure **transparency, fairness, and accountability**
+- citizens safeguard democracy
+- Citizens must **engage in democratic processes** such as voting, peaceful protest
+- **India’s JP Movement in the 1970s**
+- Citizens should **question government actions**,
+- **India’s anti-corruption movement (2011)** led to the Lokpal Act.
+- informed public is less likely to fall for authoritarian rhetoric.
+- Ensure autonomy of key democratic institutions like the judiciary, election commission, and media
+- Launch nationwide awareness campaigns
