@@ -25,12 +25,14 @@
             "id": "ead111aba0a89102",
             "type": "leaf",
             "state": {
-              "type": "pdf",
+              "type": "markdown",
               "state": {
-                "file": "Attachments/Anthro_Syllabi.pdf"
+                "file": "Anthropology/2024.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "lucide-file-text",
-              "title": "Anthro_Syllabi"
+              "icon": "lucide-file",
+              "title": "2024"
             }
           },
           {
@@ -249,6 +251,7 @@
   },
   "active": "ead111aba0a89102",
   "lastOpenFiles": [
+    "Attachments/Anthro_Syllabi.pdf",
     "Planning/To Do.md",
     "Anthropology/2019.md",
     "Anthropology/2018.md",
@@ -258,7 +261,6 @@
     "Anthropology/2013.md",
     "Anthropology/2014.md",
     "Anthropology/2024.md",
-    "Attachments/Anthro_Syllabi.pdf",
     "Attachments/Pasted image 20250706144854.png",
     "WORK/VST_SPRINT_25_14_CW29.2/FORD27541-38370 2026 T6 P703 Raptor FNV21 Warning Warning display graphic issue was monitored during validation tests.md",
     "Syllabus.md",
@@ -276,7 +278,6 @@
     "Clippings/Custodial deaths police convictions remain zero in T.N. and beyond.md",
     "Clippings/3rd July 2025 The Hindu Op-ed Rephasing global development finance.md",
     "Facts and figures/Society/Notes.md",
-    "Clippings/{date}/3rd July 2025 The Hindu Op-ed Rephasing global development finance.md",
     "Clippings/{date}",
     "WORK/VST_SPRINT_25_14_CW29.2",
     "Clippings",
