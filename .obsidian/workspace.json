@@ -96,7 +96,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "anthro",
+                "query": "CPEC",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -117,7 +117,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -264,7 +265,7 @@
       "templater-obsidian:Templater": false
     }
   },
-  "active": "e4f9a154dc34820c",
+  "active": "2f28ec39103cb512",
   "lastOpenFiles": [
     "Personal/Instrumental.md",
     "Clippings/Common goals On India and a five-nation tour.md",
