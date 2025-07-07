@@ -1,0 +1,26 @@
+- The new **“one-front reinforced” threat** is now **real**
+- ## **What are the strategic implications of China-Pakistan military collusion for India’s security?**
+- conflict with Pakistan now includes **covert Chinese support**,
+- hybrid front rather than a standalone battle.
+- China provided **real-time ISR support**
+- Pakistan’s use of **advanced Chinese weapons system**
+- Collusion undermines India’s ability to execute **punitive strikes** without risking escalation or Chinese interference.
+- ## **How has China’s role in India-Pakistan conflicts evolved over time?**
+- (1965, 1971, Kargil 1999), China offered **only diplomatic or symbolic support** to Pakistan
+- military hardware to enabling **operational interoperability** and **network-centric warfare**.
+- **Chinese J-10C fighters**, **PL-15 missiles**,
+- supports Pakistan via **propaganda, perception warfare, and digital influence operations**.
+- ## **What is a “One-Front Reinforced War”?**
+- refers to a conflict scenario where India fights on **one primary front** (e.g., against **Pakistan**), but this front is **reinforced by active support from another adversary** (e.g., **China**)
+- The **China-Pakistan collusion** has created a **combined strategic front**, making it harder for India to manage threats separately.
+- India faces a **compressed decision-making timeline** and **resource overstretch**, requiring faster and more **coordinated defence responses**
+- invest in **modern warfare tech**, and adapt **military doctrine**
+- ## **How should India respond to rising two-front challenges amid declining defence spending?**
+- India must **reverse the decline in defence expenditure** (from 17.1% of central spending in 2014-15 to 13% in 2025-26)
+- **invest in next-generation warfare** capabilities.
+- avoid predictable retaliation and adopt **multi-domain deterrence**, including **economic, cyber, and covert measur**
+- bolster its international alliances
+- Deepening defence ties with the **Quad members**, France, and Israel
+- ## **Way forward:**
+- India must invest in **network-centric warfare**, **ISR systems**, **drone technologies**
+- India should **link China’s strategic collusion with Pakistan to its bilateral ties**,
