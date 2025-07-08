@@ -1,0 +1,30 @@
+- **Women-led MSMEs** are a key part of **India’s economic growth**,
+- still remain **underserved**
+- ## **Why do women-led MSMEs face persistent credit gaps?**
+- Women face a higher credit gap (35%) compared to men (20%)
+- lack land or asset ownership, making it difficult to meet banks’
+- lack awareness of financial schemes and documentation processes
+- how to access **PMMY or Stand-Up India loans**
+- Financial institutions often **perceive women as risky borrower**
+- Due to a lack of formal access, many women rely on **moneylenders**
+- women-led microenterprises may borrow from informal lenders at 24% interest
+- ## **What limits the effectiveness of schemes like PMMY?**
+- While a high number of **women open loan accounts**, the **actual sanctioned amount is disproportionately lower**.
+- Delays and inconsistencies in processing applications
+- **rural or semi-urban areas**, are unaware of PMMY’s features or how to apply.
+- ## **How does low financial literacy hinder women entrepreneurs?**
+- Lack of knowledge in budgeting, credit scores, or interest rates
+- **avoid formal credit channels**
+- Low financial skills reduce confidence in **investment planning, profit calculation, and risk management**
+- ## **What is the role of the Udyam Assist Portal in women’s empowerment?**
+- The portal helps register **Informal Micro Enterprises (IMEs)**, especially women-led ones,
+- 2024, **70.5%** of IMEs registered on the portal were **women-owned**,
+- Udyam Registration Number, it enables **collateral-free loans**
+- better eligibility under various government credit schemes.
+- **PMMY** and **Credit Guarantee Fund Trust for Micro and Small Enterprises (CGTMSE)**.
+- The portal supports women in **starting and scaling up** their enterprises
+- ## **Which reforms can improve credit access for women-led IMEs? (Way forward)**
+- Widen the reach of schemes like **PMMY** and **CGTMSE**
+- Lower the threshold for loan amounts and simplify eligibility for Udyam-registered IMEs.
+- Launch **grassroots training programmes** in regional languages
+- Instruct public and private banks to set **quotas for women-led MSME lending**

@@ -1,0 +1,29 @@
+- India is seeing a **worrying rise** in people being **forced to leave their homes** due to **climate change** along its **coasts**,
+- ## **What are the socio-economic impacts of coastal climate change?**
+- Rising sea levels, saltwater intrusion, and erosion force people from traditional coastal villages to resettlement colonies
+- Satabhaya, Odisha
+- Coastal degradation affects **fishing and agriculture**
+- Displaced people migrate to cities and enter **unprotected labour markets**
+- Migrants, especially women, face **debt bondage, abuse, and traffickin**
+- The absence of targeted legal frameworks leads to **exclusion from welfare schemes** and **labour protections**,
+- ## **How does climate-induced displacement test India’s democratic values?**
+- **Right to Life and Dignity (Article 21):** Climate displacement challenges the constitutional guarantee of **life with dignity**
+- Denial of Free, Prior, and Informed Consent (Article 19(1)
+- Many infrastructure and tourism projects along the coast proceed **without consulting local communities**
+- **Suppression of Protest and Association (Article 19(1)(b) and 19(1)(c)):** Environmental defenders and activists
+- ## **Why is a legal framework for climate migrants essential?**
+- Climate migrants often lose access to housing, work
+- Villagers displaced from **Satabhaya, Odisha**, lack legal recognition
+- Current laws like the **Disaster Management Act, 2005** and **CRZ Notification, 2019** focus on emergency response or environmental regulation
+- face **wage theft, abuse, and gendered violence**
+- Migrants working in **brick kilns** or as **domestic worker**
+- ## **What is the role of local movements in protecting coastal communities?**
+- Local movements **mobilize communities** to protest against **unsustainable infrastructure and industrial projects**
+- Save Satabhaya campaig
+- movements highlight **environmental injustices**, defend the **livelihoods** of traditional communities,
+- **Pattuvam Mangrove Protection Movement**.
+- **question top-down development policies**, push for **sustainable alternatives**
+- ## **Which reforms can ensure rights-based climate migration policies? (Way forward)**
+- Integrate **climate-induced displacement** into **national migration**
+- Amend existing **labour laws** to include **climate migrants**, especially those in **vulnerable sectors**
+- Redesign **Coastal Regulation Zone (CRZ)** rules to prioritize **ecological sustainability**
