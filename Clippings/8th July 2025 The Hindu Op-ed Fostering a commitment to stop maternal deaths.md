@@ -1,0 +1,25 @@
+- India’s MMR dropped from **103 (2017–19)** to **93 (2019–21)**, showing slow but consistent improvement.
+- **Kerala leads** with an MMR of **20**, in
+- **EAG States** such as **Madhya Pradesh (175)** and **Assam (167)** remain critical zones.
+- Maharashtra (38) and Gujarat (53) have made notable progress, while Punjab (98) and Haryana (106) still struggle.
+- **Why is India’s Maternal Mortality Ratio still high despite better healthcare access?**
+- MMR is significantly higher in Empowered Action Group (EAG)
+- **Assam (167)** and **Madhya Pradesh (175)**,
+- **Inadequate Functioning of FRUs (First Referral Units):** Many FRUs lack **specialists**, **blood banks**, and **operating theatres**.
+- Delays in **seeking care**, **reaching hospitals**, and **receiving treatment**
+- **How are the three key delays contributing to maternal deaths?**
+- Families often fail to **recognise danger signs**
+- Lack of **timely transportation** from **remote or rural areas**
+- care may be **delayed** due to **absence of doctors**, **operation theatres**, or **blood supply**.
+- | **What are First Referral Units (FRUs)?**  **First Referral Units (FRUs)** are **designated health facilities** equipped to provide **comprehensive emergency obstetric and newborn care (CEmONC)**. These units serve as the **first-level referral centres** for maternal and child health emergencies, especially in rural and underserved areas. |
+| --- |
+- **How can FRUs be made more effective in reducing maternal deaths?**
+- FRUs must be equipped with **qualified obstetricians**, **anaesthetists**, and **paediatricians**
+- **operational operation theatres**, **blood banks**, and **24×7 emergency care** t
+- ### **What lessons does the Kerala model offer for reducing MMR nationwide?**
+- Kerala uses a **systematic review** process to study every maternal death
+- **Eg**: Led by Dr. V.P. Paily, Kerala’s **Confidential Review Committee** analyses causes like hemorrhage, embolism, or surgical delay, enabling precise interventions.
+- **emergency preparedness**, with **trained obstetricians**, well-equipped **operation theatres**, and availability of **blood banks**.
+- **Way forward:**
+- Ensure that all **First Referral Units (FRUs)** are fully staffed
+- Implement **confidential maternal death reviews**, train healthcare personnel in **advanced obstetric practices**
