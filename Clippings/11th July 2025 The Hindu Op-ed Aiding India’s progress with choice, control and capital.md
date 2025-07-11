@@ -1,0 +1,31 @@
+- **World Population Day 2025** has brought **renewed attention** to global and national debates on **empowering youth**, ensuring **reproductive rights**, and addressing the challenges of **declining fertility rates**.
+- ## **Why is youth empowerment essential for harnessing India’s demographic dividend?**
+- 371 million people aged 15–29
+- quality education, skills, health, and family planning services
+- can **significantly reduce unemployment**
+- increase **India’s GDP by up to $1 trillion by 2030**.
+- **reproductive autonomy, gender equality, and economic independence**, youth, especially young women, can participate in **decision-making**
+- ## **What barriers hinder reproductive autonomy and fertility choices in India?**
+- A significant share of the population lacks access to **modern contraceptives**, comprehensive **sexual and reproductive health education**, and counselling.
+- *UNFPA State of World Population Report 2025*, **36% of Indian adults faced unintended pregnancies**, while **30% had unmet reproductive goals**, reflecting systemic gaps in **reproductive healthcare access**.
+- **Patriarchal attitudes**, early marriages, and taboos
+- Though child marriage rates have declined, they remain high at **23.3% (NFHS-5, 2019–21)**
+- lack of housing, quality childcare, and secure employment inhibit couples from achieving their desired family
+- ## **How have schemes tackled child marriage and women’s empowerment?**
+- **Project Udaan** in Rajasthan focused on keeping girls in **secondary school** using **government scholarships**, reducing the incidence of child marriage and teenage pregnancy.
+- Programmes such as **Udaan** and **Advika** improved access to **modern contraceptives** and **sexual and reproductive health education**
+- The **Advika programme** in Odisha helped prevent child marriage by providing **life-skills training**, **leadership development**, and **child protection awareness**
+- **Project Manzil**, implemented in Rajasthan, aligned **skill training** with young women’s aspirations and connected them to **gender-sensitive workplaces**
+- Behaviour change strategies under projects like **Manzil** worked to **challenge harmful gender norms**
+- ## **Why should population discourse focus on rights and gender equity over fertility panic?**
+- **target-driven pronatalist policies** that pressure women to reproduce, threatening their **right to bodily autonomy**.
+- In countries like **Hungary** and **Iran**, such policies have led to restrictions on **abortion** and **contraception**
+- Promoting **gender equality**, **economic participation**, and **education for women** improves both **fertility decisions** and broader **development outcomes**
+- Fertility panic often ignores the needs of those who **want children but face barriers**, while blaming those who are **voluntarily childfree**.
+- ## **What can India learn from global responses to fertility decline?**
+- Countries like **South Korea** have spent billions on pronatalist incentives
+- prioritize **voluntary reproductive agency**
+- Fertility policies that **reinforce traditional gender roles** have backfired.
+- ## **Way forward:**
+- Ensure **universal access** to quality **contraceptives**, **safe abortion**, **maternal care**
+- Focus on **empowering women** through **education**, **economic independence**, and **childcare support**,
