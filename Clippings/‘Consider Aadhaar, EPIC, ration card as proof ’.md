@@ -1,0 +1,22 @@
+- **Supreme Court of India** has intervened in the ongoing **Special Intensive Revision (SIR)** of electoral rolls in **Bihar**, urging the **Election Commission (EC)** to consider documents like **Aadhaar, EPIC, and ration cards** as valid identity proof.
+- ## **Why did the SC question Aadhaar’s exclusion from voter ID documents?**
+- The Court noted that **Aadhaar** is one of the most **widely used** and **accepted documents** for establishing **identity** in India. It questioned why Aadhaar, considered **essential** for obtaining various **official documents**, was excluded while documents like **caste certificates** were included.
+- The Court emphasized that the **Special Intensive Revision (SIR)** process is about verifying **identity**, not **citizenship**.
+- The Court highlighted that the **Election Commission’s list** of 11 acceptable documents was **not exhaustive**, and in the **interest of justice**, **Aadhaar**, **EPIC**, and **ration cards** should also be considered
+- ## **What issues surround the timing and conduct of the SIR in Bihar?**
+- The Supreme Court noted that the **30-day deadlines** for citizens to verify and submit documents were **too short**
+- SIR was **neither “summary” nor “special”** as defined under **Section 21 of the Representation of the People Act, 1950**, making the exercise appear **legally ambiguous**.
+- ## **Why is Aadhaar controversial in proving voter citizenship?**
+- The **Aadhaar Act** clearly states that Aadhaar is meant for **identity verification**, not **citizenship confirmation**
+- It can be issued to **non-citizens** who are **residents**, which makes it unreliable as **evidence for voting eligibility**.
+- Using Aadhaar may result in **non-citizens being wrongly enrolled** as voters
+- In regions like Bihar, **87% of people have Aadhaar**, but few possess documents like **passports or matriculation certificates**
+- ## **What are the issues related to the Adhaar Card and NPR in India?**
+- **Aadhaar** is officially a tool for **identity verification** and **welfare delivery**, and **NPR** is for creating a **register of residents**, their perceived linkage with **citizenship screening**
+- During the **2020 NPR update**, several states (e.g., **West Bengal**, **Kerala**) halted implementation, citing concerns over its potential use for **citizenship determination**.
+- Both **Aadhaar** and **NPR** involve massive collection of **personal data**,
+- In **2018**, **UIDAI** acknowledged multiple cases where **Aadhaar data** was accessible through **public domains**
+- **Aadhaar** and **NPR** can inadvertently **exclude individuals** lacking proper **documentation**
+- Reports from **Jharkhand** revealed cases where lack of Aadhaar linkage led to **denial of PDS ration**
+- Enact clear **legislative guidelines** to distinguish the roles of **Aadhaar**, **NPR**, and **citizenship documentation**
+- Ensure all government identity and registration drives are conducted with **public awareness**, **grievance redressal mechanisms**, and **opt-out provisions** for vulnerable groups

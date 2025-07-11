@@ -1,0 +1,27 @@
+- a span of a 40-year-old bridge collapsed in Vadodara, Gujarat
+- ## **What causes recurring public infrastructure failures in India?**
+- **Morbi suspension bridge (2022)** in Gujarat had **exceeded their intended lifespan**
+- originally designed for **lower traffic volumes**
+- Indrayani pedestrian bridge collapse in Pune (2024
+- Lack of **routine inspections** and **maintenance**
+- **Municipal and local bodies** often remain **understaffed** and **underfunded**
+- **Mizoram railway bridge girder collapse (2023)**, **failure analysis reports**
+- ## **What is Peri-urban infrastructure?**
+- **Peri-urban infrastructure** refers to the **basic facilities and services** (like roads, bridges, water supply, drainage, electricity, etc.) found in the **transitional zones between urban and rural areas**.
+- ## **Why is peri-urban infrastructure more prone to collapse?**
+- Peri-urban areas often develop without **proper zoning laws**, **building codes**, or **infrastructure planning**.
+- fall between **urban and rural governance structures**, leading to **confusion in responsibility**
+- These areas lack **media attention** and **political pressure** seen in core urban centre
+- Hyderabad’s outer zones
+- ## **How can AMRUT and UIDF improve asset upkeep?**
+- **AMRUT 2.0** prioritizes the **retrofitting of old urban infrastructure** such as **pipelines, water supply**,
+- **UIDF** provides **low-cost loans** to **Tier-2 and Tier-3 cities** that often lack **budgetary resources** for upkeep.
+- Both schemes encourage the use of **geo-tagging** and **digital tracking tools** to **monitor asset health**
+- **Eg**: Cities like **Bhubaneswar** and **Surat** use AMRUT-linked **dashboards** to track **infrastructure health** and flag issues before **failures occur**.
+- ## **What gaps delay audits and accountability post-collapse?**
+- Multiple departments—**urban development**, **public works**, and **local bodies**
+- often share responsibility for infrastructure.
+- In high-profile accidents, **inquiries** are sometimes delayed
+- ## **Way forward:**
+- Create a dedicated, independent body responsible for conducting **post-collapse audits**
+- Use **GIS mapping**, **IoT sensors**, and **AI-based predictive maintenance**
