@@ -1,0 +1,26 @@
+- **ongoing national debate on secularism in India**, especially in light of rising **Hindutva narrative**
+- ## **What is the Indian model of secularism?**
+- Indian secularism **does not oppose religion** but ensures that the state maintains a **principled distanc**
+- protects religious communities from **state interference**
+- It draws from India’s **civilizational ethos**, including **Ashoka’s Dhamm**
+- **freedom struggle**, ensuring a **harmonious coexistence of diverse faiths**
+- ## **Why did the Constitution’s framers reject a state religion for India?**
+- the state must treat all religions equally to ensure **religious freedom** and **equal citizenship**
+- India’s long tradition of **religious pluralism**, influenced by **Ashokan edicts**, emphasised **coexistence** and **respect for all faiths**
+- After witnessing **Partition** and its communal violence, the framers feared that endorsing a state religion would deepen **sectarian divides** and **weaken national unity**. Eg: Even Syama Prasad Mookerjee and the Hindu Mahasabha’s 1944 draft constitution did not support declaring Hinduism as the state religion.
+- ## **What are the risks of redefining secularism in India’s current context?**
+- **:** Redefining secularism could weaken the **state’s impartial stance** in religious matters,
+- Secularism is part of the **basic structure doctrine** upheld by the Supreme Court.
+- The **Kesavananda Bharati case (1973)** affirmed secularism as an **inviolable part of the Constitution**.
+- Shifting away from secularism may embolden **majoritarian narratives**, intensify **hate speech**, and provoke **inter-religious conflict**
+- Countries like **England** and **Greece** recognize a **dominant religion symbolically**
+- **Ireland** and **Sri Lanka** offer models where religion is acknowledged culturally, but the **state cannot endow or control religious institutions**
+- n **Western Thrace (Greece)** and **Sri Lanka**, minority religious communities have the option to resolve disputes through **personal or religious laws**
+- ## **What are the steps taken by the Indian Government?**
+- The state maintains **neutrality** in religious affairs
+- Through **Articles 29 and 30**, the government protects **cultural and educational rights**
+- The state allows different religious communities to follow their own **personal laws** in matters like marriage, divorce, and inheritance,
+- The government has enacted laws like the **Religious Institutions (Prevention of Misuse) Act**, **Places of Worship Act, 1991**,
+- ## **Way forward:**
+- Promote **public awareness** about **secular values** enshrined in the **Constitutio**
+- Enforce **strict separation** between **religion and politics**, preventing the **misuse of religion**
