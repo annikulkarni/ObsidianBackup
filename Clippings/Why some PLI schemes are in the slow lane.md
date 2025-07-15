@@ -1,0 +1,18 @@
+- ## **What are the primary reasons for the slow implementation of PLI schemes?**
+- Many industries have reported that the eligibility criteria for participation in PLI schemes are too stringent, w
+- manufacturing base from scratch is a monumental task
+- advanced chemistry cells (ACC) require substantial time
+- Companies face difficulties in accessing critical resources
+- heavily reliant on imports and have not yet transitioned
+- The initial years of the scheme saw minimal disbursement of funds
+- ## **Which sectors are experiencing the most significant slowdowns, and why?**
+- This sector is struggling due to high competition and stringent norms
+- Despite being a strategic sector for renewable energy, delays in establishing manufacturing capabilitie
+- automobile sector overall is hindered by initial setup challenges
+- Similar to solar modules, this sector faces long commissioning periods that delay employment outcomes.
+- ## **What measures can be taken to enhance the effectiveness of PLI schemes? (Way forward)**
+- Simplifying the eligibility requirements could encourage more companies
+- Establishing robust supply chains is crucial.
+- Facilitating easier access to necessary machinery
+- Continuous monitoring and adjustments based on sector performance
+- Promoting the establishment of ancillary industries
