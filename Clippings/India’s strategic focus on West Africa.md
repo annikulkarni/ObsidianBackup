@@ -1,0 +1,24 @@
+- Despite China’s increasing involvement in financing and infrastructure development, India continues to hold a significant position as one of Nigeria’s key partners in West Africa.
+- ## **What are the strategic objectives of India in West Africa?**
+- strategic partnership with Nigeria
+- expected to extend beyond Nigeria, influencing broader regional dynamics in West Africa.
+- terrorism, piracy, and drug trafficking in Nigeria, India seeks to bolster security cooperation
+- joint efforts in counterterrorism
+- development partner by providing concessional loans
+- share common goals as leaders of the Global South,
+- ## **How does India plan to enhance its economic ties with West African countries?**
+- India plans to revitalize trade with Nigeria, which has seen a decline recently
+- The focus areas for economic collaboration include defense, energy, technology, health,
+- India aims to support infrastructure development through concessional loans
+- technical assistance,
+- cultural ties and promoting exchanges between citizens
+- ## **What challenges does India face in its engagement with West Africa?**
+- challenged by China’s significant presence in Nigeria,
+- infrastructure and telecommunications.
+- from $14.95 billion in 2021-22 to $7.89 billion in 2023-24
+- The political landscape in Nigeria can be unpredictable, posing risks
+- effectiveness of these initiatives can be hindered by local capacity constraints in Nigeria
+- ## **Way forward:**
+- Strengthen defence and security partnerships, diversify trade
+- counter China’s growing influence and foster mutual growth.
+- tailored initiatives addressing local needs, while supporting Nigeria’s stability

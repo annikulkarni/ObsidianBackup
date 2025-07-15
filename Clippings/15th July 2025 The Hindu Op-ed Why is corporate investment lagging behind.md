@@ -1,0 +1,19 @@
+- *India’s* ***Index of Industrial Production (IIP)*** *growth slowed to a* ***nine-month low of 1.2%***
+- *despite* ***tax cuts****,* ***public capital expenditure****, and* ***monetary easing***
+- **India’s industrial output** growth dropped to a **nine-month low** of **1.2%**, raising worries about **slow corporate investment.**
+- ## **Why has corporate investment remained low despite tax cuts, capex, and rate cuts?**
+- Despite **tax cuts** and improved **corporate profits**, investment remains low due to **insufficient consumer demand**
+- Many industries are operating at **suboptimal capacity**, making firms hesitant to invest in **new production facilities**
+- With **underutilised factories** post-COVID, private players **see no incentiv**
+- The assumption that **higher profits lead to more investment** is flawed
+- As per **Michał Kalecki**, **investment determines profits**, not the other way around
+- ## **About Rosa Luxemburg and Mikhail Tugan-Baranovsky:**
+- - **Rosa Luxemburg (1871–1919):** A **Polish-German Marxist economist and revolutionary**, Luxemburg was known for her critique of capitalist accumulation.
+- - **Mikhail Tugan-Baranovsky (1865–1919):** A **Russian economist and early Marxist thinker**, Baranovsky challenged traditional Marxist views with his theories on industrial cycles.
+- ## **What do Luxembourg and Baranovsky argue about investment in capitalism?**
+- Baranovsky’s View
+- 
+- Luxemburg’s Counter
+- disagreed, stating that **individual capitalists base investment** decisions on **anticipated demand**
+- capitalists avoid new investments, making **demand revival essential for** capital accumulation.
+- ## **What limits the effectiveness of government capex in crowding in private investment?**
