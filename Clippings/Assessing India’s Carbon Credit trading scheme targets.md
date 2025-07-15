@@ -1,0 +1,32 @@
+- **greenhouse gas (GHG) emissions intensity targets** for key industrial sectors under its **Carbon Credit Trading Scheme (CCTS)**. These targets apply to **eight major industries,** including steel, cement, aluminium, and textiles, and aim to **reduce emissions per unit of production**.
+- ## **What is CCTS?**
+- **Carbon Credit Trading Scheme (CCTS)** allows entities—such as factories, refineries, or power plants—that emit less than their permitted carbon limits to **earn carbon credits**. These credits can then be **traded** with other entities that have **exceeded** their emission limits.
+- ## **What is the importance of assessing carbon targets at the economy-wide level?**
+- Evaluating targets at the **economy-wide level** ensures we understand the **overall reduction** in **greenhouse gas emissions**
+- It allows **efficient entities** to overachieve and **trade credits** with **less efficient ones**
+- It supports the evaluation of whether India is on track to meet its **Nationally Determined Contributions (NDCs)**
+- ## **What is the PAT Scheme?**
+- The **PAT Scheme** sets **energy efficiency targets** for **large, energy-intensive industries**. Companies that **exceed their targets** earn **Energy Saving Certificates (ESCerts)**, which they can **trade** with other companies that **fail to meet** their targets.
+- ## **How has the PAT scheme proven effective in reducing energy intensity?**
+- The **Perform, Achieve and Trade (PAT) scheme** allowed industries to meet energy targets using **tradable efficiency certificates**
+- **overall energy intensity** in India declined across PAT cycles, proving its **system-wide impact**
+- PAT helped industries adopt **incremental improvements** or buy credits instead of making **costly in-house upgrades**
+- ## **Why are entity-level targets insufficient to assess emission reduction?**
+- Targets at the **entity level** show progress in isolation and may miss the **broader picture**
+- even if some **paper** or **chlor-alkali plants** increase their energy use per unit of output, **overall national emissions** may still fall due to reductions in other sectors.
+- These targets often guide **financial trades** between companies rather than ensuring **actual emissions reduction**
+- Emission reductions may vary widely across sector
+- ## **What limits the comparison of CCTS targets with past and future benchmarks?**
+- The **CCTS targets** apply only to a part of India’s industrial base,
+- CCTS covers only 8 industrial sectors, while NDCs span all sectors including **agriculture and transport**
+- Past schemes like **PAT Cycle I** had relatively **modest targets**.
+- A sector that achieved 1% reduction earlier may now require over **2.5% annual reduction** to stay on track.
+- Comparing energy saved per unit of production vs emissions per unit of GDP distorts **true climate ambition**.
+- ## **How do CCTS targets align with India’s NDC and net-zero goals?**
+- The **CCTS targets** aim to reduce emissions intensity in key industrial sectors, contributing to India’s **NDC goal**
+- **annual reduction rate**of ~1.68% in CCTS sectors is **lower** than the required pace for full alignment.
+- Compared to the **power sector**, which has **low-cost mitigation options** and a projected **3.44% annual decline** in emissions intensity, the **industrial sector’s slower pace** (~2.53%) under CCTS may **hinder the broader net-zero pathway**.
+- The current CCTS trajectory appears **less aggressive** than necessary for the **2070 net-zero target**.
+- ## **Way forward:**
+- Revise CCTS targets periodically based on **economy-wide modelling** aligned with **India’s NDC and net-zero goals**
+- Promote adoption of **clean technologies** through **financial incentives, carbon pricing**, and **capacity-building support**

@@ -1,0 +1,32 @@
+- **Environment Ministry of India** has recently **exempted most coal-fired power plants from installing Flue Gas Desulphurisation (FGD) systems**,
+- ## **What is** **Flue Gas Desulphurisation (FGD) system?**
+- **Flue Gas Desulphurisation (FGD) systems** are **air pollution control technologies** used in **thermal power plants** to **remove sulphur dioxide (SO₂)**
+- ## **Why has FGD installation been exempted for most coal plants?**
+- **Indian coal** contains **naturally low sulphur**, reducing the urgency to control **SO₂ emissions**.
+- Installing **FGD systems** is **capital-intensive** and can increase **electricity tariffs**
+- There is a **shortage of FGD equipment suppliers**,
+- From 2015–2024, only **8% of 600 units** installed FGDs
+- The pandemic caused **supply chain disruptions**
+- New studies suggest **sulphates** formed from SO₂ may have a **climate-cooling effect**
+- ## **How does SO₂ affect health and air quality?**
+- Sulphur dioxide (**SO₂**) irritates the **respiratory tract**, causing issues such as **asthma, bronchitis**
+- In Delhi, spikes in SO₂
+- SO₂ reacts in the atmosphere to form **sulphate aerosols**, a major component of **PM2.5**,
+- SO₂ contributes to **acid rain** and **haze**, damaging crops, soil, and water sources, and reducing visibility
+- ## **What does selective FGD enforcement indicate about regulation?**
+- The decision to mandate **FGD installation only near NCR**
+- not based on uniform scientific standards, but **geographical and political considerations**.
+- **regulatory dilution**, raising concerns about **policy backtracking**
+- weakens **trust in evidence-based regulation**, indicating that **scientific advisories are not consistently followed**
+- ## **Why is public debate vital before policy shifts on pollution?**
+- public debate creates transparency
+- Debate enables scientific scrutiny of environmental claims, ensuring that policy changes are based on credible evidenceand expert consultation.
+- ## **Why is public debate vital before policy shifts on pollution?**
+- **Perform, Achieve and Trade (PAT) Scheme:** Implemented by **the Bureau of Energy Efficiency (BEE)**, this market-based mechanism promotes **energy efficiency** in industries, indirectly reducing emissions.
+- **National Clean Air Programme (NCAP):** Launched in **2019**, it aims for a **20–30% reduction in PM2.5 and PM10 levels**
+- Plants identified in **pollution hotspots**, those near **NCR** or **million-plus cities**, are required to install FGD by **2028**,
+- Transition towards **cleaner energy sources**
+- ## **Way forward:**
+- Any change in environmental regulation
+- **scientific review**, **public debate**, and **stakeholder consultations**
+- Enhance the **real-time SO₂ monitoring network**
