@@ -1,0 +1,25 @@
+- **2025 BRICS Summit** highlighted a significant **shift in the global order**
+- ## **What does the decline of multilateralism mean for India?**
+- **United Nations (UN)** being **marginalised**, India can no longer rely on **multilateral forums** to advocate for **Global South interests**.
+- **BRICS 2025 Declaration** failed to address the erosion of multilateralism
+- India must engage through **commerce-driven bilateral deals**
+- India should now concentrate on **its own economic growth** and build **strong ties with nearby countries**
+- ## **Why is South-South cooperation crucial for India now?**
+- South-South cooperation allows India to **share low-cost technologies**, development models, and capacity-building expertise
+- helps India access vital **natural resources** and **raw materials**
+- lithium and cobalt mines in Africa
+- reduces overreliance on Western economies
+- **India-Brazil-South Africa (IBSA) Fund** supports poverty alleviation
+- ## **How can India use its tech and industrial strengths globally?**
+- India can leverage its success in building scalable digital platforms to assist developing countries
+- India’s **Modular Open-Source Identity Platform (MOSIP)**, modeled on Aadhaar, has been adopted by **Philippines, Morocco, and Sri Lanka**
+- India’s industrial base is increasingly oriented towards **clean energy and sustainable manufacturing**,
+- India’s expertise in **low-cost, high-impact technology** (also known as **frugal innovation**)
+- The **Jaipur Foot**, a low-cost prosthetic limb developed in India,
+- ## **How can the 2026 BRICS Summit boost India’s leadership?**
+- India can use the Summit to **reposition BRICS as a platform for South-South cooperation**,
+- highlighting its achievements in **infrastructure, green energy, digital economy, and innovation**
+- India can steer BRICS toward **new frameworks of trade, finance, and diplomacy**
+- ## **What strategic shifts should guide India’s foreign policy? (Way forward)**
+- India must maintain a **neutral stance** amidst intensifying U.S.-China rivalry by prioritising **core national interests**
+- India should lead a **rejuvenated South-South cooperation** framework by promoting **trade, technology, and development cooperation**
