@@ -1,0 +1,35 @@
+- ***India*** *is positioning itself as a* ***global hub*** *for* ***green marine fuels*** *like* ***green methanol*** *and* ***green ammoni***
+- Global shipping is moving towards reducing carbon emissions by 2040–2050
+- **Very Low Sulphur Fuel Oil (VLSFO)**, **diesel**, and **liquefied methane gas**.
+- What are green fuels?
+- **Green fuels** are derived from **green hydrogen**, which is produced by **electrolysis of water using renewable energy** (e.g., solar, wind). **Green ammonia** is created by combining **green hydrogen and nitrogen**.
+- **Green methanol** is produced from **green hydrogen and CO₂** (captured from industrial sources). These fuels are **carbon-neutral or low-carbon alternatives** to conventional shipping fuels like VLSFO or LNG.
+- ## **How do green fuels aid in shipping decarbonisation?**
+- **Green fuels** like **green methanol** and **green ammonia** significantly reduce or eliminate **CO₂ and GHG emissions**
+- **10% of CO₂** compared to VLSFO, while **green ammonia** emits virtually **zero greenhouse gases**.
+- **Green methanol** is a suitable **transitional fuel**
+- Adoption of **green fuels** ensures alignment with **global decarbonisation goals** and helps meet **emission standard**
+- ## **How can India become a global hub for marine green fuel production?**
+- India can leverage existing **coastal industrial zones** to integrate **green fuel production with port logistics**
+- **Mumbai–Pune industrial corridor** near the Jawaharlal Nehru Port
+- By forging **long-term green energy export agreements**
+- **uropean Union’s FuelEU Maritime initiative**
+- Setting up **marine green fuel R&D centres**
+- **Eg:** A dedicated **Marine Energy Innovation Park** in **Visakhapatnam**
+- ## **What are the challenges?**
+- Transitioning to **green fuels** requires **significant investments** in **retrofitting ships**,
+- **Green fuels** like **e-methanol** and **green ammonia** are still **expensive** and **scarce** due to high **renewable electricity**
+- ## **What are the policy and financial tools that are key to scaling green methanol in India?**
+- Government-backed **sovereign guarantees** reduce investment risks
+- **PLI schemes** for **electrolyser manufacturing** help reduce import dependence,
+- **Policy incentives for Carbon Capture, Utilisation, and Storage (CCUS)** make it viable to obtain **CO₂ from industrial sources**
+- ## **In what ways can green fuel shipbuilding boost India’s maritime sector?**
+- Building **green fuel-compatible ships** can generate consistent demand for **Indian shipyards**
+- expertise in green shipbuilding can position India as an **exporter of eco-friendly vessels**
+- can export **hybrid-electric and green methanol-compatible vessels**
+- Green shipbuilding can attract **global OEMs and technology partners**
+- **Denmark – Green Methanol Leadership: Denmark**, through **Maersk**, is leading the global shift to **green methanol-powered shipping**
+- **Japan – Advancing Green Ammonia Shipping: Japan** is pioneering **green ammonia** as a marine fuel with state-backed funding, R&D, and prototype vessels
+- ## **Way forward:**
+- India should establish **green fuel production, bunkering, and shipbuilding hubs**
+- Use **sovereign guarantees, PLI schemes, and international green financing**
