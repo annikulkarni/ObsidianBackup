@@ -1,0 +1,41 @@
+- **May 2025 judgment in** ***Re: Right to Privacy of Adolescents***
+- ## **What about the POCSO Act?**
+- The **Protection of Children from Sexual Offences (POCSO) Act, 2012** is a **comprehensive law** enacted by the Government of India to **protect children (below 18 years)** from **sexual abuse, sexual harassment, and pornography**. It ensures a **child-friendly legal process** and provides for **special courts** to conduct speedy trials.
+- ## **Why is reforming the age of consent under POCSO being debated?**
+- current **age of consent** (**18 years**) under the **POCSO Act** criminalises all **sexual activity involving minors**
+- There is a gap between the **legal framework** and **social realities**,
+- romantic relationships
+- Critics argue that adolescents aged **16–18** are capable of giving **informed consent**
+- **UNCRC’s General Comment No. 20** recommends **non-criminalisation** of **consensual acts between adolescents**
+- ## **How does the 2025 Supreme Court judgment reflect a rights-based approach?**
+- Upholding the Right to Dignity and Autonomy (Article 21):
+- The Court acknowledged the woman’s **emotional and financial struggles**, choosing **not to impose a sentence** on the accused to protect **her well-being and dignity**.
+- The Court acknowledged the **collective failure** of social and legal systems
+- ## **Case study:**
+- Canada sets the **age of consent at 16**, but allows consensual sexual activity between adolescents through **close-in-age exemptions**
+- The **Constitutional Court** ruled that criminalising consensual sex between adolescents aged 12–15 violates their **rights to dignity and privacy**.
+- ## **How can the law better balance adolescent protection with agency? (Way forward)**
+- Laws can **decriminalise consensual relationships** between adolescents close in age
+- Your better version awaits you!
+- Legal provisions should recognise that not all sexual activity involving adolescents is **exploitative**.
+- Courts should ensure that adolescents’ **voices and choices** are considered, especially in determining **intent, coercion, and consent**.
+- Attend Now
+- Post navigation
+- Previous post
+- Next post
+- The U.S. established and extinguished multilateralism
+- \[16th July 2025\] The Hindu Op-ed: How is global shipping trying to decarbonise?
+- JOIN THE COMMUNITY
+- Join us across Social Media platforms.
+- Youtube
+- Facebook
+- Instagram
+- About Civilsdaily
+- Media
+- Careers
+- Important Links
+- Refunds
+- FAQ
+- Terms and Conditions
+- Contact Us
+- Copyright Ⓒ APEIROGON TECHNOLOGIES PRIVATE LIMITED. All rights reserved
