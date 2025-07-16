@@ -1,5 +1,4 @@
 ## **About ADEETIE Scheme:**
-
 - **Launch**: It was launched by the **Ministry of Power** through the **Bureau of Energy Efficiency (BEE)**.
 - **Objective**: It aims to **promote energy efficiency** in **Micro, Small, and Medium Enterprises (MSMEs)** to cut energy consumption, reduce emissions, and enhance competitiveness.
 - **Background**: It builds upon **successful state-level pilots**, such as **decarbonisation projects in Andhra Pradesh’s MSME clusters**.
